@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="ru">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Независимый навигатор MITEX 2026: участники, контакты, анонсы и источники."><title>MITEX 2026 · Навигатор</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<header><a class="brand" href="#catalog">MITEX<span>2026 / НАВИГАТОР</span></a><nav aria-label="Разделы"><a href="#catalog">Участники</a><a href="#program">Программа</a><a href="#feed">Telegram</a><a href="#videos">Видео</a><a href="#items">Новинки</a></nav></header>
+<main>
+<section class="hero"><div><p class="eyebrow">10—13 НОЯБРЯ · КРОКУС ЭКСПО</p><h1>Инструменты.<br>Люди. <em>Связи.</em></h1><p class="lead">Каталог участников и открытые контакты — чтобы подготовиться к MITEX 2026 и найти нужные компании.</p><a class="button" href="#catalog">Открыть каталог ↓</a></div><aside><span class="edition">M / 26</span><p>МОСКОВСКАЯ МЕЖДУНАРОДНАЯ<br>ВЫСТАВКА ИНСТРУМЕНТА</p><p class="hero-note">Независимый проект<br>Локальный прототип</p></aside></section>
+<div class="notice">Выставка ещё впереди. Здесь собраны сведения участников и анонсы; подтверждённые итоги появятся после события.</div>
+<section class="stats" id="stats" aria-label="Охват сбора"></section>
+<section class="workspace"><div class="section-heading"><div><p class="eyebrow" id="section-number">01 / УЧАСТНИКИ</p><h2 id="section-title">Кого найти на выставке</h2></div><a id="export" href="exhibitors.csv" download>Скачать CSV ↗</a></div>
+<div id="filters" class="filters"><label>Поиск по каталогу<input id="search" type="search" placeholder="Компания, инструмент, номер стенда…"></label><label>Страна<select id="country"><option value="">Все страны</option></select></label><label>Контакты<select id="contact"><option value="">Все участники</option><option value="website">Есть сайт</option><option value="Telegram">Есть Telegram</option><option value="email">Есть email</option></select></label><button id="reset" type="button">Сбросить</button></div>
+<p id="result-count" class="muted" aria-live="polite"></p><div id="content"></div><div id="pagination" class="pagination"><button id="prev" type="button">← Назад</button><span id="page-label"></span><button id="next" type="button">Далее →</button></div>
+</section>
+<section class="method"><h2>Откуда берутся данные</h2><div><p>Каталог — снимок официального списка. Контакты собираются из карточек и сайтов компаний. У каждой записи есть ссылка на источник.</p><p id="coverage"></p><p id="updated"></p><a href="https://catalog.mitexpo.ru/expositions/exposition/7054" target="_blank" rel="noopener noreferrer">Официальный каталог ↗</a> · <a href="https://mitexpo.ru/about/venue/" target="_blank" rel="noopener noreferrer">Даты и место ↗</a></div></section>
+</main><footer>MITEX 2026 / Независимый навигатор. Не является официальным сайтом выставки.</footer>
+<script src="data.js"></script><script src="app.js"></script>
+</body></html>
