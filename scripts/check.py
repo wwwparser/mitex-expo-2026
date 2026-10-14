@@ -23,4 +23,16 @@ js=(ROOT/'site/data.js').read_text(encoding='utf-8')
 payload=json.loads(js.removeprefix('window.MITEX_DATA = ').rstrip(';\n'))
 assert len(payload['exhibitors'])==len(records)
 assert payload['program']['events']==[], 'Непроверенная программа не должна попасть в MVP'
+if meta.get('details_checked'):
+    assert meta['details_checked']==len(records), 'Не завершён обход всех карточек'
+    assert all(r['detail_status'] in ('collected','no_contacts','error') for r in records)
+    assert sum(bool(r['website']) for r in records)==meta['companies_with_website']
+    assert all(r['enrichment_status'] in ('collected','unreachable','no_website') for r in records), 'Не завершён обход сайтов'
+    assert sum(any(s['network']=='Telegram' for s in r['contacts']['social']) for r in records)==meta['telegram_companies']
+    assert all(s.get('source_url') for r in records for s in r['contacts']['social']), 'Соцсеть без источника'
+    from openpyxl import load_workbook
+    workbook=load_workbook(ROOT/'site/exhibitors.xlsx',read_only=True,data_only=False)
+    assert workbook.active.max_row==len(records)+1
+    assert not any(cell.data_type=='f' for row in workbook.active for cell in row), 'Нежелательные формулы в контактах'
+    workbook.close()
 print(f'PASS: {len(records)} unique records; UTF-8; coverage; CSV; assets; embedded data; program status')

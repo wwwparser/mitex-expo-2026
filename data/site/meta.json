@@ -5,21 +5,41 @@
   "venue": "МВЦ «Крокус Экспо», павильон №2",
   "date_source": "https://mitexpo.ru/about/venue/",
   "catalog_source": "https://catalog.mitexpo.ru/expositions/exposition/7054",
-  "checked_at": "2026-10-14T08:56:14.119641+00:00",
+  "checked_at": "2026-10-14T10:36:22.267857+00:00",
   "catalog_count": 704,
   "catalog_scope": "Все карточки, возвращённые каталогом через limit=1000 на момент сбора",
-  "details_collected": 11,
-  "sites_enriched": 4,
-  "errors": [
-    {
-      "id": "84488",
-      "name": "A-iPower",
-      "error": "HTTPSConnectionPool(host='www.a-ipower.ru', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)')))"
-    },
-    {
-      "id": "171363",
-      "name": "B2Benchmark",
-      "error": "Не найден блок контактов"
-    }
-  ]
+  "details_collected": 670,
+  "sites_enriched": 399,
+  "errors": [],
+  "details_checked": 704,
+  "website_domains": 572,
+  "sites_attempted": 572,
+  "sites_reachable": 402,
+  "companies_with_website": 567,
+  "companies_without_website": 137,
+  "details_status": {
+    "collected": 670,
+    "no_contacts": 34
+  },
+  "enrichment_status": {
+    "unreachable": 168,
+    "collected": 399,
+    "no_website": 137
+  },
+  "telegram_unique_links": 78,
+  "telegram_companies": 68,
+  "contact_collector": "contact-scraper skill; full catalog; main + up to 6 contact/about pages per domain",
+  "site_pages_requested": 1500,
+  "site_pages_successful": 1321,
+  "sites_partial": 6,
+  "telegram_types": {
+    "channel": 54,
+    "group": 0,
+    "bot": 4,
+    "profile": 13,
+    "unverified": 7
+  },
+  "telegram_channels_confirmed": 54,
+  "direct_attempts": 236,
+  "recovered_without_proxy": 50
 }
