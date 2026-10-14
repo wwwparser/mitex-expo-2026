@@ -1,0 +1,3280 @@
+{
+  "checked_at": "2026-10-14T10:36:22.270856+00:00",
+  "unreachable_sites": [
+    {
+      "website": "https://www.a-ipower.ru",
+      "company": "A-iPower",
+      "pages": [
+        {
+          "url": "https://www.a-ipower.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://kaztactory.kz",
+      "company": "KAZTO",
+      "pages": [
+        {
+          "url": "https://kaztactory.kz",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "http://www.hammermantools.com",
+      "company": "GANDIVA TOOLS INDIA LLP",
+      "pages": [
+        {
+          "url": "http://www.hammermantools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://shtok.ru",
+      "company": "SHTOK.",
+      "pages": [
+        {
+          "url": "https://shtok.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://sv-opt.ru",
+      "company": "SV OPT",
+      "pages": [
+        {
+          "url": "https://sv-opt.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.proopt-nn.ru",
+      "company": "ВекторГрупп, ООО",
+      "pages": [
+        {
+          "url": "https://www.proopt-nn.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.vseinstrumenti.ru",
+      "company": "ВсеИнструменты.РУ, ООО",
+      "pages": [
+        {
+          "url": "https://www.vseinstrumenti.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.garvintools.com",
+      "company": "Гарвин Тулз - Ravi International",
+      "pages": [
+        {
+          "url": "https://www.garvintools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://wintools.su",
+      "company": "ВИНТУЛС, ООО",
+      "pages": [
+        {
+          "url": "https://wintools.su",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.mawipro.ru",
+      "company": "МАВИ-ПРО, ООО",
+      "pages": [
+        {
+          "url": "https://www.mawipro.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.midasot.ru",
+      "company": "МИДАСОТ НПО",
+      "pages": [
+        {
+          "url": "https://www.midasot.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "http://www.optimakers.ru",
+      "company": "МЭЙКЕРС, ООО",
+      "pages": [
+        {
+          "url": "http://www.optimakers.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.rusgeocom.ru",
+      "company": "РУСГЕОКОМ, ООО",
+      "pages": [
+        {
+          "url": "https://www.rusgeocom.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://motosila.by",
+      "company": "СКАНЛИНК, ООО",
+      "pages": [
+        {
+          "url": "https://motosila.by",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.woodwork.ru",
+      "company": "ЦЕНТР РЕЖУЩЕГО ИНСТРУМЕНТА - ООО 'ЦРИ' / CRI LLC",
+      "pages": [
+        {
+          "url": "https://www.woodwork.ru",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.amm-machinery.com",
+      "company": "CHONGQING AMM MACHINERY MANUFACTURING CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.amm-machinery.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cqkeye.com",
+      "company": "Chongqing Keye Power Machinery Manufacture Co.,Ltd.",
+      "pages": [
+        {
+          "url": "https://www.cqkeye.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.goodmachines.cn",
+      "company": "CHONGQING HONGMEI TECHNOLOGY CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.goodmachines.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "http://www.kingcattle.cn",
+      "company": "Changzhou Kingcattle Abrasive Co., Ltd",
+      "pages": [
+        {
+          "url": "http://www.kingcattle.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.aimaagro.cn",
+      "company": "CHONGQING WUGU POWER EQUIPMENTCO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.aimaagro.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.shenyuantool.com",
+      "company": "Cixi Shenyuan Tool Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.shenyuantool.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cqmeidoing.com",
+      "company": "Chongqing Meidoing Machinery Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.cqmeidoing.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cendatools.com",
+      "company": "DANYANG CENDA TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.cendatools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.huandetools.com",
+      "company": "DANYANG HUANDE TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.huandetools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.wetraxn.com",
+      "company": "Chongqing Weiwang Machinery Manufacturing Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.wetraxn.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cqengins.com",
+      "company": "Chongqing yunjie ruineng technology co., ltd",
+      "pages": [
+        {
+          "url": "https://www.cqengins.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://WWW.SKYTOOLS.COM.CN",
+      "company": "Danyang Sky Tools Co., Ltd",
+      "pages": [
+        {
+          "url": "https://WWW.SKYTOOLS.COM.CN",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.fangda-tools.com",
+      "company": "FANGDA HOLDING CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.fangda-tools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.dare-power.com",
+      "company": "Dare-Power Tools(Danyang) Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.dare-power.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cnsdstripsteel.com",
+      "company": "Fengcheng Shunda Strip Steel Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.cnsdstripsteel.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.chinaairtool.com/www.freemantools.com",
+      "company": "GLOBAL LINK (SHANGHAI) CO., LTD.",
+      "pages": [
+        {
+          "url": "https://www.chinaairtool.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.meitaitools.com",
+      "company": "danyang meitai tools co.,ltd",
+      "pages": [
+        {
+          "url": "https://www.meitaitools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://tebon.net.cn",
+      "company": "Guilin Tebon Superhard Material Co., Ltd",
+      "pages": [
+        {
+          "url": "https://tebon.net.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.everforce.cn",
+      "company": "FUZHOU EVERFORCE INTERNATIONAL TRADING LTD",
+      "pages": [
+        {
+          "url": "https://www.everforce.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.kingou.com.cn",
+      "company": "GUANGDONG QIANG JIN JIU MACHINERY CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.kingou.com.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jshqtools.com",
+      "company": "Hantronic Diamond Industrial Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.jshqtools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.flexpro-abrasive.com",
+      "company": "HANGZHOU FLEXPRO TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.flexpro-abrasive.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.sottsnail.com",
+      "company": "HEBEI SONGNAN TECHNOLOGY CO., LTD.",
+      "pages": [
+        {
+          "url": "https://www.sottsnail.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.anweijs.com",
+      "company": "Hangzhou WELL Helen Import & Export Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.anweijs.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.automotivetools.cn",
+      "company": "HENAN AOTIAN MACHINAERY CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.automotivetools.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://WWW.LIHUAQZJX.COM",
+      "company": "HEBEI LIHUA HOISTING MACHINERY MANUFACTURING CO.,LTD",
+      "pages": [
+        {
+          "url": "https://WWW.LIHUAQZJX.COM",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.dg-tools.cn",
+      "company": "HENAN DAGUANG IMPORT & EXPORT CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.dg-tools.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.sup-abrasives.com",
+      "company": "HENAN MINGYI NEW MATERIAL TECHNOLOGY COMPANY.LTD",
+      "pages": [
+        {
+          "url": "https://www.sup-abrasives.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://WWW.ZJFENGMANG.COM",
+      "company": "JIANGSU FENGMANG COMPOUND MATERIAL SCIENCE & TECH GROUP CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://WWW.ZJFENGMANG.COM",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.dongcheng-tools.com",
+      "company": "Jiangsu Dongcheng Import and Export Trade Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.dongcheng-tools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.toolstart.cn",
+      "company": "Jiangsu Dongtai I/E Co.Ltd.",
+      "pages": [
+        {
+          "url": "https://www.toolstart.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.china-xiangying.com",
+      "company": "JIANGSU XIANGYING INTELLIGENT EQUIPMENT CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.china-xiangying.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jsjltools.com",
+      "company": "JIANGSU JINXINLONG TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.jsjltools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.youmeitools.com",
+      "company": "JIANGSU YOUMEI TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.youmeitools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jyjingling.cn",
+      "company": "JIANGYIN JINGLING DIAMOND ABRASIVES TOOLS FACTORY",
+      "pages": [
+        {
+          "url": "https://www.jyjingling.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.dndgarden.com",
+      "company": "Jin Hua D&D Garden Tools Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.dndgarden.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://WWW.YOUHETOO.COM",
+      "company": "JIANGSU YOUHE TOOL MANUFACTURER CO., LTD.",
+      "pages": [
+        {
+          "url": "https://WWW.YOUHETOO.COM",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jxchgj.com",
+      "company": "Jiangxi Chuanghui Tools Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.jxchgj.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.zonpn.com",
+      "company": "Jiangxi Zhongpin Tools Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.zonpn.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.ordg.net",
+      "company": "Jiangyin Ordg Trading Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.ordg.net",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.zmdtools.com",
+      "company": "JINYUN ZHONGMEIDA TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.zmdtools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.glarystep.com",
+      "company": "Jinhua Glarystep Tools Manufacture Co.,Ltd.",
+      "pages": [
+        {
+          "url": "https://www.glarystep.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.caulkgunbase.com",
+      "company": "JINHUA LUCK USE TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.caulkgunbase.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://en.jushenrope.com",
+      "company": "Jushen Rope Co.,Ltd.",
+      "pages": [
+        {
+          "url": "https://en.jushenrope.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.kforcetools.com",
+      "company": "KINGFORCE POWER TOOLS CO., LTD.",
+      "pages": [
+        {
+          "url": "https://www.kforcetools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.ykjiuding.cn.1688.com",
+      "company": "JIUDING JUSHENG",
+      "pages": [
+        {
+          "url": "https://www.ykjiuding.cn.1688.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.lanboomhose.com",
+      "company": "LANBOOM POLYMER (JIANGSU) CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.lanboomhose.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.ken-tools.com",
+      "company": "KEN HOLDING CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.ken-tools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.chinavise.com",
+      "company": "Laizhou Hongyuan Bench Vice Manufacture Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.chinavise.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://en.lkrope.com",
+      "company": "Leader Wire Rope Technology Jiangsu Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://en.lkrope.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.orientcraft-abrasives.com",
+      "company": "Lianyungang Orientcraft Abrasives Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.orientcraft-abrasives.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cmtool.cn",
+      "company": "NANTONG CHUANGMING POWER-OPERATED TOOLS CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.cmtool.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.metalpowercn.com",
+      "company": "Nantong Metalpower Industries Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.metalpowercn.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.njnuochun.com",
+      "company": "Nanjing Nuochun Hardware CO.,Ltd(Nails）",
+      "pages": [
+        {
+          "url": "https://www.njnuochun.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.powertooljoy.com",
+      "company": "Nanjing Tuowei Hardware Technology Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.powertooljoy.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cresttools.com",
+      "company": "Ningbo Crest Tools Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.cresttools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.ntsunv.com",
+      "company": "Nantong Sanv Mechanic & Electronic Technology Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.ntsunv.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.fusle.net",
+      "company": "Ningbo Fusle Mechanical Manufacturing Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.fusle.net",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.engildtool.com",
+      "company": "NINGBO ENGILD MEASURING TOOLS CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.engildtool.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.kdl-tools.com",
+      "company": "Ningbo Kontory Machinery Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.kdl-tools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.aeroforcetools.com",
+      "company": "Ningbo The Best Partner Tools Manufacture Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.aeroforcetools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.panyigarden.com",
+      "company": "NINGBO PANYI GARDEN TOOLS CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.panyigarden.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.youtuotools.com",
+      "company": "NINGBO YOUTUO TOOLS CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.youtuotools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.duweivices.com",
+      "company": "Qingdao Huawei Tools & Hardware Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.duweivices.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.nbmtach-light.com",
+      "company": "NINGBO MATCH-LIGHT HARDWARE CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.nbmtach-light.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.okspoly.cn",
+      "company": "QINGDAO OKS POLY CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.okspoly.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.304caster.com",
+      "company": "RED DRAGON(GUANGDONG)METAL PRODUCTS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.304caster.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.myhomeshine.cn",
+      "company": "QINGDAO HOMESHINE INTERNATIONAL TRADING CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.myhomeshine.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.foreverscale.com",
+      "company": "RUIJIN YONGHENG ELECTRONIC WEIGHING APPARATUS CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.foreverscale.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.rimoo.com.cn",
+      "company": "Rimoo (Foshan) Electrical Appliance Tech Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.rimoo.com.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.hanshengtools.cn",
+      "company": "Rizhao Hansheng Industrial & Trading Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.hanshengtools.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.yuedafastener.com",
+      "company": "Shanghai Yueda Nails Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.yuedafastener.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.CHNbestor.com",
+      "company": "SHANDONG BESTOR GARDEN MACHINERY CO., LTD.",
+      "pages": [
+        {
+          "url": "https://www.CHNbestor.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.sdjnhx.com.",
+      "company": "Shandong Huimin Jinniu Chemical Fiber Products Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.sdjnhx.com.",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.allmax.com.cn",
+      "company": "shaoxing city huili hardware co.,ltd",
+      "pages": [
+        {
+          "url": "https://www.allmax.com.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.lanbotools.com",
+      "company": "Shanghai Lanbo Industrial Co., LTD",
+      "pages": [
+        {
+          "url": "https://www.lanbotools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.wallties.cn",
+      "company": "SHIJIAZHUANG FULL STAR METAL PRODUCT CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.wallties.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.kemingtools.com",
+      "company": "Shangqiu Keming Industrial & Measuring Tools Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.kemingtools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cnpandora.com",
+      "company": "Taizhou City Chunfeng Machinery Co.,Ltd.",
+      "pages": [
+        {
+          "url": "https://www.cnpandora.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://WWW.TZFEIDA.COM",
+      "company": "TAIZHOU FEIDA MACHINE TOOL CO., LTD",
+      "pages": [
+        {
+          "url": "https://WWW.TZFEIDA.COM",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.olinda.cc",
+      "company": "Taizhou City Hangyu Plastic Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.olinda.cc",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jifengtools.com",
+      "company": "SHIJIAZHUANG JIFENG DIAMOND TOOLS CO., LTD.",
+      "pages": [
+        {
+          "url": "https://www.jifengtools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cn-mdb.com",
+      "company": "Taizhou MDB Adhesive Material Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.cn-mdb.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.henco-glue.cn",
+      "company": "TAIZHOU HENCO-GLUE CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.henco-glue.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.kaifengsg.comwww.kunfunsprayer.com",
+      "company": "Taizhou Kaifeng plastic and steel Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.kaifengsg.comwww.kunfunsprayer.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.wolfsonpump.com",
+      "company": "TAIZHOU WOFUSEN PUMP CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.wolfsonpump.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.sgstools.cn",
+      "company": "TAIZHOU KESUO TRADE CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.sgstools.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cn-cableties.com",
+      "company": "WENZHOU LONGHUA DAILY ELECTRON CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.cn-cableties.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.Icebridgewelding.com",
+      "company": "TAIZHOU YANGWEI TRADE CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.Icebridgewelding.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.kdrivet.com",
+      "company": "TIANCHANG FASTENER SYSTEM CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.kdrivet.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cordless-tools.cn",
+      "company": "WUYI S-LONG HARDWARES CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.cordless-tools.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.weiduntools.com",
+      "company": "Wuyi Xinxie Industry and Trade Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.weiduntools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.51hj.com.cn",
+      "company": "Wuxi Hengju Supply Chain Management Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.51hj.com.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.kebonglifting.com",
+      "company": "Wuxi KeBong Lifting Machinery Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.kebonglifting.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.synletek.com",
+      "company": "Wuxi synletek Precision Technology Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.synletek.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.hanchuantools.com",
+      "company": "WUYI CHUANGFENG TOOLS MANUFACTURE CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.hanchuantools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.hoyoa.com.cn",
+      "company": "Xuzhou Hengyuan Electrical Appliances Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.hoyoa.com.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.xz-jlzz.com",
+      "company": "XUZHOU JULI TOOLS MAKING CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.xz-jlzz.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.yajatool.com",
+      "company": "YAJA POWER TOOL CO.LTD",
+      "pages": [
+        {
+          "url": "https://www.yajatool.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.abletools.com.cn",
+      "company": "YANCHENG TIANDI INTERNATIONAL TRADE CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.abletools.com.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.alotsport.com",
+      "company": "YongKang Beiluo Tools Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.alotsport.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://jingdubrush.com",
+      "company": "Yangzhou Cheng Rui Bristle Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://jingdubrush.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.yintetools.com",
+      "company": "YINTE TOOLS （NIGNBO) CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.yintetools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.arges.com.cn",
+      "company": "YONGKANG HEBANG TOOLS CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.arges.com.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.china-zhongyou.com",
+      "company": "YONGKANG FENGRAN INDUSTRY AND TRADE CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.china-zhongyou.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jiaqitool.com",
+      "company": "YONGKANG JIAQI TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.jiaqitool.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.longmaswitch.com",
+      "company": "YONGKANG LONGMA SWITCH FACTORY",
+      "pages": [
+        {
+          "url": "https://www.longmaswitch.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jingketools.com",
+      "company": "Yongkang Jingke Industry and Trade Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.jingketools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.shiningcn.net",
+      "company": "Yongkang Shining Industry & Trade Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.shiningcn.net",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.kaibang.com",
+      "company": "YONGKANG KAIBANG TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.kaibang.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.regaltools.com",
+      "company": "YONGKANG REGAL TOOLS CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.regaltools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://suabutool.com",
+      "company": "YongKang ShuaiBiao Tools Co., Ltd",
+      "pages": [
+        {
+          "url": "https://suabutool.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.ykhard.com",
+      "company": "YONGKANG STANFORD IMP&EXP.Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.ykhard.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.youlimachine.com",
+      "company": "YOULI ELECTRIC AND MACHINE CO., LTD.",
+      "pages": [
+        {
+          "url": "https://www.youlimachine.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.tenytools.com",
+      "company": "Yucheng Teny Measure Tools Co., Ltd.",
+      "pages": [
+        {
+          "url": "https://www.tenytools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.zhengfa.cn",
+      "company": "YONGKANG ZHENGFA INDUSTRIAL & TRADING CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.zhengfa.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.yyjuxin.com",
+      "company": "YUYAO JUXIN TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.yyjuxin.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.runjiatools.com",
+      "company": "YUCHENG RUNJIA MEASURING TOOLS CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.runjiatools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jiahuatoolbox.com",
+      "company": "YUYAO JIAHUA TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.jiahuatoolbox.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.th-tools.com",
+      "company": "ZHANGJIAGANG TIANHUA HARDWARE CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.th-tools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.massytools.com",
+      "company": "ZHEJIANG BODA MEASURE TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.massytools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.digimeter.com",
+      "company": "ZHANGZHOU HUAYI ELECTRONICS CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.digimeter.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.dongyagroup.com",
+      "company": "Zhejiang Dongya Facility Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.dongyagroup.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.df-pneumatic.com",
+      "company": "Zhejiang East Pneumatic Machinery Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.df-pneumatic.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://WWW.CNHANGBO.COM",
+      "company": "ZHEJIANG HANGBO POWER TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://WWW.CNHANGBO.COM",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cngreatbull.com",
+      "company": "Zhejiang Greatbull Industry & Trade Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.cngreatbull.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.hausystools.com",
+      "company": "ZHEJIANG HAUSYS TECHNOLOGY CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.hausystools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.hongzhengtools.com",
+      "company": "ZHEJIANG HONGZHENG INDUSTRIAL & TRADE CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.hongzhengtools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.deshitools.com",
+      "company": "ZHEJIANG DESHUO ELECTRIC APPLIANCE CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.deshitools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.runchn.com",
+      "company": "ZHEJIANG JINHUA RUNCHN TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.runchn.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.guanxinchina.com",
+      "company": "Zhejiang Guanxin Cleaning Equipment Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.guanxinchina.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jujuchem.com",
+      "company": "ZHEJIANG JIUERJIU CHEMICALS CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.jujuchem.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.lctools.cn",
+      "company": "ZHEJIANG LICHANG PRECISION MACHINERY CO LTD",
+      "pages": [
+        {
+          "url": "https://www.lctools.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.haodatool.com",
+      "company": "ZHEJIANG HAODA TOOLS MANUFACTURE CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.haodatool.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.kakeiproducts.com",
+      "company": "ZHEJIANG KARUI MACHINERY CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.kakeiproducts.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.cnmicade.com",
+      "company": "ZHEJIANG MICADE INDUSTRY AND TRADE CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.cnmicade.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jyscroll.com",
+      "company": "ZHEJIANG JIAYANG MACHINERY CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.jyscroll.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.sunor.cn",
+      "company": "ZHEJIANG LONGYARD INDUSTRY&TRADE CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.sunor.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.deliladder.com",
+      "company": "Zhejiang Yongan Deli Industry & Trade Co., Ltd",
+      "pages": [
+        {
+          "url": "https://www.deliladder.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.youmayladder.com",
+      "company": "ZHEJIANG YOUMAY INDUSTRY CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.youmayladder.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.zjtengyun.en.alibaba.comwww.tengyunchn.com",
+      "company": "ZHEJIANG TENGYUN MECHANICAL AND ELECTRICAL TECHNOLOGY CO LTD",
+      "pages": [
+        {
+          "url": "https://www.zjtengyun.en.alibaba.comwww.tengyunchn.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.yushengtools.com",
+      "company": "ZHEJIANG YUSHENG TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.yushengtools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.yakexicn.com",
+      "company": "ZHEJIANG YAKEXI ABRASIVES CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.yakexicn.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.yfpower.com",
+      "company": "ZHEJIANG YAOFENG POWER TECHNOLOGY CO.,LTD",
+      "pages": [
+        {
+          "url": "https://www.yfpower.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.zoboheater.com",
+      "company": "Zhejiang ZOBO Technology Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.zoboheater.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.baidetools.com",
+      "company": "ZHENJIANG BAIDE PRECISION TOOLS CO.,LTD.",
+      "pages": [
+        {
+          "url": "https://www.baidetools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://WWW.RPOSTARCN.COM",
+      "company": "ZHENJIANG HI-FUN CORPORATION",
+      "pages": [
+        {
+          "url": "https://WWW.RPOSTARCN.COM",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.jesdtools.com",
+      "company": "ZHENJIANG JESDA IMPORT AND EXPORT CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.jesdtools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.juyoute-toois.com",
+      "company": "zhenjiang Juyoute Precision tools co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.juyoute-toois.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.elitopcn.com",
+      "company": "ZHENJIANG TRUMY INDUSTRIAL CO., LTD.",
+      "pages": [
+        {
+          "url": "https://www.elitopcn.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.zttools.cn",
+      "company": "Zhuotuo Precision Tools(suzhou) Co.,Ltd",
+      "pages": [
+        {
+          "url": "https://www.zttools.cn",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://binicabrasive.com",
+      "company": "SHANGHAI BINIC INDUSTRIAL CO.,LTD",
+      "pages": [
+        {
+          "url": "https://binicabrasive.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://bsptools.com",
+      "company": "SHANGHAI BINIC INDUSTRIAL CO.,LTD",
+      "pages": [
+        {
+          "url": "https://bsptools.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "http://www.magnettool.com",
+      "company": "PUJIANG QIUJING HARDWARE TOOLS CO.,LTD",
+      "pages": [
+        {
+          "url": "http://www.magnettool.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    },
+    {
+      "website": "https://www.panergymachinery.com",
+      "company": "TAIZHOU BOYU TRADING CO., LTD",
+      "pages": [
+        {
+          "url": "https://www.panergymachinery.com",
+          "success": false
+        }
+      ],
+      "error": "Главная страница не получена"
+    }
+  ],
+  "failed_pages": [
+    {
+      "website": "https://www.a-ipower.ru",
+      "url": "https://www.a-ipower.ru"
+    },
+    {
+      "website": "https://www.condtrol.ru",
+      "url": "https://www.condtrol.ru/contacts/stores/"
+    },
+    {
+      "website": "https://kaztactory.kz",
+      "url": "https://kaztactory.kz"
+    },
+    {
+      "website": "http://www.hammermantools.com",
+      "url": "http://www.hammermantools.com"
+    },
+    {
+      "website": "https://shtok.ru",
+      "url": "https://shtok.ru"
+    },
+    {
+      "website": "https://sv-opt.ru",
+      "url": "https://sv-opt.ru"
+    },
+    {
+      "website": "https://www.proopt-nn.ru",
+      "url": "https://www.proopt-nn.ru"
+    },
+    {
+      "website": "https://www.vseinstrumenti.ru",
+      "url": "https://www.vseinstrumenti.ru"
+    },
+    {
+      "website": "https://www.garvintools.com",
+      "url": "https://www.garvintools.com"
+    },
+    {
+      "website": "https://wintools.su",
+      "url": "https://wintools.su"
+    },
+    {
+      "website": "https://www.mawipro.ru",
+      "url": "https://www.mawipro.ru"
+    },
+    {
+      "website": "https://www.midasot.ru",
+      "url": "https://www.midasot.ru"
+    },
+    {
+      "website": "http://www.optimakers.ru",
+      "url": "http://www.optimakers.ru"
+    },
+    {
+      "website": "https://tdaksel.ru",
+      "url": "https://tdaksel.ru/company/"
+    },
+    {
+      "website": "https://tdaksel.ru",
+      "url": "https://tdaksel.ru/contacts/"
+    },
+    {
+      "website": "https://pdsar.biz",
+      "url": "https://pdsar.biz/contact.html"
+    },
+    {
+      "website": "https://www.rusgeocom.ru",
+      "url": "https://www.rusgeocom.ru"
+    },
+    {
+      "website": "https://motosila.by",
+      "url": "https://motosila.by"
+    },
+    {
+      "website": "https://www.woodwork.ru",
+      "url": "https://www.woodwork.ru"
+    },
+    {
+      "website": "https://abralion.com",
+      "url": "https://abralion.com/o-kompanii.html"
+    },
+    {
+      "website": "https://abralion.com",
+      "url": "https://abralion.com/kontakty.html"
+    },
+    {
+      "website": "https://www.amm-machinery.com",
+      "url": "https://www.amm-machinery.com"
+    },
+    {
+      "website": "https://www.cqkeye.com",
+      "url": "https://www.cqkeye.com"
+    },
+    {
+      "website": "https://www.goodmachines.cn",
+      "url": "https://www.goodmachines.cn"
+    },
+    {
+      "website": "http://www.kingcattle.cn",
+      "url": "http://www.kingcattle.cn"
+    },
+    {
+      "website": "https://www.aimaagro.cn",
+      "url": "https://www.aimaagro.cn"
+    },
+    {
+      "website": "https://www.shenyuantool.com",
+      "url": "https://www.shenyuantool.com"
+    },
+    {
+      "website": "https://www.cqmeidoing.com",
+      "url": "https://www.cqmeidoing.com"
+    },
+    {
+      "website": "https://www.cendatools.com",
+      "url": "https://www.cendatools.com"
+    },
+    {
+      "website": "https://www.huandetools.com",
+      "url": "https://www.huandetools.com"
+    },
+    {
+      "website": "https://www.wetraxn.com",
+      "url": "https://www.wetraxn.com"
+    },
+    {
+      "website": "https://www.cqengins.com",
+      "url": "https://www.cqengins.com"
+    },
+    {
+      "website": "https://WWW.SKYTOOLS.COM.CN",
+      "url": "https://WWW.SKYTOOLS.COM.CN"
+    },
+    {
+      "website": "https://www.fangda-tools.com",
+      "url": "https://www.fangda-tools.com"
+    },
+    {
+      "website": "https://www.dare-power.com",
+      "url": "https://www.dare-power.com"
+    },
+    {
+      "website": "https://www.cnsdstripsteel.com",
+      "url": "https://www.cnsdstripsteel.com"
+    },
+    {
+      "website": "https://www.chinaairtool.com/www.freemantools.com",
+      "url": "https://www.chinaairtool.com"
+    },
+    {
+      "website": "https://www.meitaitools.com",
+      "url": "https://www.meitaitools.com"
+    },
+    {
+      "website": "https://tebon.net.cn",
+      "url": "https://tebon.net.cn"
+    },
+    {
+      "website": "https://www.everforce.cn",
+      "url": "https://www.everforce.cn"
+    },
+    {
+      "website": "https://www.kingou.com.cn",
+      "url": "https://www.kingou.com.cn"
+    },
+    {
+      "website": "https://www.jshqtools.com",
+      "url": "https://www.jshqtools.com"
+    },
+    {
+      "website": "https://www.flexpro-abrasive.com",
+      "url": "https://www.flexpro-abrasive.com"
+    },
+    {
+      "website": "https://www.sottsnail.com",
+      "url": "https://www.sottsnail.com"
+    },
+    {
+      "website": "https://www.anweijs.com",
+      "url": "https://www.anweijs.com"
+    },
+    {
+      "website": "https://www.automotivetools.cn",
+      "url": "https://www.automotivetools.cn"
+    },
+    {
+      "website": "https://WWW.LIHUAQZJX.COM",
+      "url": "https://WWW.LIHUAQZJX.COM"
+    },
+    {
+      "website": "https://www.dg-tools.cn",
+      "url": "https://www.dg-tools.cn"
+    },
+    {
+      "website": "https://www.sup-abrasives.com",
+      "url": "https://www.sup-abrasives.com"
+    },
+    {
+      "website": "https://WWW.ZJFENGMANG.COM",
+      "url": "https://WWW.ZJFENGMANG.COM"
+    },
+    {
+      "website": "https://www.dongcheng-tools.com",
+      "url": "https://www.dongcheng-tools.com"
+    },
+    {
+      "website": "https://www.toolstart.cn",
+      "url": "https://www.toolstart.cn"
+    },
+    {
+      "website": "https://www.toolsalon.com",
+      "url": "https://www.toolsalon.com/AboutUs.aspx"
+    },
+    {
+      "website": "https://www.toolsalon.com",
+      "url": "https://www.toolsalon.com/ContactUs.aspx"
+    },
+    {
+      "website": "https://www.china-xiangying.com",
+      "url": "https://www.china-xiangying.com"
+    },
+    {
+      "website": "https://www.jsjltools.com",
+      "url": "https://www.jsjltools.com"
+    },
+    {
+      "website": "https://www.youmeitools.com",
+      "url": "https://www.youmeitools.com"
+    },
+    {
+      "website": "https://www.jyjingling.cn",
+      "url": "https://www.jyjingling.cn"
+    },
+    {
+      "website": "https://www.dndgarden.com",
+      "url": "https://www.dndgarden.com"
+    },
+    {
+      "website": "https://WWW.YOUHETOO.COM",
+      "url": "https://WWW.YOUHETOO.COM"
+    },
+    {
+      "website": "https://www.jxchgj.com",
+      "url": "https://www.jxchgj.com"
+    },
+    {
+      "website": "https://www.zonpn.com",
+      "url": "https://www.zonpn.com"
+    },
+    {
+      "website": "https://www.ordg.net",
+      "url": "https://www.ordg.net"
+    },
+    {
+      "website": "https://www.zmdtools.com",
+      "url": "https://www.zmdtools.com"
+    },
+    {
+      "website": "https://www.glarystep.com",
+      "url": "https://www.glarystep.com"
+    },
+    {
+      "website": "https://www.caulkgunbase.com",
+      "url": "https://www.caulkgunbase.com"
+    },
+    {
+      "website": "https://en.jushenrope.com",
+      "url": "https://en.jushenrope.com"
+    },
+    {
+      "website": "https://www.kforcetools.com",
+      "url": "https://www.kforcetools.com"
+    },
+    {
+      "website": "https://www.ykjiuding.cn.1688.com",
+      "url": "https://www.ykjiuding.cn.1688.com"
+    },
+    {
+      "website": "https://www.lanboomhose.com",
+      "url": "https://www.lanboomhose.com"
+    },
+    {
+      "website": "https://www.ken-tools.com",
+      "url": "https://www.ken-tools.com"
+    },
+    {
+      "website": "https://www.chinavise.com",
+      "url": "https://www.chinavise.com"
+    },
+    {
+      "website": "https://en.lkrope.com",
+      "url": "https://en.lkrope.com"
+    },
+    {
+      "website": "https://www.orientcraft-abrasives.com",
+      "url": "https://www.orientcraft-abrasives.com"
+    },
+    {
+      "website": "https://www.cmtool.cn",
+      "url": "https://www.cmtool.cn"
+    },
+    {
+      "website": "https://www.metalpowercn.com",
+      "url": "https://www.metalpowercn.com"
+    },
+    {
+      "website": "https://www.njnuochun.com",
+      "url": "https://www.njnuochun.com"
+    },
+    {
+      "website": "https://www.powertooljoy.com",
+      "url": "https://www.powertooljoy.com"
+    },
+    {
+      "website": "https://www.cresttools.com",
+      "url": "https://www.cresttools.com"
+    },
+    {
+      "website": "https://www.ntsunv.com",
+      "url": "https://www.ntsunv.com"
+    },
+    {
+      "website": "https://www.fusle.net",
+      "url": "https://www.fusle.net"
+    },
+    {
+      "website": "https://www.engildtool.com",
+      "url": "https://www.engildtool.com"
+    },
+    {
+      "website": "https://www.kdl-tools.com",
+      "url": "https://www.kdl-tools.com"
+    },
+    {
+      "website": "https://www.aeroforcetools.com",
+      "url": "https://www.aeroforcetools.com"
+    },
+    {
+      "website": "https://www.panyigarden.com",
+      "url": "https://www.panyigarden.com"
+    },
+    {
+      "website": "https://www.youtuotools.com",
+      "url": "https://www.youtuotools.com"
+    },
+    {
+      "website": "https://www.duweivices.com",
+      "url": "https://www.duweivices.com"
+    },
+    {
+      "website": "https://www.nbmtach-light.com",
+      "url": "https://www.nbmtach-light.com"
+    },
+    {
+      "website": "https://www.okspoly.cn",
+      "url": "https://www.okspoly.cn"
+    },
+    {
+      "website": "https://www.304caster.com",
+      "url": "https://www.304caster.com"
+    },
+    {
+      "website": "https://www.myhomeshine.cn",
+      "url": "https://www.myhomeshine.cn"
+    },
+    {
+      "website": "https://www.foreverscale.com",
+      "url": "https://www.foreverscale.com"
+    },
+    {
+      "website": "https://www.rimoo.com.cn",
+      "url": "https://www.rimoo.com.cn"
+    },
+    {
+      "website": "https://www.hanshengtools.cn",
+      "url": "https://www.hanshengtools.cn"
+    },
+    {
+      "website": "https://www.yuedafastener.com",
+      "url": "https://www.yuedafastener.com"
+    },
+    {
+      "website": "https://www.CHNbestor.com",
+      "url": "https://www.CHNbestor.com"
+    },
+    {
+      "website": "https://www.sdjnhx.com.",
+      "url": "https://www.sdjnhx.com."
+    },
+    {
+      "website": "https://www.allmax.com.cn",
+      "url": "https://www.allmax.com.cn"
+    },
+    {
+      "website": "https://www.lanbotools.com",
+      "url": "https://www.lanbotools.com"
+    },
+    {
+      "website": "https://www.wallties.cn",
+      "url": "https://www.wallties.cn"
+    },
+    {
+      "website": "https://www.kemingtools.com",
+      "url": "https://www.kemingtools.com"
+    },
+    {
+      "website": "https://www.cnpandora.com",
+      "url": "https://www.cnpandora.com"
+    },
+    {
+      "website": "https://WWW.TZFEIDA.COM",
+      "url": "https://WWW.TZFEIDA.COM"
+    },
+    {
+      "website": "https://www.olinda.cc",
+      "url": "https://www.olinda.cc"
+    },
+    {
+      "website": "https://www.jifengtools.com",
+      "url": "https://www.jifengtools.com"
+    },
+    {
+      "website": "https://www.cn-mdb.com",
+      "url": "https://www.cn-mdb.com"
+    },
+    {
+      "website": "https://www.henco-glue.cn",
+      "url": "https://www.henco-glue.cn"
+    },
+    {
+      "website": "https://www.kaifengsg.comwww.kunfunsprayer.com",
+      "url": "https://www.kaifengsg.comwww.kunfunsprayer.com"
+    },
+    {
+      "website": "https://www.wolfsonpump.com",
+      "url": "https://www.wolfsonpump.com"
+    },
+    {
+      "website": "https://www.sgstools.cn",
+      "url": "https://www.sgstools.cn"
+    },
+    {
+      "website": "https://www.cn-cableties.com",
+      "url": "https://www.cn-cableties.com"
+    },
+    {
+      "website": "https://www.Icebridgewelding.com",
+      "url": "https://www.Icebridgewelding.com"
+    },
+    {
+      "website": "https://www.kdrivet.com",
+      "url": "https://www.kdrivet.com"
+    },
+    {
+      "website": "https://www.cordless-tools.cn",
+      "url": "https://www.cordless-tools.cn"
+    },
+    {
+      "website": "https://www.weiduntools.com",
+      "url": "https://www.weiduntools.com"
+    },
+    {
+      "website": "https://www.51hj.com.cn",
+      "url": "https://www.51hj.com.cn"
+    },
+    {
+      "website": "https://www.kebonglifting.com",
+      "url": "https://www.kebonglifting.com"
+    },
+    {
+      "website": "https://www.synletek.com",
+      "url": "https://www.synletek.com"
+    },
+    {
+      "website": "https://www.hanchuantools.com",
+      "url": "https://www.hanchuantools.com"
+    },
+    {
+      "website": "https://www.hoyoa.com.cn",
+      "url": "https://www.hoyoa.com.cn"
+    },
+    {
+      "website": "https://www.xz-jlzz.com",
+      "url": "https://www.xz-jlzz.com"
+    },
+    {
+      "website": "https://www.yajatool.com",
+      "url": "https://www.yajatool.com"
+    },
+    {
+      "website": "https://www.abletools.com.cn",
+      "url": "https://www.abletools.com.cn"
+    },
+    {
+      "website": "https://www.alotsport.com",
+      "url": "https://www.alotsport.com"
+    },
+    {
+      "website": "https://jingdubrush.com",
+      "url": "https://jingdubrush.com"
+    },
+    {
+      "website": "https://www.yintetools.com",
+      "url": "https://www.yintetools.com"
+    },
+    {
+      "website": "https://www.arges.com.cn",
+      "url": "https://www.arges.com.cn"
+    },
+    {
+      "website": "https://www.china-zhongyou.com",
+      "url": "https://www.china-zhongyou.com"
+    },
+    {
+      "website": "https://www.jiaqitool.com",
+      "url": "https://www.jiaqitool.com"
+    },
+    {
+      "website": "https://www.longmaswitch.com",
+      "url": "https://www.longmaswitch.com"
+    },
+    {
+      "website": "https://www.jingketools.com",
+      "url": "https://www.jingketools.com"
+    },
+    {
+      "website": "https://www.shiningcn.net",
+      "url": "https://www.shiningcn.net"
+    },
+    {
+      "website": "https://www.kaibang.com",
+      "url": "https://www.kaibang.com"
+    },
+    {
+      "website": "https://www.regaltools.com",
+      "url": "https://www.regaltools.com"
+    },
+    {
+      "website": "https://suabutool.com",
+      "url": "https://suabutool.com"
+    },
+    {
+      "website": "https://www.ykhard.com",
+      "url": "https://www.ykhard.com"
+    },
+    {
+      "website": "https://www.youlimachine.com",
+      "url": "https://www.youlimachine.com"
+    },
+    {
+      "website": "https://www.tenytools.com",
+      "url": "https://www.tenytools.com"
+    },
+    {
+      "website": "https://www.zhengfa.cn",
+      "url": "https://www.zhengfa.cn"
+    },
+    {
+      "website": "https://www.yyjuxin.com",
+      "url": "https://www.yyjuxin.com"
+    },
+    {
+      "website": "https://www.runjiatools.com",
+      "url": "https://www.runjiatools.com"
+    },
+    {
+      "website": "https://www.jiahuatoolbox.com",
+      "url": "https://www.jiahuatoolbox.com"
+    },
+    {
+      "website": "https://www.th-tools.com",
+      "url": "https://www.th-tools.com"
+    },
+    {
+      "website": "https://www.massytools.com",
+      "url": "https://www.massytools.com"
+    },
+    {
+      "website": "https://www.digimeter.com",
+      "url": "https://www.digimeter.com"
+    },
+    {
+      "website": "https://www.dongyagroup.com",
+      "url": "https://www.dongyagroup.com"
+    },
+    {
+      "website": "https://www.df-pneumatic.com",
+      "url": "https://www.df-pneumatic.com"
+    },
+    {
+      "website": "https://WWW.CNHANGBO.COM",
+      "url": "https://WWW.CNHANGBO.COM"
+    },
+    {
+      "website": "https://www.cngreatbull.com",
+      "url": "https://www.cngreatbull.com"
+    },
+    {
+      "website": "https://www.hausystools.com",
+      "url": "https://www.hausystools.com"
+    },
+    {
+      "website": "https://www.hongzhengtools.com",
+      "url": "https://www.hongzhengtools.com"
+    },
+    {
+      "website": "https://www.deshitools.com",
+      "url": "https://www.deshitools.com"
+    },
+    {
+      "website": "https://www.runchn.com",
+      "url": "https://www.runchn.com"
+    },
+    {
+      "website": "https://www.guanxinchina.com",
+      "url": "https://www.guanxinchina.com"
+    },
+    {
+      "website": "https://www.jujuchem.com",
+      "url": "https://www.jujuchem.com"
+    },
+    {
+      "website": "https://www.lctools.cn",
+      "url": "https://www.lctools.cn"
+    },
+    {
+      "website": "https://www.haodatool.com",
+      "url": "https://www.haodatool.com"
+    },
+    {
+      "website": "https://www.kakeiproducts.com",
+      "url": "https://www.kakeiproducts.com"
+    },
+    {
+      "website": "https://www.cnmicade.com",
+      "url": "https://www.cnmicade.com"
+    },
+    {
+      "website": "https://www.jyscroll.com",
+      "url": "https://www.jyscroll.com"
+    },
+    {
+      "website": "https://www.sunor.cn",
+      "url": "https://www.sunor.cn"
+    },
+    {
+      "website": "https://www.deliladder.com",
+      "url": "https://www.deliladder.com"
+    },
+    {
+      "website": "https://www.youmayladder.com",
+      "url": "https://www.youmayladder.com"
+    },
+    {
+      "website": "https://www.zjtengyun.en.alibaba.comwww.tengyunchn.com",
+      "url": "https://www.zjtengyun.en.alibaba.comwww.tengyunchn.com"
+    },
+    {
+      "website": "https://www.yushengtools.com",
+      "url": "https://www.yushengtools.com"
+    },
+    {
+      "website": "https://www.yakexicn.com",
+      "url": "https://www.yakexicn.com"
+    },
+    {
+      "website": "https://www.yfpower.com",
+      "url": "https://www.yfpower.com"
+    },
+    {
+      "website": "https://www.beili-diamondtools.com",
+      "url": "https://www.beili-diamondtools.com/about-us/"
+    },
+    {
+      "website": "https://www.zoboheater.com",
+      "url": "https://www.zoboheater.com"
+    },
+    {
+      "website": "https://www.baidetools.com",
+      "url": "https://www.baidetools.com"
+    },
+    {
+      "website": "https://WWW.RPOSTARCN.COM",
+      "url": "https://WWW.RPOSTARCN.COM"
+    },
+    {
+      "website": "https://www.jesdtools.com",
+      "url": "https://www.jesdtools.com"
+    },
+    {
+      "website": "https://www.juyoute-toois.com",
+      "url": "https://www.juyoute-toois.com"
+    },
+    {
+      "website": "https://www.elitopcn.com",
+      "url": "https://www.elitopcn.com"
+    },
+    {
+      "website": "https://www.zttools.cn",
+      "url": "https://www.zttools.cn"
+    },
+    {
+      "website": "https://binicabrasive.com",
+      "url": "https://binicabrasive.com"
+    },
+    {
+      "website": "https://bsptools.com",
+      "url": "https://bsptools.com"
+    },
+    {
+      "website": "http://www.magnettool.com",
+      "url": "http://www.magnettool.com"
+    },
+    {
+      "website": "https://www.panergymachinery.com",
+      "url": "https://www.panergymachinery.com"
+    }
+  ],
+  "without_website": [
+    {
+      "id": "165030",
+      "name": "ANHAD SPARES & TOOLS PVT LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/165030-anhad-spares-tools-pvt-ltd.html"
+    },
+    {
+      "id": "171363",
+      "name": "B2Benchmark",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171363-b2benchmark.html"
+    },
+    {
+      "id": "163764",
+      "name": "Bubble overseals",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/163764-bubble-overseals.html"
+    },
+    {
+      "id": "163041",
+      "name": "DALV",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/163041-dalv.html"
+    },
+    {
+      "id": "97671",
+      "name": "Eastman Hand Tools",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/97671-eastman-hand-tools.html"
+    },
+    {
+      "id": "154254",
+      "name": "FINDER",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/154254-finder.html"
+    },
+    {
+      "id": "171831",
+      "name": "FMI LIMITED",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171831-fmi-limited.html"
+    },
+    {
+      "id": "160797",
+      "name": "Sangeeta tools",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/160797-sangeeta-tools.html"
+    },
+    {
+      "id": "160809",
+      "name": "Sanwa Diamond Tools Pvt Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/160809-sanwa-diamond-tools-pvt-ltd.html"
+    },
+    {
+      "id": "162375",
+      "name": "SCEPTRE",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/162375-sceptre.html"
+    },
+    {
+      "id": "160812",
+      "name": "SHOBHA INDUSTRIES PVT. LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/160812-shobha-industries.html"
+    },
+    {
+      "id": "160800",
+      "name": "Solido Tools",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/160800-sn-dyechem-pvt-ltd-solido-tools.html"
+    },
+    {
+      "id": "163776",
+      "name": "Sun B International",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/163776-sun-b-international.html"
+    },
+    {
+      "id": "154272",
+      "name": "TALIM",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/154272-talim.html"
+    },
+    {
+      "id": "160803",
+      "name": "Victor tools",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/160803-victor-tools.html"
+    },
+    {
+      "id": "84650",
+      "name": "АВИЛОК",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/84650-avilok.html"
+    },
+    {
+      "id": "163749",
+      "name": "АГАВА ЛАТ, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/163749-agava-lat-ooo.html"
+    },
+    {
+      "id": "163758",
+      "name": "БРОДЕКС",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/163758-brodeks.html"
+    },
+    {
+      "id": "154284",
+      "name": "ВИ-ТИМ, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/154284-vi-tim-ooo.html"
+    },
+    {
+      "id": "171348",
+      "name": "Движение.ру",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171348-dvizhenie-ru.html"
+    },
+    {
+      "id": "171339",
+      "name": "ДВИЖОК",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171339-dvizhok.html"
+    },
+    {
+      "id": "171366",
+      "name": "Журнал \"Идеи вашего дома\"",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171366-zhurnal-idei-vashego-doma.html"
+    },
+    {
+      "id": "160776",
+      "name": "Завод Модис",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/160776-zavod-modis.html"
+    },
+    {
+      "id": "171357",
+      "name": "Колеса.ру",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171357-kolesa-ru.html"
+    },
+    {
+      "id": "162372",
+      "name": "КООФЕС, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/162372-koofes-ooo.html"
+    },
+    {
+      "id": "171330",
+      "name": "Крепёж, клеи, инструмент и…",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171330-krepjozh-klei-instrument-i.html"
+    },
+    {
+      "id": "164964",
+      "name": "ЛОКОС",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/164964-lokos.html"
+    },
+    {
+      "id": "160785",
+      "name": "МАГНАТ-К, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/160785-magnat-k-ooo.html"
+    },
+    {
+      "id": "171351",
+      "name": "Медиа Групп",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171351-media-grupp.html"
+    },
+    {
+      "id": "163677",
+      "name": "ПЕРСПЕКТИВА",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/163677-perspektiva.html"
+    },
+    {
+      "id": "171327",
+      "name": "ПОТРЕБИТЕЛЬ МАСТЕР-ФОРУМ",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171327-potrebitel-master-forum.html"
+    },
+    {
+      "id": "131225",
+      "name": "ПРОВОДНИК",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/131225-porovodnik.html"
+    },
+    {
+      "id": "97686",
+      "name": "ПРОМЫШЛЕННИК-М",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/97686-promyshlennik-m.html"
+    },
+    {
+      "id": "160815",
+      "name": "Рама Интернэшнл",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/160815-rama-international.html"
+    },
+    {
+      "id": "171324",
+      "name": "РАТПЭ",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171324-ratpe.html"
+    },
+    {
+      "id": "171912",
+      "name": "РЕДИУС",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171912-redius.html"
+    },
+    {
+      "id": "171315",
+      "name": "РОЛТЭК, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171315-roltek-ooo.html"
+    },
+    {
+      "id": "171336",
+      "name": "С.О.К.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171336-s-o-k.html"
+    },
+    {
+      "id": "131048",
+      "name": "СинаЛекс, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/131048-sinaleks-ooo.html"
+    },
+    {
+      "id": "163035",
+      "name": "СМАРТТУЛС, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/163035-smarttuls-ooo.html"
+    },
+    {
+      "id": "171345",
+      "name": "СТРОИТЕЛЬНАЯ ГАЗЕТА",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171345-stroitelnaya-gazeta.html"
+    },
+    {
+      "id": "164967",
+      "name": "ТАКУМИ ТУЛС , ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/164967-takumi-tuls-ooo.html"
+    },
+    {
+      "id": "171318",
+      "name": "ТОТАЛ",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171318-total.html"
+    },
+    {
+      "id": "171333",
+      "name": "ТОЧКА ОПОРЫ",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/171333-tochka-opory.html"
+    },
+    {
+      "id": "154659",
+      "name": "ТУЛ ЯРД ГЛОБАЛ",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/154659-tul-yard-global.html"
+    },
+    {
+      "id": "170994",
+      "name": "ТУЛЗ СИСТЕМ, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170994-tulz-sistem-oo.html"
+    },
+    {
+      "id": "122841",
+      "name": "ЭЛЕКТРОТУЛС, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/122841-elektrotuls-ooo.html"
+    },
+    {
+      "id": "160773",
+      "name": "ЭСДЖИ Групп, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/160773-esdzhi-grupp-ooo.html"
+    },
+    {
+      "id": "170565",
+      "name": "ЮНИТРЕНТ, ООО",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170565-yunitrent-ooo.html"
+    },
+    {
+      "id": "170112",
+      "name": "Cangzhou Kester Automotive Tools Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170112-cangzhou-kester-automotive-tools-co-ltd.html"
+    },
+    {
+      "id": "169986",
+      "name": "Cangzhou Xinjunpeng Automotive Tools.,Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169986-cangzhou-xinjunpeng-automotive-tools-ltd.html"
+    },
+    {
+      "id": "169905",
+      "name": "Chongqing Cairui Machinery Co.,Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169905-chongqing-cairui-machinery-co-ltd.html"
+    },
+    {
+      "id": "169899",
+      "name": "CHONGQING CHIMA MACHIENRY MANUFACTURING CO., LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169899-chongqing-chima-machienry-manufacturing-co-ltd.html"
+    },
+    {
+      "id": "170109",
+      "name": "CHONGQING CQQJ EQUIPMENT CO., LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170109-chongqing-cqqj-equipment-co-ltd.html"
+    },
+    {
+      "id": "170004",
+      "name": "Chongqing Hanchi Power Technology Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170004-chongqing-hanchi-power-technology-co-ltd.html"
+    },
+    {
+      "id": "169119",
+      "name": "CHONGQING JOYLONG MACHINERY CO., LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169119-chongqing-joylong-machinery-co-ltd.html"
+    },
+    {
+      "id": "169968",
+      "name": "CHONGQING YINZE MACHINERY MANUFACTURING CO., LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169968-chongqing-yinze-machinery-manufacturing-co-ltd.html"
+    },
+    {
+      "id": "169917",
+      "name": "CHONGQING ZHANSHI MACHINOFACTURE CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169917-chongqing-zhanshi-machinofacture-co-ltd.html"
+    },
+    {
+      "id": "170121",
+      "name": "Danyang aoteng Import and Export co.,Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170121-danyang-aoteng-import-and-export-co-ltd.html"
+    },
+    {
+      "id": "169935",
+      "name": "Danyang Julli Tools Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169935-danyang-julli-tools-co-ltd.html"
+    },
+    {
+      "id": "168720",
+      "name": "Danyang Tianyi Diamond Tools Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/168720-danyang-tianyi-diamond-tools-co-ltd.html"
+    },
+    {
+      "id": "169941",
+      "name": "Danyang Yurui Hardware Tools Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169941-danyang-yurui-hardware-tools-co-ltd.html"
+    },
+    {
+      "id": "168900",
+      "name": "Fenghua Tianyuan Plastic Products Factory",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/168900-fenghua-tianyuan-plastic-products-factory.html"
+    },
+    {
+      "id": "169992",
+      "name": "Guangdong Jinai Plastic Products Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169992-guangdong-jinai-plastic-products-co-ltd.html"
+    },
+    {
+      "id": "170070",
+      "name": "Guangzhou Jia Yi Trading Co.,Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170070-guangzhou-jia-yi-trading-co-ltd.html"
+    },
+    {
+      "id": "168732",
+      "name": "Hangzhou Qinggao Import & Export Co. Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/168732-hangzhou-qinggao-import-export-co-ltd.html"
+    },
+    {
+      "id": "169956",
+      "name": "HEBEI LIANGGONG TECHNOLOGY CO., LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169956-hebei-lianggong-technology-co-ltd.html"
+    },
+    {
+      "id": "169974",
+      "name": "Hebei Puxing Alloy Technology Co.,Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169974-hebei-puxing-alloy-technology-co-ltd.html"
+    },
+    {
+      "id": "169947",
+      "name": "HENAN BOSI MEASURE TOOLS CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169947-henan-bosi-measure-tools-co-ltd.html"
+    },
+    {
+      "id": "170103",
+      "name": "HUAIAN YTAN INT. TRADE CO. LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170103-huaian-ytan-int-trade-co-ltd.html"
+    },
+    {
+      "id": "170082",
+      "name": "Hunan Baxiongdi New Material Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170082-hunan-baxiongdi-new-material-co-ltd.html"
+    },
+    {
+      "id": "170049",
+      "name": "HUNAN JIANSIMEI INTERNATIONAL TRADE CO., LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170049-hunan-jiansimei-international-trade-co-ltd.html"
+    },
+    {
+      "id": "169959",
+      "name": "Jiangsu Debesi Electromechanical Technology Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169959-jiangsu-debesi-electromechanical-technology-co-ltd.html"
+    },
+    {
+      "id": "169980",
+      "name": "Jiangsu Feiyang Metalwork Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169980-jiangsu-feiyang-metalwork-co-ltd.html"
+    },
+    {
+      "id": "169932",
+      "name": "JIANGSU HILYIN POWER TOOLS CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169932-jiangsu-hilyin-power-tools-co-ltd.html"
+    },
+    {
+      "id": "169005",
+      "name": "JIANGSU LINGYI TOOLS CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169005-jiangsu-lingyi-tools-co-ltd.html"
+    },
+    {
+      "id": "170034",
+      "name": "Jiangsu Sanyeung Tools Co. LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170034-jiangsu-sanyeung-tools-co-ltd.html"
+    },
+    {
+      "id": "169896",
+      "name": "JIANGSU XINSHENGYUAN INSTRUMENT TECHNOLOGY CO LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169896-jiangsu-xinshengyuan-instrument-technology-co-ltd.html"
+    },
+    {
+      "id": "170094",
+      "name": "JIANGSU XIONGBA INTERNATIONAL TRADING COMPANY LIMITED",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170094-jiangsu-xiongba-international-trading-company-limited.html"
+    },
+    {
+      "id": "168711",
+      "name": "JIANGXI JIEDA TOOLS CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/168711-jiangxi-jieda-tools-co-ltd.html"
+    },
+    {
+      "id": "170007",
+      "name": "Jiangxi Jiujiang Import and Export Co.,Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170007-jiangxi-jiujiang-import-and-export-co-ltd.html"
+    },
+    {
+      "id": "170043",
+      "name": "Jinhua Shenglai Import & Export Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170043-jinhua-shenglai-import-export-co-ltd.html"
+    },
+    {
+      "id": "170115",
+      "name": "Jinhua Yongjin Trading Co.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170115-jinhua-yongjin-trading-co-ltd.html"
+    },
+    {
+      "id": "170019",
+      "name": "Linyi Futai Tool Manufacturing Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170019-linyi-futai-tool-manufacturing-co-ltd.html"
+    },
+    {
+      "id": "168867",
+      "name": "Linyi Qiya Lighting Technology Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/168867-linyi-qiya-lighting-technology-co-ltd.html"
+    },
+    {
+      "id": "169914",
+      "name": "Linyi Ruiba International Trade Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169914-linyi-ruiba-international-trade-co-ltd.html"
+    },
+    {
+      "id": "169926",
+      "name": "NAN TONG KONG FU BEAR",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169926-nan-tong-kong-fu-bear.html"
+    },
+    {
+      "id": "170079",
+      "name": "NANCHANG STEADY（ShiZai) MANCHINERY CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170079-nanchang-steady-shizai-manchinery-co-ltd.html"
+    },
+    {
+      "id": "169950",
+      "name": "Nantong Aigu Electromechanical Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169950-nantong-aigu-electromechanical-co-ltd.html"
+    },
+    {
+      "id": "170061",
+      "name": "Nantong Tu'an Technology & Electromechanical Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170061-nantong-tu-an-technology-electromechanical-co-ltd.html"
+    },
+    {
+      "id": "169962",
+      "name": "Nantong Yameili Electric Tools Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169962-nantong-yameili-electric-tools-co-ltd.html"
+    },
+    {
+      "id": "169104",
+      "name": "NIKKO LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169104-nikko-ltd.html"
+    },
+    {
+      "id": "170085",
+      "name": "NINGBO DONGRUN NEW MATERIALS TECHNOLOGY CO., LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170085-ningbo-dongrun-new-materials-technology-co-ltd.html"
+    },
+    {
+      "id": "170067",
+      "name": "Ningbo Herong Technology Co.,Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170067-ningbo-herong-technology-co-ltd.html"
+    },
+    {
+      "id": "170010",
+      "name": "NINGBO HOPING INTERNATIONAL LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170010-ningbo-hoping-international-ltd.html"
+    },
+    {
+      "id": "170022",
+      "name": "NINGBO HOWE TOOLS CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170022-ningbo-howe-tools-co-ltd.html"
+    },
+    {
+      "id": "170055",
+      "name": "NINGBO HUICHUANG TOOLS CO., LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170055-ningbo-huichuang-tools-co-ltd.html"
+    },
+    {
+      "id": "170028",
+      "name": "NINGBO TIANDA HARDWARE TOOLS CO., LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170028-ningbo-tianda-hardware-tools-co-ltd.html"
+    },
+    {
+      "id": "170064",
+      "name": "Ningbo Valley Tool Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170064-ningbo-valley-tool-co-ltd.html"
+    },
+    {
+      "id": "170118",
+      "name": "PAI KE TOOL MFG CO., LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170118-pai-ke-tool-mfg-co-ltd.html"
+    },
+    {
+      "id": "169911",
+      "name": "Qidong Mingrui Tools Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169911-qidong-mingrui-tools-co-ltd.html"
+    },
+    {
+      "id": "169983",
+      "name": "Qingdao Mingde Xinze Trading Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169983-qingdao-mingde-xinze-trading-co-ltd.html"
+    },
+    {
+      "id": "170016",
+      "name": "Qingdao Xinyunda Hardware Products Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170016-qingdao-xinyunda-hardware-products-co-ltd.html"
+    },
+    {
+      "id": "169971",
+      "name": "Reliable (Zhejiang) International Freight Forwarding Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169971-reliable-zhejiang-international-freight-forwarding-co-ltd.html"
+    },
+    {
+      "id": "169989",
+      "name": "Riken abrasive co. , ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169989-riken-abrasive-co-ltd.html"
+    },
+    {
+      "id": "170088",
+      "name": "SAAME TOOLS (Shanghai) IMPORT & EXPORT CO., LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170088-saame-tools-shanghai-import-export-co-ltd.html"
+    },
+    {
+      "id": "169965",
+      "name": "Shandong Hengdun Tools Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169965-shandong-hengdun-tools-co-ltd.html"
+    },
+    {
+      "id": "169923",
+      "name": "SHANGQIU ACER MEASURING TOOL CO.,LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169923-shangqiu-acer-measuring-tool-co-ltd.html"
+    },
+    {
+      "id": "169995",
+      "name": "SHANGQIU EUROPUS MEASURE TOOLS CO.,LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169995-shangqiu-europus-measure-tools-co-ltd.html"
+    },
+    {
+      "id": "169938",
+      "name": "Shanxi Aideman Diamond Tools Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169938-shanxi-aideman-diamond-tools-co-ltd.html"
+    },
+    {
+      "id": "170058",
+      "name": "SHAOXING HUAYAO NAIL MANUFACTURING PLANT",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170058-shaoxing-huayao-nail-manufacturing-plant.html"
+    },
+    {
+      "id": "168714",
+      "name": "SUQIAN SINGYEE INDUSTRY CO., LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/168714-suqian-singyee-industry-co-ltd.html"
+    },
+    {
+      "id": "170001",
+      "name": "Taizhou Haihong Pump Mechanical & Electrical Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170001-taizhou-haihong-pump-mechanical-electrical-co-ltd.html"
+    },
+    {
+      "id": "170025",
+      "name": "TAIZHOU SHENGRUI TRADING CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170025-taizhou-shengrui-trading-co-ltd.html"
+    },
+    {
+      "id": "170091",
+      "name": "TAIZHOU VEER TOOLS CO., LTD ",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170091-taizhou-veer-tools-co-ltd.html"
+    },
+    {
+      "id": "168975",
+      "name": "Tianjin Fuxinrong Metal Products Co.,Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/168975-tianjin-fuxinrong-metal-products-co-ltd.html"
+    },
+    {
+      "id": "170013",
+      "name": "Tongling Changjiang Diamond Tools Co.Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170013-tongling-changjiang-diamond-tools-co-ltd.html"
+    },
+    {
+      "id": "169998",
+      "name": "Xuzhou Zhuoyuan Hardware Tools Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169998-xuzhou-zhuoyuan-hardware-tools-co-ltd.html"
+    },
+    {
+      "id": "169929",
+      "name": "Yili Technology",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169929-yili-technology.html"
+    },
+    {
+      "id": "169902",
+      "name": "YIWEN TOOLS CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169902-yiwen-tools-co-ltd.html"
+    },
+    {
+      "id": "169977",
+      "name": "Yongkang Buchou Industry and Trade Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169977-yongkang-buchou-industry-and-trade-co-ltd.html"
+    },
+    {
+      "id": "170052",
+      "name": "Yongkang Libao Industry and Trade Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170052-yongkang-libao-industry-and-trade-co-ltd.html"
+    },
+    {
+      "id": "169944",
+      "name": "YONGKANG LINGSHAN ELECTRICAL MACHINERY CO. , LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169944-yongkang-lingshan-electrical-machinery-co-ltd.html"
+    },
+    {
+      "id": "170097",
+      "name": "yongkang niuniu plastic products co.ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170097-yongkang-niuniu-plastic-products-co-ltd.html"
+    },
+    {
+      "id": "169920",
+      "name": "Yongkang Ruining Tools Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169920-yongkang-ruining-tools-co-ltd.html"
+    },
+    {
+      "id": "170106",
+      "name": "YONGKANG SHENGYUAN IMPORT & EXPORT CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170106-yongkang-shengyuan-import-export-co-ltd.html"
+    },
+    {
+      "id": "170100",
+      "name": "Yongkang Tasi Woo Trading Co.,Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170100-yongkang-tasi-woo-trading-co-ltd.html"
+    },
+    {
+      "id": "170046",
+      "name": "YONGKANG XINGYUN INDUSTRY AND TRADE CO LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170046-yongkang-xingyun-industry-and-trade-co-ltd.html"
+    },
+    {
+      "id": "169953",
+      "name": "Yongkang Yayang Industry and Trade Co., Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169953-yongkang-yayang-industry-and-trade-co-ltd.html"
+    },
+    {
+      "id": "168696",
+      "name": "YUCHENG SHUANGYAN HARDWARE PLASTIC FACTORY",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/168696-yucheng-shuangyan-hardware-plastic-factory.html"
+    },
+    {
+      "id": "170076",
+      "name": "Zhejiang Chuntao Technology Co.,Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170076-zhejiang-chuntao-technology-co-ltd.html"
+    },
+    {
+      "id": "170040",
+      "name": "Zhejiang Hengbang brush industry Co.LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170040-zhejiang-hengbang-brush-industry-co-ltd.html"
+    },
+    {
+      "id": "170031",
+      "name": "ZHEJIANG NAITE SPORTS-CYCLES CO.,LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170031-zhejiang-naite-sports-cycles-co-ltd.html"
+    },
+    {
+      "id": "168747",
+      "name": "Zhenjiang PengTai Tools Co.,Ltd",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/168747-zhenjiang-pengtai-tools-co-ltd.html"
+    },
+    {
+      "id": "170073",
+      "name": "ZHENJIANG YONGYI TOOLS CO., LTD.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170073-zhenjiang-yongyi-tools-co-ltd.html"
+    },
+    {
+      "id": "170037",
+      "name": "ZHENJIANG  HI-WAY IMP-EXP CO.,LTD",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/170037-zhenjiang-hi-way-imp-exp-co-ltd.html"
+    },
+    {
+      "id": "169908",
+      "name": "Zhuji Jiushang Technology Co., Ltd.",
+      "source_url": "https://catalog.mitexpo.ru/companies/company/169908-zhuji-jiushang-technology-co-ltd.html"
+    }
+  ]
+}
