@@ -5,4 +5,7 @@ __pycache__/
 data/raw/
 logs/
 data/contacts/
+data/telegram/
+data/research/
+.playwright-mcp/
 *.pyc

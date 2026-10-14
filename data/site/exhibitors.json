@@ -14108,7 +14108,18 @@
       "phones": [
         "+7 (800) 550-37-87"
       ],
-      "social": []
+      "social": [
+        {
+          "network": "Telegram",
+          "url": "https://t.me/vseinstrumentirudiy",
+          "source_url": "https://t.me/vseinstrumentirudiy",
+          "verification_note": "В описании канала указан корпоративный email vseinstrumenti.ru; название и профиль деятельности совпадают.",
+          "discovery": "XMLRiver",
+          "telegram_type": "channel",
+          "telegram_title": "ВсеИнструменты.ру ✔",
+          "canonical_url": "https://t.me/vseinstrumentirudiy"
+        }
+      ]
     },
     "detail_status": "collected",
     "detail_checked_at": "2026-10-14T10:19:55.977087+00:00",
@@ -14635,7 +14646,18 @@
     "contacts": {
       "emails": [],
       "phones": [],
-      "social": []
+      "social": [
+        {
+          "network": "Telegram",
+          "url": "https://t.me/dvizhok_journal",
+          "source_url": "https://dvizhok.su/",
+          "verification_note": "Канал автомобильного журнала; совпадают издательское название и тематика.",
+          "discovery": "XMLRiver",
+          "telegram_type": "channel",
+          "telegram_title": "Журнал Движок",
+          "canonical_url": "https://t.me/dvizhok_journal"
+        }
+      ]
     },
     "detail_status": "no_contacts",
     "detail_checked_at": "2026-10-14T10:19:57.036434+00:00",
@@ -30476,7 +30498,18 @@
     "contacts": {
       "emails": [],
       "phones": [],
-      "social": []
+      "social": [
+        {
+          "network": "Telegram",
+          "url": "https://t.me/stroygazeta",
+          "source_url": "https://stroygaz.ru/news/official/stroygazeta-voshla-v-top-100-telegram-kanalov-o-nedvizhimosti/",
+          "verification_note": "Публикация самого издания о его Telegram-канале; название совпадает с участником.",
+          "discovery": "XMLRiver",
+          "telegram_type": "channel",
+          "telegram_title": "Строительная газета",
+          "canonical_url": "https://t.me/stroygazeta"
+        }
+      ]
     },
     "detail_status": "no_contacts",
     "detail_checked_at": "2026-10-14T10:20:14.692108+00:00",
@@ -34422,7 +34455,18 @@
       "phones": [
         "+74842926386"
       ],
-      "social": []
+      "social": [
+        {
+          "network": "Telegram",
+          "url": "https://t.me/kvt_su",
+          "source_url": "https://expodat.by/companies/company/75909-kvt-elektrotekhnicheskij-zavod.html",
+          "verification_note": "Канал и домен kvt.su указаны вместе в карточке завода КВТ.",
+          "discovery": "XMLRiver",
+          "telegram_type": "channel",
+          "telegram_title": "Электротехнический завод КВТ",
+          "canonical_url": "https://t.me/kvt_su"
+        }
+      ]
     },
     "detail_status": "collected",
     "detail_checked_at": "2026-10-14T10:20:20.017139+00:00",

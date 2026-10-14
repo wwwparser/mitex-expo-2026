@@ -18,11 +18,33 @@ assert len(rows)-1==len(records)
 html=BeautifulSoup((ROOT/'site/index.html').read_text(encoding='utf-8'),'html.parser')
 for tag in html.find_all(['script','link']):
     target=tag.get('src') or tag.get('href')
-    if target and not target.startswith('http'): assert (ROOT/'site'/target).is_file(),target
+    if target and not target.startswith('http'): assert (ROOT/'site'/target.split('?')[0]).is_file(),target
 js=(ROOT/'site/data.js').read_text(encoding='utf-8')
 payload=json.loads(js.removeprefix('window.MITEX_DATA = ').rstrip(';\n'))
 assert len(payload['exhibitors'])==len(records)
-assert payload['program']['events']==[], 'Непроверенная программа не должна попасть в MVP'
+events=payload['program']['events']
+assert events and payload['program']['status']=='collected'
+assert len({e['id'] for e in events})==len(events)
+assert all(e['date'].startswith('2026-11-') for e in events), 'Чужой год программы'
+assert all('/2026/' in e['source_url'] or e['id']=='press-14229' for e in events)
+assert len({p['id'] for p in payload['people']})==len(payload['people'])
+import re
+for person in payload['people']:
+    for social in person['social']:
+        if social.get('affiliation_source'):
+            employer=social['employer_match']
+            assert re.search(r'(?<![а-яёa-z])'+re.escape(employer)+r'(?![а-яёa-z])',person['role'].lower()), 'Неверная привязка работодателя'
+from collections import Counter
+counts=Counter(p['channel_url'] for p in payload['feed'])
+assert counts and all(value==5 for value in counts.values()), 'Нужно пять постов на канал'
+assert len(counts)==payload['feed_report']['channels']
+assert all(len(p['text'].split())<=24 for p in payload['feed']), 'В ленте только краткие выдержки; полный текст — в оригинальном плеере'
+assert len({p['url'] for p in payload['feed']})==len(payload['feed'])
+assert all(v['date'].startswith('2026') for v in payload['videos'] if v['kind']=='invitation')
+assert all(v['date'].startswith('2025') for v in payload['videos'] if v['kind']=='archive')
+assert len(payload['novelty_registry'])==len(records)
+assert not any(i['shown_at_exhibition'] for i in payload['items']), 'Показ будущей выставки нельзя подтверждать заранее'
+assert not any('???' in (ROOT/'site'/f).read_text(encoding='utf-8') for f in ('portal.js','index.html','novinki.html'))
 if meta.get('details_checked'):
     assert meta['details_checked']==len(records), 'Не завершён обход всех карточек'
     assert all(r['detail_status'] in ('collected','no_contacts','error') for r in records)

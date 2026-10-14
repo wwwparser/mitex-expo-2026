@@ -1,0 +1,11 @@
+{
+  "verified_2026": 2,
+  "archive": 6,
+  "channels": 86,
+  "excluded": [
+    {
+      "url": "https://www.youtube.com/watch?v=uRZ0-vsdpiA",
+      "reason": "Не удалось подтвердить дату публикации"
+    }
+  ]
+}

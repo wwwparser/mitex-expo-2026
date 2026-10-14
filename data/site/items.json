@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "id": "announcement-1",
+    "exhibitor_id": "84624",
+    "company": "PLANTIC",
+    "title": "Сверхлёгкая штыковая лопата",
+    "description": "Анонсирован новый вариант садовой лопаты. Масса и артикул в сообщении организатора не указаны.",
+    "source_url": "https://mitexpo.ru/press/novosti/14232/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-2",
+    "exhibitor_id": "84624",
+    "company": "PLANTIC",
+    "title": "Телескопический скребок Plantic snow",
+    "description": "Инструмент для удаления снега с крыши с раздвижной ручкой.",
+    "source_url": "https://mitexpo.ru/press/novosti/14232/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-3",
+    "exhibitor_id": "84624",
+    "company": "PLANTIC",
+    "title": "Автомобильные щётки Plantic auto / light",
+    "description": "Две линейки щёток с интегрированным скребком для ухода за автомобилем зимой.",
+    "source_url": "https://mitexpo.ru/press/novosti/14232/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-4",
+    "exhibitor_id": "84624",
+    "company": "PLANTIC",
+    "title": "Лопата серии «Оружейная сталь»",
+    "description": "Усиленная штыковая модель названа среди новинок предстоящей экспозиции.",
+    "source_url": "https://mitexpo.ru/press/novosti/14232/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-5",
+    "exhibitor_id": "84598",
+    "company": "ELITECH",
+    "title": "Аккумуляторная платформа ELP",
+    "description": "Совместимая экосистема 20/40 В: заявлено более 100 моделей. Среди них CD 20SL2, CS 2012BLPK, CCS 2050BL и CAG 2012BL.",
+    "source_url": "https://mitexpo.ru/press/novosti/14147/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-6",
+    "exhibitor_id": "84646",
+    "company": "VILLARTEC / DEVON",
+    "title": "VILLARTEC MI 1500V",
+    "description": "Робот-газонокосилка для площади до 1500 м², с камерой и 3D-лидаром для построения карты участка.",
+    "source_url": "https://mitexpo.ru/press/novosti/14197/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-7",
+    "exhibitor_id": "84646",
+    "company": "VILLARTEC / DEVON",
+    "title": "Газонокосилки Zero-Turn Hydro",
+    "description": "Линейка с независимыми гидроприводами колёс, включая машины с сиденьем и платформой оператора.",
+    "source_url": "https://mitexpo.ru/press/novosti/14197/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-8",
+    "exhibitor_id": "84646",
+    "company": "VILLARTEC / DEVON",
+    "title": "Снегоуборщики SnowBoss",
+    "description": "Новая премиальная линейка с гидростатической трансмиссией Hydro Drive.",
+    "source_url": "https://mitexpo.ru/press/novosti/14197/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-9",
+    "exhibitor_id": "84646",
+    "company": "VILLARTEC / DEVON",
+    "title": "DEVON: платформы 12V и 20V",
+    "description": "Заявлены аккумуляторные инструменты, бесщёточные сетевые УШМ и автономные нейлеры для бетона.",
+    "source_url": "https://mitexpo.ru/press/novosti/14197/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-10",
+    "exhibitor_id": "84488",
+    "company": "A-iPower",
+    "title": "Портативные станции и многотопливные генераторы",
+    "description": "Анонсированы станции с аккумуляторами LiFePO₄, двухтопливные и трёхтопливные инверторные генераторы. Точные модели в релизе не названы.",
+    "source_url": "https://mitexpo.ru/press/novosti/14196/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-11",
+    "exhibitor_id": "84582",
+    "company": "CAIMAN",
+    "title": "Роботы и аккумуляторная техника",
+    "description": "В экспозиции заявлены роботы-газонокосилки, роботы-мульчеры, ручной садовый инструмент и аккумуляторные решения для профессионального ухода.",
+    "source_url": "https://mitexpo.ru/press/novosti/14210/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-12",
+    "exhibitor_id": "130394",
+    "company": "TecEner",
+    "title": "Обновлённая линейка генераторов",
+    "description": "Заявлены изменения оснащения: USB-C, увеличенные баки рамных моделей и кнопочный запуск; расширение бензиновой, дизельной и двухтопливной линейки.",
+    "source_url": "https://mitexpo.ru/press/novosti/14220/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-13",
+    "exhibitor_id": "84542",
+    "company": "ИНТЕРСКОЛ",
+    "title": "Бесщёточные двигатели и строительные пылесосы",
+    "description": "Организатор сообщает о планируемой презентации этих направлений. Модели и параметры в публикации не уточнены.",
+    "source_url": "https://mitexpo.ru/press/novosti/14220/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-14",
+    "exhibitor_id": "135005",
+    "company": "ВсеИнструменты.ру / INFORCE",
+    "title": "Электроинструмент INFORCE",
+    "description": "Запланирован публичный показ линейки, выпущенной в 2026 году, и демонстрация работы инструмента на гоночном автомобиле.",
+    "source_url": "https://mitexpo.ru/press/novosti/14220/",
+    "status": "Анонс 2026",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-15",
+    "exhibitor_id": "154305",
+    "company": "Крепеж СВ",
+    "title": "Крепёж, канаты и монтажная химия",
+    "description": "Заявлены три направления: крепёж под СТМ заказчика, канаты SV и монтажная химия «СВОЙ»/SV. Новизна конкретных моделей не заявлена.",
+    "source_url": "https://mitexpo.ru/press/novosti/14190/",
+    "status": "Заявленная экспозиция",
+    "novelty_claimed": false,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "announcement-16",
+    "exhibitor_id": "84632",
+    "company": "PROFIPOWER",
+    "title": "Инструмент для бытовых и профессиональных задач",
+    "description": "Участие и направления экспозиции подтверждены анонсом организатора; конкретные новые модели не перечислены.",
+    "source_url": "https://mitexpo.ru/press/novosti/14220/",
+    "status": "Заявленная экспозиция",
+    "novelty_claimed": false,
+    "shown_at_exhibition": false
+  },
+  {
+    "id": "felisatti-catalog",
+    "exhibitor_id": "118428",
+    "company": "FELISATTI (ООО \"Фелисатти\")",
+    "title": "HD и аккумуляторная M-series 18V",
+    "description": "В каталоге заявлены серии HD и M-series, а также оснастка, садовая и силовая техника. Конкретные модели не названы.",
+    "source_url": "https://catalog.mitexpo.ru/companies/company/118428-felimaks-ooo.html",
+    "status": "Анонс в каталоге",
+    "novelty_claimed": true,
+    "shown_at_exhibition": false
+  }
+]

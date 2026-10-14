@@ -1,0 +1,599 @@
+[
+  {
+    "name": "АРТЁМ ТЕПЛИЦ",
+    "url": "https://www.youtube.com/@Artiom_Business",
+    "source_url": "https://www.youtube.com/watch?v=0zK7LEblq18",
+    "kind": "video_author"
+  },
+  {
+    "name": "Мах Про Белгород",
+    "url": "https://www.youtube.com/@Max.Pro.Belgorod",
+    "source_url": "https://www.youtube.com/watch?v=WJYLb7xIQgw",
+    "kind": "video_author"
+  },
+  {
+    "name": "gardenstock.ru",
+    "url": "https://www.youtube.com/@gardenstockrus",
+    "source_url": "https://www.youtube.com/watch?v=2lW8q7nkH08",
+    "kind": "video_author"
+  },
+  {
+    "name": "ELITECH",
+    "url": "https://www.youtube.com/@ELITECHTOOLS",
+    "source_url": "https://www.youtube.com/watch?v=2i8uS3pn464",
+    "kind": "video_author"
+  },
+  {
+    "name": "ДЗВ Механика - электроинструмент JZY",
+    "url": "https://www.youtube.com/channel/UCT4s3nceYcAiqRAbQrvFwzw",
+    "source_url": "https://www.youtube.com/shorts/61gIB6cYPFM",
+    "kind": "video_author"
+  },
+  {
+    "name": "AIRLINE",
+    "url": "https://www.youtube.com/user/carvilleracing",
+    "source_url": "http://www.airline.su",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84380"
+  },
+  {
+    "name": "CAIMAN",
+    "url": "https://www.youtube.com/channel/UCqobbSA0vCRLAAOFsYUOIzw",
+    "source_url": "https://caiman.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84582"
+  },
+  {
+    "name": "CONDTROL",
+    "url": "https://www.youtube.com/c/CONDTROLTV",
+    "source_url": "https://www.condtrol.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84584"
+  },
+  {
+    "name": "ERMENRICH",
+    "url": "https://www.youtube.com/@ermenrich_tools",
+    "source_url": "https://ermenrich.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84446"
+  },
+  {
+    "name": "Fastener World Inc.",
+    "url": "https://www.youtube.com/channel/UC2EfxkjACKDgvcxpQJ5CUvw",
+    "source_url": "https://www.fastener-world.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "171360"
+  },
+  {
+    "name": "HANGZHOU GREAT STAR INDUSTRIAL",
+    "url": "https://www.youtube.com/@GS_instrumenti",
+    "source_url": "https://greatstartools.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "154260"
+  },
+  {
+    "name": "KOLNER",
+    "url": "https://www.youtube.com/channel/UC9rns8CWuaHEdNcy_auNSyA",
+    "source_url": "https://kolner-tools.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "103101"
+  },
+  {
+    "name": "LAVR",
+    "url": "https://www.youtube.com/channel/UCR77CKb7YvfNz50KuruNvFw",
+    "source_url": "https://lavr.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "154308"
+  },
+  {
+    "name": "Mr.Logo (ООО 'ЦКП МЭИ')",
+    "url": "https://www.youtube.com/channel/UCIE4qq2S3CYQR8a6XCxIvRA",
+    "source_url": "https://www.mr-logo.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84388"
+  },
+  {
+    "name": "Mr.Logo (ООО 'ЦКП МЭИ')",
+    "url": "https://youtube.com/@mr.logo_garden",
+    "source_url": "https://www.mr-logo.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84388"
+  },
+  {
+    "name": "PROFIPOWER",
+    "url": "https://www.youtube.com/@PROFIPOWER_RU",
+    "source_url": "https://www.profipowers.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84632"
+  },
+  {
+    "name": "Quan Tian Co., Ltd",
+    "url": "https://www.youtube.com/channel/UC0-YqgnEhfTUslv7OcWzV6A",
+    "source_url": "https://www.juhsin.com.tw",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "126141"
+  },
+  {
+    "name": "RAGE",
+    "url": "https://www.youtube.com/@ragetools",
+    "source_url": "https://ragetools.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84580"
+  },
+  {
+    "name": "Retail.ru",
+    "url": "https://www.youtube.com/user/russianretailnews",
+    "source_url": "https://www.retail.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "171369"
+  },
+  {
+    "name": "SUNREKA",
+    "url": "https://www.youtube.com/@GETINK_OFFICIAL",
+    "source_url": "https://sunreka-tools.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "118347"
+  },
+  {
+    "name": "TOLSEN",
+    "url": "https://www.youtube.com/c/TolsenWorld",
+    "source_url": "https://www.tolsentools.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "154353"
+  },
+  {
+    "name": "VILLARTEC|DEVON",
+    "url": "https://www.youtube.com/@VILLARTEC",
+    "source_url": "https://villartec.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84646"
+  },
+  {
+    "name": "АВРОРА, ГК",
+    "url": "https://www.youtube.com/user/AuroraOnlineChannel",
+    "source_url": "http://aurora-online.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "88236"
+  },
+  {
+    "name": "АксЭл, ООО",
+    "url": "https://www.youtube.com/channel/UCKJy0_lwzLXRdMLUcIMUjuA",
+    "source_url": "https://tdaksel.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84590"
+  },
+  {
+    "name": "БАЛЧУГ ВУД, ООО",
+    "url": "https://www.youtube.com/channel/UC5v4qsdAzX0xinLegPf7VCw/featured",
+    "source_url": "https://balchug-wood.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "170403"
+  },
+  {
+    "name": "Белгородский абразивный завод имени А.И. Сафонова, АО",
+    "url": "https://www.youtube.com/channel/UCw2_RsybA7LVdYAv64f5iUg",
+    "source_url": "https://belabraziv.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "86390"
+  },
+  {
+    "name": "ВЕРТЕКС ИНСТРУМЕНТ, ООО",
+    "url": "https://www.youtube.com/@vertextools",
+    "source_url": "https://vertextools.ru/kontakty",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "118335"
+  },
+  {
+    "name": "ВЕРТЕКС ИНСТРУМЕНТ, ООО",
+    "url": "https://youtube.com/@vertextools",
+    "source_url": "https://vertextools.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "118335"
+  },
+  {
+    "name": "ГРОВЕРС, ООО",
+    "url": "https://www.youtube.com/channel/UC6q5hss7Zw_Hk1qMy5Ic5Qg",
+    "source_url": "http://www.grovers.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84496"
+  },
+  {
+    "name": "ДЕЛО ТЕХНИКИ, ООО",
+    "url": "https://www.youtube.com/channel/UCTXz4vFbX4tllTMwslL-uDw",
+    "source_url": "https://www.delot.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "86052"
+  },
+  {
+    "name": "ДИЛИЯ, ООО",
+    "url": "https://www.youtube.com/@ForzaPerm",
+    "source_url": "https://diliacom.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84404"
+  },
+  {
+    "name": "Завод высотных конструкций, ООО",
+    "url": "https://www.youtube.com/channel/UCQADYyEXOntL2FnQH9lt_3g",
+    "source_url": "https://zavodnv.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84522"
+  },
+  {
+    "name": "ИНСТРУМ-АГРО, ООО",
+    "url": "https://www.youtube.com/channel/UCEsmlMD9S2zgfvTAqgl_5yw",
+    "source_url": "https://www.iagro.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84466"
+  },
+  {
+    "name": "ИНТЕРСКОЛ",
+    "url": "https://www.youtube.com/@INTERSKOLchannel",
+    "source_url": "https://www.interskol.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84542"
+  },
+  {
+    "name": "КО-Нева, ЗАО",
+    "url": "https://www.youtube.com/channel/UCbEZVxsW4kg55Qiyjs8Mfyw",
+    "source_url": "https://motoblok.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84508"
+  },
+  {
+    "name": "М-ПЛАСТИКА, ООО",
+    "url": "https://www.youtube.com/channel/UCOHb5z-XLTfeQCjVx9pMAaQ",
+    "source_url": "https://mplastika.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "160794"
+  },
+  {
+    "name": "ПОДШИПНИК ВОЛГА",
+    "url": "https://www.youtube.com/channel/UC96gvT7psCay6LuIc0f97Xw/feed",
+    "source_url": "https://pdsar.biz",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "122907"
+  },
+  {
+    "name": "ПРОММАШ, ООО",
+    "url": "https://www.youtube.com/channel/UCx3AhBtEo4iBNmUWi4Sx23w",
+    "source_url": "https://www.fubag.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84554"
+  },
+  {
+    "name": "ПУШКИНСКИЙ ЗАВОД МЕТАЛЛОИЗДЕЛИЙ",
+    "url": "https://www.youtube.com/channel/UCkzdK4DOooBEHNc4mFTUVdg",
+    "source_url": "https://p-z-m.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "120261"
+  },
+  {
+    "name": "РосТрос",
+    "url": "https://www.youtube.com/@ros-tros",
+    "source_url": "https://ros-tros.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "154335"
+  },
+  {
+    "name": "СВАРКОМПЛЕКТ, ООО",
+    "url": "https://www.youtube.com/channel/UCJOjsqbv07ECXKvUTYR_qWA",
+    "source_url": "https://kupi-svarku.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "154338"
+  },
+  {
+    "name": "СЕВЕРНЫЙ АЛЬЯНС, ООО",
+    "url": "https://www.youtube.com/@altecokz",
+    "source_url": "https://www.altecopt.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84568"
+  },
+  {
+    "name": "СЕВЕРНЫЙ АЛЬЯНС, ООО",
+    "url": "https://www.youtube.com/channel/UCXl5ZR4ONhuL9ZPjzEr3xYg",
+    "source_url": "https://www.altecopt.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84568"
+  },
+  {
+    "name": "СТАВР",
+    "url": "https://www.youtube.com/channel/UCa0VIfl2V2qkWCFXTRXWDfA",
+    "source_url": "https://xn--80ae6bbf.xn--p1ai",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84574"
+  },
+  {
+    "name": "СТОУН-СЕРВИС-НЕВА",
+    "url": "https://www.youtube.com/channel/UCYH-wfkNoTfgeltMQ6ViqjQ",
+    "source_url": "https://stone-service-neva.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84610"
+  },
+  {
+    "name": "Торговый Дом \"АВТОграф\", ООО",
+    "url": "https://www.youtube.com/@AUTOgraphGroups",
+    "source_url": "https://avtograph.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "154356"
+  },
+  {
+    "name": "ТРАКТОРНЫЙ ЗАВОД РУСИЧ",
+    "url": "https://youtube.com/@tractor_rusich",
+    "source_url": "https://cheb.zavod-rusich.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "118524"
+  },
+  {
+    "name": "ТРИО ДИАМАНТ ЛТД, ООО",
+    "url": "https://www.youtube.com/channel/UCFah9ReuVm4aUhng9dGSP_w",
+    "source_url": "https://trio-diamond.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84998"
+  },
+  {
+    "name": "УРАЛБЕНЗОТЕХ, ООО",
+    "url": "https://www.youtube.com/channel/UCZ4YsyI32BmoRROy0YuZ4gQ",
+    "source_url": "https://uralbenzoteh.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84608"
+  },
+  {
+    "name": "Ширшов К.Е.  ИП",
+    "url": "https://www.youtube.com/channel/UCfOWFW5pWsfxBeAF2RL9v2Q",
+    "source_url": "https://armytek.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "154278"
+  },
+  {
+    "name": "ЭЛИТПОСТАВКА",
+    "url": "https://www.youtube.com/channel/UCGfA0Wil55DB7hY7gRl5oTA",
+    "source_url": "https://elitech.ru",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "84598"
+  },
+  {
+    "name": "ABC TOOLS MFG. CORP.",
+    "url": "https://www.youtube.com/@abctoolsmfg.corp.3382",
+    "source_url": "https://abctoolsmfg.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169317"
+  },
+  {
+    "name": "Changzhou Hoprio E-commerce Co.,Ltd",
+    "url": "https://www.youtube.com/channel/UClC3-5MUeni5xjlYDL2VJsw",
+    "source_url": "https://ru.hoprio.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169365"
+  },
+  {
+    "name": "Changzhou Liansheng Optoelectronics Technology Co., Ltd.",
+    "url": "https://www.youtube.com/channel/UCoNz44XbdZVU7-1tGupFOjQ",
+    "source_url": "https://www.plineasy.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169710"
+  },
+  {
+    "name": "CHONGQING LEIYA ELECTRONIC CO LTD",
+    "url": "https://www.youtube.com/@ErayakHongkin",
+    "source_url": "https://LEIYAPOWER.COM",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169893"
+  },
+  {
+    "name": "Corediam Tools Co.,Ltd",
+    "url": "https://www.youtube.com/@CorediamToolsCoLtd",
+    "source_url": "https://www.corediamtools.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169461"
+  },
+  {
+    "name": "CORTOOL MANUFACTURING GROUP",
+    "url": "https://www.youtube.com/channel/UCJ9oJq2jbfOTFDlysdvhrtQ",
+    "source_url": "https://www.cortool.cn",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169464"
+  },
+  {
+    "name": "Danyang Eurocut Tools Co., Ltd",
+    "url": "https://www.youtube.com/@eurocuttools",
+    "source_url": "https://www.eurocutex.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169131"
+  },
+  {
+    "name": "HISENER INDUSTRIAL CO.LTD",
+    "url": "https://www.youtube.com/@Hisener",
+    "source_url": "https://www.hisener.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "168876"
+  },
+  {
+    "name": "JIA COUNTY YIHONG ABRASIVES CO., LTD",
+    "url": "https://www.youtube.com/channel/UCS6g9rcH10ESPPib4y76tgQ",
+    "source_url": "https://www.yihongabrasives.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169824"
+  },
+  {
+    "name": "Jiangsu Dongcheng Import and Export Trade Co., Ltd",
+    "url": "https://www.youtube.com/@dcktoolstv/featured",
+    "source_url": "https://www.dck-tools.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169494"
+  },
+  {
+    "name": "JIANGSU JIANFENG IMPORT AND EXPORT CO.,LTD",
+    "url": "https://www.youtube.com/channel/UCia2fkMirwZEXo2_V9LTEEw",
+    "source_url": "https://www.ycjianfeng.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169017"
+  },
+  {
+    "name": "Jiangsu Norix Tools Co.,Ltd.",
+    "url": "https://www.youtube.com/@Norix_Tools/shorts",
+    "source_url": "https://www.norixtool.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169689"
+  },
+  {
+    "name": "Jiangsu Pineng Electric Tools Co., Ltd.",
+    "url": "https://www.youtube.com/@ArvinWu-f1g5u",
+    "source_url": "https://www.pinengtools.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169704"
+  },
+  {
+    "name": "JINAN STAR FASTENER CO.,LTD.",
+    "url": "https://www.youtube.com/channel/UCY3YEVoTF2k30UKjCbjKTXA",
+    "source_url": "https://WWW.JNSTARFASTENER.COM",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169020"
+  },
+  {
+    "name": "JINAN STAR FASTENER CO.,LTD.",
+    "url": "https://www.youtube.com/channel/ucy3yevotf2k30ukjcbjktxa",
+    "source_url": "https://WWW.JNSTARFASTENER.COM",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169020"
+  },
+  {
+    "name": "Keying Abrasives",
+    "url": "https://www.youtube.com/channel/UCivOmXGV7Yjt1tvhtQWdm6w",
+    "source_url": "https://www.keyingabrasives.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169635"
+  },
+  {
+    "name": "Ningbo Brilliant Dragon Electronic Technology Co., Ltd",
+    "url": "https://www.youtube.com/channel/UC--NBH1btg5uUtGGieZd4Ow",
+    "source_url": "https://www.superflare.net",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169758"
+  },
+  {
+    "name": "Ningbo Vertak Mechanical & Electronic Co., Ltd",
+    "url": "https://www.youtube.com/@vertakchina6130",
+    "source_url": "https://www.vertak.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169788"
+  },
+  {
+    "name": "NINGBO WEIFENG FASTENER CO.,LTD",
+    "url": "https://www.youtube.com/channel/UCv2dIkCdpt7SA-BUWiCDchA",
+    "source_url": "https://WWW.WF-FASTENER.COM",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "168879"
+  },
+  {
+    "name": "QUANZHOU ZHUOSHI SUPERHARD TOOL CO LTD",
+    "url": "https://www.youtube.com/channel/UC2Tn_85wnYZPPMz8_vOIIjA",
+    "source_url": "https://WWW.WANSHINTOOL.COM",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169797"
+  },
+  {
+    "name": "SHANGHAI ENJOY TOOLS CO.,LTD",
+    "url": "https://www.youtube.com/channel/UC8Vevh1q7Bts4CFhkzX8i-w",
+    "source_url": "https://www.enjoy-tools.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "168765"
+  },
+  {
+    "name": "SHIXIA HOLDING CO.,LTD",
+    "url": "https://www.youtube.com/@chinaseesasprayersmanufact9594",
+    "source_url": "https://www.CHINASPRAYER.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169056"
+  },
+  {
+    "name": "SUZHOU NEWSTAR IMPORT & EXPORT CO.,LTD.",
+    "url": "https://www.youtube.com/channel/UCHO0Zfnmw6EskZfqu-vMjHQ",
+    "source_url": "https://www.newstarhardware.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "168852"
+  },
+  {
+    "name": "SW Adhesive Tape Co., Ltd",
+    "url": "https://www.youtube.com/@SW-ADHESIVE-TAPE",
+    "source_url": "https://www.swadhesivetape.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169764"
+  },
+  {
+    "name": "Taizhou Muge micro Electromechanical Factory",
+    "url": "https://www.youtube.com/@QIAN_GONG_Tool",
+    "source_url": "https://www.qghardware.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169719"
+  },
+  {
+    "name": "TRANRICH ABRASIVES",
+    "url": "https://www.youtube.com/@tranrichabrasives",
+    "source_url": "https://www.tranrich.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169782"
+  },
+  {
+    "name": "WENZHOU CITY JINGHONG FASTENERS CO.,LTD",
+    "url": "https://www.youtube.com/@Austin-Lu",
+    "source_url": "https://www.wzjhfastener.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169812"
+  },
+  {
+    "name": "XIAN COUNTY LONGGE AUTOMOBILE REPAIR TOOLS CO.,LTD",
+    "url": "https://youtube.com/@zhaojerry-longge",
+    "source_url": "https://www.auto-repairtools.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169419"
+  },
+  {
+    "name": "Yongkang Leeyu Import and Export Co., Ltd.",
+    "url": "https://www.youtube.com/channel/UCppZnUTadBtzdRnnWi8XTxw",
+    "source_url": "https://www.chinaleeyu.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "168801"
+  },
+  {
+    "name": "YONGKANG SUNWAY INDUSTRY&TRADE CO.,LTD.",
+    "url": "https://www.youtube.com/@SunwayLadder",
+    "source_url": "https://www.yksunway.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169836"
+  },
+  {
+    "name": "YUHUAN SHUNSHIDA INTELLIGENT ELECTROMECHANICAL CO., LTD",
+    "url": "https://youtube.com/@shunshidayuhuan",
+    "source_url": "https://www.cmssdgastorch.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169449"
+  },
+  {
+    "name": "ZHEJIANG AOER ELECTRICAL APPLIANCES CO., LTD",
+    "url": "https://www.youtube.com/channel/UCxHHcD6VaYrsYtcPbGo4rLQ",
+    "source_url": "https://www.motoraoer.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169671"
+  },
+  {
+    "name": "ZHEJIANG HELEN GARDEN CO.,LTD.",
+    "url": "https://www.youtube.com/@HelenGardenHoseManufacturer",
+    "source_url": "https://www.chinagardenhose.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "168912"
+  },
+  {
+    "name": "ZHEJIANG JINHUA CUMET ABRASIVE CO., LTD",
+    "url": "https://www.youtube.com/@CUMET-Abrasive",
+    "source_url": "https://www.cumet.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169140"
+  },
+  {
+    "name": "ZHEJIANG LUBA TRAFFIC TECHNOLOGY CO.,LTD.",
+    "url": "https://www.youtube.com/@LUBATRAFFIC2025",
+    "source_url": "https://www.cnluba.com",
+    "kind": "exhibitor_channel",
+    "exhibitor_id": "169050"
+  }
+]

@@ -1,0 +1,570 @@
+{
+  "channels": 61,
+  "posts": 305,
+  "channels_with_posts": 61,
+  "results": [
+    {
+      "url": "https://t.me/carvilleru",
+      "title": "CARVILLE News",
+      "companies": [
+        "AIRLINE"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.587608+00:00"
+    },
+    {
+      "url": "https://t.me/bifacesofficial",
+      "title": "BIFACES OFFICIAL",
+      "companies": [
+        "BIFACES / АКВАСАН"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.587608+00:00"
+    },
+    {
+      "url": "https://t.me/caimanrussia",
+      "title": "CAIMAN",
+      "companies": [
+        "CAIMAN",
+        "Спикер: Александр Маркин"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.588607+00:00"
+    },
+    {
+      "url": "https://t.me/redbo_official",
+      "title": "Redbo Official",
+      "companies": [
+        "Edon"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.588607+00:00"
+    },
+    {
+      "url": "https://t.me/ermenrich_instrument",
+      "title": "Ermenrich | Эрменрих. Измерительные инструменты",
+      "companies": [
+        "ERMENRICH"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.637792+00:00"
+    },
+    {
+      "url": "https://t.me/fengbao_rf",
+      "title": "Fengbaо Россия",
+      "companies": [
+        "FENGBAO | NOKK"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.825400+00:00"
+    },
+    {
+      "url": "https://t.me/felisatti",
+      "title": "FELISATTI",
+      "companies": [
+        "FELISATTI (ООО \"Фелисатти\")"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.713332+00:00"
+    },
+    {
+      "url": "https://t.me/sds_group_ru",
+      "title": "SDS",
+      "companies": [
+        "KRANZ"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.856818+00:00"
+    },
+    {
+      "url": "https://t.me/kolner_tools",
+      "title": "KOLNER - Инструмент и оборудование",
+      "companies": [
+        "KOLNER"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.838788+00:00"
+    },
+    {
+      "url": "https://t.me/hanskonnerofficial",
+      "title": "Hanskonner Official",
+      "companies": [
+        "HANSKONNER"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.838788+00:00"
+    },
+    {
+      "url": "https://t.me/krugo_gemda",
+      "title": "KRUGO | диски пильные, алмазные, абразивные",
+      "companies": [
+        "KRUGO Gemda Technology"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:41.926436+00:00"
+    },
+    {
+      "url": "https://t.me/lavr_avtohim",
+      "title": "LAVR Автохимия и автокосметика",
+      "companies": [
+        "LAVR"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.012373+00:00"
+    },
+    {
+      "url": "https://t.me/powerac_ru",
+      "title": "Powerac",
+      "companies": [
+        "POWERAC"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.012373+00:00"
+    },
+    {
+      "url": "https://t.me/powertexhepha",
+      "title": "Powertex HEPHA- инструменты и станочная оснастка",
+      "companies": [
+        "POWERTEX"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.039323+00:00"
+    },
+    {
+      "url": "https://t.me/rage_tools",
+      "title": "Инструменты RAGE",
+      "companies": [
+        "RAGE"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.108403+00:00"
+    },
+    {
+      "url": "https://t.me/profipowers",
+      "title": "PROFIPOWER",
+      "companies": [
+        "PROFIPOWER"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.039323+00:00"
+    },
+    {
+      "url": "https://t.me/villartec",
+      "title": "VILLARTEC",
+      "companies": [
+        "VILLARTEC|DEVON"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.267698+00:00"
+    },
+    {
+      "url": "https://t.me/retail_ru",
+      "title": "Retail.ru - пишем о ритейле каждый день",
+      "companies": [
+        "Retail.ru"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.168207+00:00"
+    },
+    {
+      "url": "https://t.me/instrument_tihoretsk",
+      "title": "Магазин ИНСТРУМЕНТ",
+      "companies": [
+        "АВРОРА, ГК"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.332234+00:00"
+    },
+    {
+      "url": "https://t.me/avroraind",
+      "title": "АВРОРА Welding Lab",
+      "companies": [
+        "АВРОРА, ГК"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.267698+00:00"
+    },
+    {
+      "url": "https://t.me/tehtoolsrussia",
+      "title": "TEH OFFICIAL",
+      "companies": [
+        "TEH RUSSIA"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.267698+00:00"
+    },
+    {
+      "url": "https://t.me/scslogistic",
+      "title": "SCS | Кейсы. Логистика. Китай",
+      "companies": [
+        "SCS Logistic"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.232120+00:00"
+    },
+    {
+      "url": "https://t.me/kulibin_mariupol",
+      "title": "Кулибин | Инструменты, электроинструмент, ручной инструмент, сварочное оборудование, генераторы, расходники в Мариуполе",
+      "companies": [
+        "АВРОРА, ГК"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.573654+00:00"
+    },
+    {
+      "url": "https://t.me/vseinstrumentirudiy",
+      "title": "ВсеИнструменты.ру ✔",
+      "companies": [
+        "ВсеИнструменты.РУ, ООО",
+        "Спикер: Андрей Пироженко",
+        "Спикер: Олег Соколов"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.574651+00:00"
+    },
+    {
+      "url": "https://t.me/vertextools_moscow",
+      "title": "VertexTools",
+      "companies": [
+        "ВЕРТЕКС ИНСТРУМЕНТ, ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.574651+00:00"
+    },
+    {
+      "url": "https://t.me/kulibin_weld",
+      "title": "Кулибин Сварка | Инструменты, электроинструмент, ручной инструмент, сварочное оборудование, расходники Симферополь",
+      "companies": [
+        "АВРОРА, ГК"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.573654+00:00"
+    },
+    {
+      "url": "https://t.me/bohrer2025",
+      "title": "BOHRER",
+      "companies": [
+        "БОРЕР"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.573654+00:00"
+    },
+    {
+      "url": "https://t.me/oao_baz",
+      "title": "Белгородский абразивный завод имени А.И. Сафонова | БАЗ",
+      "companies": [
+        "Белгородский абразивный завод имени А.И. Сафонова, АО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.573654+00:00"
+    },
+    {
+      "url": "https://t.me/dvizhok_journal",
+      "title": "Журнал Движок",
+      "companies": [
+        "ДВИЖОК"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.769987+00:00"
+    },
+    {
+      "url": "https://t.me/interskoltools",
+      "title": "ИНТЕРСКОЛ - официальный канал",
+      "companies": [
+        "ИНТЕРСКОЛ",
+        "Спикер: Альберт Родин",
+        "Спикер: Сергей Назаров",
+        "Спикер: Сергей Немков"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.808056+00:00"
+    },
+    {
+      "url": "https://t.me/iek_group_rus",
+      "title": "IEK",
+      "companies": [
+        "ИЭК ХОЛДИНГ, ПАО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.808056+00:00"
+    },
+    {
+      "url": "https://t.me/stroyshtuki",
+      "title": "Стройштуки на связи!",
+      "companies": [
+        "ЛАДЬЯ ААМ"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.808056+00:00"
+    },
+    {
+      "url": "https://t.me/jzy_russia",
+      "title": "ДЗВ Механика - электроинструмент JZY",
+      "companies": [
+        "ДЗВ МЕХАНИКА"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.808056+00:00"
+    },
+    {
+      "url": "https://t.me/hoz_msk",
+      "title": "maximum-tools.ru🔨 Инструменты и хозтовары оптом 🚚 Прямые поставки из Китая 📦 Крупный и мелкий опт 💰",
+      "companies": [
+        "ЛМ Компани"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.892509+00:00"
+    },
+    {
+      "url": "https://t.me/homutru",
+      "title": "Компания Мир Хомутов",
+      "companies": [
+        "МИР ХОМУТОВ, ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:42.977652+00:00"
+    },
+    {
+      "url": "https://t.me/decor_namerenie",
+      "title": "DECORнутый клуб",
+      "companies": [
+        "НАМЕРЕНИЕ, ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.056683+00:00"
+    },
+    {
+      "url": "https://t.me/planticru",
+      "title": "PLANTIC садовые инструменты",
+      "companies": [
+        "ПЛАНТИК, ООО",
+        "Спикер: Сергей Утяков"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.086609+00:00"
+    },
+    {
+      "url": "https://t.me/pittoolsrus",
+      "title": "Сообщество P.I.T.",
+      "companies": [
+        "ООО \"ТУРБО-ТУЛС\" (P.I.T. / MaxPiler)"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.086609+00:00"
+    },
+    {
+      "url": "https://t.me/fubag_official",
+      "title": "Fubag.ru",
+      "companies": [
+        "ПРОММАШ, ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.096677+00:00"
+    },
+    {
+      "url": "https://t.me/protexplast",
+      "title": "Protex",
+      "companies": [
+        "ПРОТЭКС"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.097196+00:00"
+    },
+    {
+      "url": "https://t.me/pzm_pushkino",
+      "title": "Пушкинский завод металлоизделий",
+      "companies": [
+        "ПУШКИНСКИЙ ЗАВОД МЕТАЛЛОИЗДЕЛИЙ"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.226291+00:00"
+    },
+    {
+      "url": "https://t.me/rvdgroupcompany",
+      "title": "РВД станки и комплектующие от производителя RVD-GROUP",
+      "companies": [
+        "РВД ГРУПП"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.241621+00:00"
+    },
+    {
+      "url": "https://t.me/bestill_rus",
+      "title": "Товары для сада BESTILL |оптом|",
+      "companies": [
+        "СЕВЕРНОЕ СИЯНИЕ, ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.259642+00:00"
+    },
+    {
+      "url": "https://t.me/ridelit_russian",
+      "title": "RIDELIT 41 км/Южные ворота",
+      "companies": [
+        "РИДЕЛИТ/ ВОРДЛЮКС"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.256637+00:00"
+    },
+    {
+      "url": "https://t.me/altecokz",
+      "title": "ALTECO News",
+      "companies": [
+        "СЕВЕРНЫЙ АЛЬЯНС, ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.271995+00:00"
+    },
+    {
+      "url": "https://t.me/professionalwelding61",
+      "title": "\"Профессионал\" Сварочное оборудование и комплектующие 💥",
+      "companies": [
+        "СВАРКОМПЛЕКТ, ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.259642+00:00"
+    },
+    {
+      "url": "https://t.me/stavrinstrument",
+      "title": "STAVR инструмент 🛠️",
+      "companies": [
+        "СТАВР"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.459476+00:00"
+    },
+    {
+      "url": "https://t.me/stroygazeta",
+      "title": "Строительная газета",
+      "companies": [
+        "СТРОИТЕЛЬНАЯ ГАЗЕТА"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.530884+00:00"
+    },
+    {
+      "url": "https://t.me/td_avtograph",
+      "title": "ТД \"АВТОграф\": полезные видео и новости кузовного ремонта и полировки",
+      "companies": [
+        "Торговый Дом \"АВТОграф\", ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.532395+00:00"
+    },
+    {
+      "url": "https://t.me/ss_neva",
+      "title": "Стоун-Сервис-Нева",
+      "companies": [
+        "СТОУН-СЕРВИС-НЕВА"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.530884+00:00"
+    },
+    {
+      "url": "https://t.me/rusichzavod",
+      "title": "Тракторный завод Русич",
+      "companies": [
+        "ТРАКТОРНЫЙ ЗАВОД РУСИЧ"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.580510+00:00"
+    },
+    {
+      "url": "https://t.me/uralbenzoteh",
+      "title": "FORZA Садовая техника",
+      "companies": [
+        "УРАЛБЕНЗОТЕХ, ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.781457+00:00"
+    },
+    {
+      "url": "https://t.me/trio_diamond_channel",
+      "title": "TRIO DIAMOND | HILBERG | Алмазный инструмент",
+      "companies": [
+        "ТРИО ДИАМАНТ ЛТД, ООО"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.580510+00:00"
+    },
+    {
+      "url": "https://t.me/tssru",
+      "title": "ТСС: дизель‑генераторы № 1 в России | TSS.RU",
+      "companies": [
+        "ТСС ГК",
+        "Спикер: Дарья Дубовская",
+        "Спикер: Геннадий Попов"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.631771+00:00"
+    },
+    {
+      "url": "https://t.me/armytekru",
+      "title": "Armytek Россия 🔦",
+      "companies": [
+        "Ширшов К.Е.  ИП"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.846703+00:00"
+    },
+    {
+      "url": "https://t.me/elitech_official",
+      "title": "ELITECH",
+      "companies": [
+        "ЭЛИТПОСТАВКА",
+        "Спикер: Александр Брагин",
+        "Спикер: Александр Гончаров",
+        "Спикер: Александр Солдатенко",
+        "Спикер: Иван Алексеев",
+        "Спикер: Роман Костиков"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.862737+00:00"
+    },
+    {
+      "url": "https://t.me/kvt_su",
+      "title": "Электротехнический завод КВТ",
+      "companies": [
+        "Электротехнический завод «КВТ»"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:43.862737+00:00"
+    },
+    {
+      "url": "https://t.me/be_trained",
+      "title": "Алёна Мельник®️|Продавать, ПРОДАВАЯ",
+      "companies": [
+        "Спикер: Алёна Мельник"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:44.059743+00:00"
+    },
+    {
+      "url": "https://t.me/engelstool",
+      "title": "ЭНГЕЛЬС Электроинструмент",
+      "companies": [
+        "ЭНГЕЛЬС"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:44.059743+00:00"
+    },
+    {
+      "url": "https://t.me/sinoruss",
+      "title": "Sinoruss. Китай. Бизнес",
+      "companies": [
+        "Спикер: Анастасия Валова"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:44.096276+00:00"
+    },
+    {
+      "url": "https://t.me/liapchev",
+      "title": "Liapchev_topiary",
+      "companies": [
+        "Спикер: Владимир Ляпчев"
+      ],
+      "status": "collected",
+      "checked_at": "2026-10-14T20:50:44.112326+00:00"
+    }
+  ]
+}

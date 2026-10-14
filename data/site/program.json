@@ -1,7 +1,1003 @@
 {
-  "status": "requires_review",
-  "source_url": "https://mitexpo.ru/about/delovaya-programma/",
-  "observed_heading": "Деловая программа выставки Mitex 2003",
-  "note": "Страница источника не подтверждает программу 2026 года. События и спикеры не импортированы.",
-  "events": []
+  "status": "collected",
+  "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/",
+  "observed_heading": "Деловая программа выставки Mitex 2026",
+  "checked_at": "2026-10-14T20:25:14.183120+00:00",
+  "note": "Расписание опубликовано организатором на странице 2026 года. Состав и время могут измениться до открытия.",
+  "events": [
+    {
+      "id": "14222",
+      "title": "Лекция «Фитопластика: основа и нюансы»",
+      "date": "2026-11-10",
+      "start": "11:00",
+      "end": "12:00",
+      "venue": "MITEX ПАРК",
+      "kind": "Лекция",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/fitoplastika-osnova-i-nyuansy/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "aleksandr-sharonin",
+          "name": "Александр Шаронин",
+          "role": "Мастер топиарного искусства",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/bf9/373_999999_1/ancfqcxbsgufgv10smpxmi8zzc3y8cy7.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-sharonin/"
+        }
+      ],
+      "description": "Основы создания декоративных форм из растений. Заявлена лекция мастера топиарного искусства Александра Шаронина.",
+      "speaker_links": [
+        {
+          "name": "Александр Шаронин Мастер топиарного искусства",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-sharonin/"
+        }
+      ]
+    },
+    {
+      "id": "14098",
+      "title": "Торжественное открытие выставки Митекс 2026",
+      "date": "2026-11-10",
+      "start": "11:00",
+      "end": "11:30",
+      "venue": "MITEX Арена",
+      "kind": "Торжественная церемония",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/torzhestvennoe-otkrytie-vystavki-miteks-2026/",
+      "status": "Заявлено в программе 2026",
+      "people": [],
+      "description": "Официальное открытие выставки. Имена выступающих в опубликованной карточке не указаны.",
+      "speaker_links": []
+    },
+    {
+      "id": "14099",
+      "title": "Инструментальный рынок 2026–2027 — новые балансы и точки роста",
+      "date": "2026-11-10",
+      "start": "11:30",
+      "end": "13:00",
+      "venue": "MITEX Арена",
+      "kind": "Пленарная сессия",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/instrumentalnyy-rynok-2026-2027-novye-balansy-i-tochki-rosta/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "aleksandr-bragin",
+          "name": "Александр Брагин",
+          "role": "коммерческий директор ELITECH",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/9c6/373_999999_1/1ht7nycqpvywcdm7faodkdszq9l3dnsc.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-bragin/"
+        },
+        {
+          "id": "andrey-plokhov",
+          "name": "Андрей Плохов",
+          "role": "руководитель группы Инструмент, Wildberries",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/b53/373_999999_1/hu94tfq6hmnxohhrl1tl1ma2a27h9ykp.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/andrey-plokhov/"
+        },
+        {
+          "id": "evgeniy-liskin-26",
+          "name": "Евгений Лискин",
+          "role": "управляющий партнёр «Единой платформы продавцов инструмента и оборудования»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/148/373_999999_1/jp5d24pnqgo28qqgwn3rb6mim9r2xg43.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/evgeniy-liskin-26/"
+        },
+        {
+          "id": "mikhail-nazarenko-2026",
+          "name": "Михаил Назаренко",
+          "role": "руководитель департамента Инструменты и Сад, Ozon",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/36b/373_999999_1/dfia249x8q9xnkvau0bzeob2vzywkomx.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-nazarenko-2026/"
+        },
+        {
+          "id": "mikhail-vasilev-2026",
+          "name": "Михаил Васильев",
+          "role": "президент, Ассоциация торговых компаний и производителей электроинструмента и средств малой механизации",
+          "photo": "https://mitexpo.ru/upload/iblock/bf6/8uh1r92i858mmk79f269yjrr3j92kr31.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-vasilev-2026/"
+        },
+        {
+          "id": "oleg-sokolov-26",
+          "name": "Олег Соколов",
+          "role": "категорийный директор КД «Инструмент», ВсеИнструменты.ру",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/e21/373_999999_1/5fgzws5wugt8t7y28fto58ng3icd7usp.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/oleg-sokolov-26/"
+        },
+        {
+          "id": "pavel-koryagin",
+          "name": "Павел Корягин",
+          "role": "руководитель направления отдела «Инструменты», Лемана ПРО",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/271/373_999999_1/a671hr3faldr3kfuv08zouyaei91cvdu.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/pavel-koryagin/"
+        },
+        {
+          "id": "sergey-nazarov-26",
+          "name": "Сергей Назаров",
+          "role": "основатель бренда «Интерскол»",
+          "photo": "https://mitexpo.ru/upload/iblock/d53/bfql0aq7rhwvow00q7ltudzhoro4yibj.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/sergey-nazarov-26/"
+        },
+        {
+          "id": "yuriy-kuznetsov-26",
+          "name": "Юрий Кузнецов",
+          "role": "Заместитель директора Департамента станкостроения и тяжелого машиностроения Минпромторга России",
+          "photo": "https://mitexpo.ru/upload/iblock/242/bou9kw2cny03hak26lduw0jhr1765fnf.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/yuriy-kuznetsov-26/"
+        }
+      ],
+      "description": "Обсуждение состояния инструментального рынка и направлений его развития в 2026–2027 годах. В составе — представители ведомства, производителей, розницы и маркетплейсов.",
+      "speaker_links": [
+        {
+          "name": "Евгений Лискин управляющий партнёр «Единой платформы продавцов инструмента и оборудования»",
+          "source_url": "https://mitexpo.ru/about/speakers/evgeniy-liskin-26/"
+        },
+        {
+          "name": "Юрий Кузнецов Заместитель директора Департамента станкостроения и тяжелого машиностроения Минпромторга России",
+          "source_url": "https://mitexpo.ru/about/speakers/yuriy-kuznetsov-26/"
+        },
+        {
+          "name": "Михаил Васильев президент, Ассоциация торговых компаний и производителей электроинструмента и средств малой механизации",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-vasilev-2026/"
+        },
+        {
+          "name": "Михаил Назаренко руководитель департамента Инструменты и Сад, Ozon",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-nazarenko-2026/"
+        },
+        {
+          "name": "Олег Соколов категорийный директор КД «Инструмент», ВсеИнструменты.ру",
+          "source_url": "https://mitexpo.ru/about/speakers/oleg-sokolov-26/"
+        },
+        {
+          "name": "Андрей Плохов руководитель группы Инструмент, Wildberries",
+          "source_url": "https://mitexpo.ru/about/speakers/andrey-plokhov/"
+        },
+        {
+          "name": "Сергей Назаров основатель бренда «Интерскол»",
+          "source_url": "https://mitexpo.ru/about/speakers/sergey-nazarov-26/"
+        },
+        {
+          "name": "Павел Корягин руководитель направления отдела «Инструменты», Лемана ПРО",
+          "source_url": "https://mitexpo.ru/about/speakers/pavel-koryagin/"
+        },
+        {
+          "name": "Александр Брагин коммерческий директор ELITECH",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-bragin/"
+        }
+      ]
+    },
+    {
+      "id": "14223",
+      "title": "Мастер-класс «Фитопластика: основа и нюансы»",
+      "date": "2026-11-10",
+      "start": "12:00",
+      "end": "13:30",
+      "venue": "MITEX ПАРК",
+      "kind": "Мастер-класс",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/fitoplastika-osnova-i-nyuansy-mk/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "aleksandr-sharonin",
+          "name": "Александр Шаронин",
+          "role": "Мастер топиарного искусства",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/bf9/373_999999_1/ancfqcxbsgufgv10smpxmi8zzc3y8cy7.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-sharonin/"
+        }
+      ],
+      "description": "Практическое занятие по фитопластике с Александром Шарониным. Участие в мастер-классе следует уточнять у организатора.",
+      "speaker_links": [
+        {
+          "name": "Александр Шаронин Мастер топиарного искусства",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-sharonin/"
+        }
+      ]
+    },
+    {
+      "id": "14100",
+      "title": "Розница инструмента 2026: выживание, трансформация и новые форматы торговли",
+      "date": "2026-11-10",
+      "start": "13:30",
+      "end": "15:00",
+      "venue": "MITEX Арена",
+      "kind": "Практическая сессия",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/roznitsa-instrumenta-2026-vyzhivanie-transformatsiya-i-novye-formaty-torgovli/",
+      "status": "Заявлено в программе 2026",
+      "people": [],
+      "description": "Сессия о перестройке инструментальной розницы и форматах торговли. Состав спикеров пока не указан в карточке.",
+      "speaker_links": []
+    },
+    {
+      "id": "14161",
+      "title": "«Маленький Цубонива в Большом Городе: японский сад в „спичечном коробке“»",
+      "date": "2026-11-10",
+      "start": "14:00",
+      "end": "15:00",
+      "venue": "MITEX ПАРК",
+      "kind": "Лекция",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/malenkiy-tsuboniva-v-bolshom-gorode-yaponskiy-sad-v-spichechnom-korobke/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "roman-golomolzin-26",
+          "name": "Роман Голомолзин",
+          "role": "Директор АНО ДПО «Международная Академия Топиарного Искусства»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/296/373_999999_1/cssm75lzt0c9kkhq5fpw0l9lp36gvks6.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/roman-golomolzin-26/"
+        }
+      ],
+      "description": "Лекция о создании компактного японского сада. Заявленный ведущий — Роман Голомолзин.",
+      "speaker_links": [
+        {
+          "name": "Роман Голомолзин Директор АНО ДПО «Международная Академия Топиарного Искусства»",
+          "source_url": "https://mitexpo.ru/about/speakers/roman-golomolzin-26/"
+        }
+      ]
+    },
+    {
+      "id": "14162",
+      "title": "«Искусство Ниваки. Первичное формирование и сервисное обслуживание древесных растений»",
+      "date": "2026-11-10",
+      "start": "15:00",
+      "end": "17:00",
+      "venue": "MITEX ПАРК",
+      "kind": "Мастер-класс",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/iskusstvo-nivaki-pervichnoe-formirovanie-i-servisnoe-obsluzhivanie-drevesnykh-rasteniy/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "roman-golomolzin-26",
+          "name": "Роман Голомолзин",
+          "role": "Директор АНО ДПО «Международная Академия Топиарного Искусства»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/296/373_999999_1/cssm75lzt0c9kkhq5fpw0l9lp36gvks6.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/roman-golomolzin-26/"
+        }
+      ],
+      "description": "Мастер-класс по первоначальному формированию ниваки и дальнейшему уходу за древесными растениями.",
+      "speaker_links": [
+        {
+          "name": "Роман Голомолзин Директор АНО ДПО «Международная Академия Топиарного Искусства»",
+          "source_url": "https://mitexpo.ru/about/speakers/roman-golomolzin-26/"
+        }
+      ]
+    },
+    {
+      "id": "14103",
+      "title": "Трансформация рынка электроинструмента в условиях развития интернет-торговли",
+      "date": "2026-11-10",
+      "start": "15:00",
+      "end": "17:30",
+      "venue": "MITEX Арена",
+      "kind": "Конференция",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/transformatsiya-rynka-elektroinstrumenta-v-usloviyakh-razvitiya-internet-torgovli/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "aleksandr-dolgorukov-2026",
+          "name": "Александр Долгоруков",
+          "role": "исполнительный директор Ассоциации РАТПЭ",
+          "photo": "https://mitexpo.ru/upload/iblock/c93/rvcr018573wjyirf4n7d9l4sx383abpl.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-dolgorukov-2026/"
+        },
+        {
+          "id": "mikhail-vasilev-2026",
+          "name": "Михаил Васильев",
+          "role": "президент, Ассоциация торговых компаний и производителей электроинструмента и средств малой механизации",
+          "photo": "https://mitexpo.ru/upload/iblock/bf6/8uh1r92i858mmk79f269yjrr3j92kr31.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-vasilev-2026/"
+        },
+        {
+          "id": "yuliya-vasiltsyun-26",
+          "name": "Юлия Васильцюн",
+          "role": "руководитель юридического отдела, руководитель службы внутреннего комплаенса Ростест",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/396/373_999999_1/792dw1q0wll7o09ziu2jmocevuf4zrh3.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/yuliya-vasiltsyun-26/"
+        }
+      ],
+      "description": "Сессия о влиянии интернет-продаж на рынок электроинструмента. Опубликован состав представителей отрасли и каналов продаж.",
+      "speaker_links": [
+        {
+          "name": "Александр Долгоруков исполнительный директор Ассоциации РАТПЭ",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-dolgorukov-2026/"
+        },
+        {
+          "name": "Михаил Васильев президент, Ассоциация торговых компаний и производителей электроинструмента и средств малой механизации",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-vasilev-2026/"
+        },
+        {
+          "name": "Юлия Васильцюн руководитель юридического отдела, руководитель службы внутреннего комплаенса Ростест",
+          "source_url": "https://mitexpo.ru/about/speakers/yuliya-vasiltsyun-26/"
+        }
+      ]
+    },
+    {
+      "id": "14163",
+      "title": "«Инструменты для создания красивого сада: как выбрать инструмент для разных садовых задач»",
+      "date": "2026-11-11",
+      "start": "11:00",
+      "end": "12:00",
+      "venue": "MITEX ПАРК",
+      "kind": "Лекция",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/instrumenty-dlya-sozdaniya-krasivogo-sada-kak-vybrat-instrument-dlya-raznykh-sadovykh-zadach/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "vladimir-lyapchev-26",
+          "name": "Владимир Ляпчев",
+          "role": "ландшафтный дизайнер",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/68b/373_999999_1/in2hbjixbsn450k57iimueou51xc1z3m.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/vladimir-lyapchev-26/"
+        }
+      ],
+      "description": "Лекция Владимира Ляпчева о подборе инструмента под разные садовые работы.",
+      "speaker_links": [
+        {
+          "name": "Владимир Ляпчев ландшафтный дизайнер",
+          "source_url": "https://mitexpo.ru/about/speakers/vladimir-lyapchev-26/"
+        }
+      ]
+    },
+    {
+      "id": "14108",
+      "title": "Сварочный рынок 2026: DIY, Pro и новые технологии",
+      "date": "2026-11-11",
+      "start": "11:00",
+      "end": "12:30",
+      "venue": "MITEX Арена",
+      "kind": "Практическая сессия",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/svarochnyy-rynok-2026-diy-pro-i-novye-tekhnologii/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "andrey-pirozhenko-26",
+          "name": "Андрей Пироженко",
+          "role": "категорийный менеджер ВсеИнструменты.ру",
+          "photo": "https://mitexpo.ru/upload/iblock/79d/rh8pqqozku7adss32eydz8e4cwcxtbe5.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/andrey-pirozhenko-26/"
+        },
+        {
+          "id": "darya-dubovskaya-26",
+          "name": "Дарья Дубовская",
+          "role": "руководитель отдела развития продаж сварочного оборудования Hugong ООО \"ГК ТСС\"",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/657/373_999999_1/1ois9r7z0bo1ppjphfoo6wv9f8hx283u.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/darya-dubovskaya-26/"
+        },
+        {
+          "id": "denis-zamyslov-26",
+          "name": "Денис Замыслов",
+          "role": "директор по развитию Foxweld",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/7d1/373_999999_1/d755qk1wqix43hkbbqmek6fi0xp2u8qz.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/denis-zamyslov-26/"
+        },
+        {
+          "id": "gennadiy-popov-26",
+          "name": "Геннадий Попов",
+          "role": "директор по маркетингу ООО \"ГК ТСС\"",
+          "photo": "https://mitexpo.ru/upload/iblock/789/1q63gjzch9rf87z5tzdjib1mkfrjqysw.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/gennadiy-popov-26/"
+        },
+        {
+          "id": "roman-kostikov",
+          "name": "Роман Костиков",
+          "role": "продакт-менеджер ELITECH в категории «силовая техника»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/6b4/373_999999_1/7gjt30dw39jqafns26fwmjoy7lpj5w0o.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/roman-kostikov/"
+        },
+        {
+          "id": "stanislav-gogolev-26",
+          "name": "Станислав Гоголев",
+          "role": "руководитель оптового отдела продаж \"ГК \"АВРОРА\" (Холдинг ТПО \"Евротек\")",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/2a7/373_999999_1/1eyar4hzn3au6yn73c0mavwrq2jdqsvy.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/stanislav-gogolev-26/"
+        }
+      ],
+      "description": "Практическая сессия по сварочному рынку: сегменты бытового и профессионального оборудования, новые технологии.",
+      "speaker_links": [
+        {
+          "name": "Геннадий Попов директор по маркетингу ООО \"ГК ТСС\"",
+          "source_url": "https://mitexpo.ru/about/speakers/gennadiy-popov-26/"
+        },
+        {
+          "name": "Роман Костиков продакт-менеджер ELITECH в категории «силовая техника»",
+          "source_url": "https://mitexpo.ru/about/speakers/roman-kostikov/"
+        },
+        {
+          "name": "Денис Замыслов директор по развитию Foxweld",
+          "source_url": "https://mitexpo.ru/about/speakers/denis-zamyslov-26/"
+        },
+        {
+          "name": "Станислав Гоголев руководитель оптового отдела продаж \"ГК \"АВРОРА\" (Холдинг ТПО \"Евротек\")",
+          "source_url": "https://mitexpo.ru/about/speakers/stanislav-gogolev-26/"
+        },
+        {
+          "name": "Дарья Дубовская руководитель отдела развития продаж сварочного оборудования Hugong ООО \"ГК ТСС\"",
+          "source_url": "https://mitexpo.ru/about/speakers/darya-dubovskaya-26/"
+        },
+        {
+          "name": "Андрей Пироженко категорийный менеджер ВсеИнструменты.ру",
+          "source_url": "https://mitexpo.ru/about/speakers/andrey-pirozhenko-26/"
+        }
+      ]
+    },
+    {
+      "id": "14164",
+      "title": "«Инструменты для создания красивого сада. Практические техники и приёмы работы»",
+      "date": "2026-11-11",
+      "start": "12:30",
+      "end": "14:30",
+      "venue": "MITEX ПАРК",
+      "kind": "Мастер-класс",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/instrumenty-dlya-sozdaniya-krasivogo-sada-prakticheskie-tekhniki-i-priyemy-raboty/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "vladimir-lyapchev-26",
+          "name": "Владимир Ляпчев",
+          "role": "ландшафтный дизайнер",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/68b/373_999999_1/in2hbjixbsn450k57iimueou51xc1z3m.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/vladimir-lyapchev-26/"
+        }
+      ],
+      "description": "Практический мастер-класс Владимира Ляпчева по применению садового инструмента.",
+      "speaker_links": [
+        {
+          "name": "Владимир Ляпчев ландшафтный дизайнер",
+          "source_url": "https://mitexpo.ru/about/speakers/vladimir-lyapchev-26/"
+        }
+      ]
+    },
+    {
+      "id": "14104",
+      "title": "Рынок садовой техники 2026–2027: технологии, потребительские тренды и новые точки роста",
+      "date": "2026-11-11",
+      "start": "12:40",
+      "end": "14:10",
+      "venue": "MITEX Арена",
+      "kind": "Экспертная сессия",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/rynok-sadovoy-tekhniki-2026-2027-tekhnologii-potrebitelskie-trendy-i-novye-tochki-rosta/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "aleksandr-goncharov-2026",
+          "name": "Александр Гончаров",
+          "role": "продакт-менеджер  ELITECH в категории «садовая техника»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/93d/373_999999_1/ibioclqjy620phbkt93hxh59h95xg24l.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-goncharov-2026/"
+        },
+        {
+          "id": "aleksandr-markin-26",
+          "name": "Александр Маркин",
+          "role": "Генеральный директор Caiman",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/d31/373_999999_1/5trfirjr3nj0k09jkuvn1v4rhzoqto2v.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-markin-26/"
+        },
+        {
+          "id": "aleksey-mesnyankin-26",
+          "name": "Алексей Меснянкин",
+          "role": "Редактор специализированных изданий «Инструменты» и GardenTools",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/066/373_999999_1/hbwpjv0rzyx4fzuaco6xnhcfdqh386qs.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksey-mesnyankin-26/"
+        },
+        {
+          "id": "gleb-filin-26",
+          "name": "Глеб Филин",
+          "role": "Руководитель направления «Инструменты и садовая техника», Яндекс Маркет",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/583/373_999999_1/x9lmk1wx0h2ogr3elkn9ourbmnfiqc20.jpeg",
+          "source_url": "https://mitexpo.ru/about/speakers/gleb-filin-26/"
+        },
+        {
+          "id": "mikhail-nazarenko-2026",
+          "name": "Михаил Назаренко",
+          "role": "руководитель департамента Инструменты и Сад, Ozon",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/36b/373_999999_1/dfia249x8q9xnkvau0bzeob2vzywkomx.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-nazarenko-2026/"
+        },
+        {
+          "id": "rada-rozhitskaya-26",
+          "name": "Рада Рожицкая",
+          "role": "генеральный директор Greenworks",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/5bd/373_999999_1/bx8izzvrk8zse0muhe257ij2041ygk87.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/rada-rozhitskaya-26/"
+        },
+        {
+          "id": "sergey-utyakov",
+          "name": "Сергей Утяков",
+          "role": "коммерческий директор Plantic",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/d97/373_999999_1/5y8m1ojlznkavy665e4ji053dfzcgwfu.JPG",
+          "source_url": "https://mitexpo.ru/about/speakers/sergey-utyakov/"
+        }
+      ],
+      "description": "Обсуждение развития садовой техники, запросов покупателей и возможностей роста рынка в 2026–2027 годах.",
+      "speaker_links": [
+        {
+          "name": "Алексей Меснянкин Редактор специализированных изданий «Инструменты» и GardenTools",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksey-mesnyankin-26/"
+        },
+        {
+          "name": "Александр Гончаров продакт-менеджер  ELITECH в категории «садовая техника»",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-goncharov-2026/"
+        },
+        {
+          "name": "Михаил Назаренко руководитель департамента Инструменты и Сад, Ozon",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-nazarenko-2026/"
+        },
+        {
+          "name": "Рада Рожицкая генеральный директор Greenworks",
+          "source_url": "https://mitexpo.ru/about/speakers/rada-rozhitskaya-26/"
+        },
+        {
+          "name": "Александр Маркин Генеральный директор Caiman",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-markin-26/"
+        },
+        {
+          "name": "Сергей Утяков коммерческий директор Plantic",
+          "source_url": "https://mitexpo.ru/about/speakers/sergey-utyakov/"
+        },
+        {
+          "name": "Глеб Филин Руководитель направления «Инструменты и садовая техника», Яндекс Маркет",
+          "source_url": "https://mitexpo.ru/about/speakers/gleb-filin-26/"
+        }
+      ]
+    },
+    {
+      "id": "14105",
+      "title": "Аккумуляторные экосистемы — стандарт рынка 2026",
+      "date": "2026-11-11",
+      "start": "14:30",
+      "end": "16:00",
+      "venue": "MITEX Арена",
+      "kind": "Новая сессия",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/akkumulyatornye-ekosistemy-standart-rynka-2026/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "aleksandr-rubin",
+          "name": "Александр Рубин",
+          "role": "помощник президента РАТПЭ, редактор",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/5c5/373_999999_1/ixx01yjrypxirzhekag32vnb9cq97jbu.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-rubin/"
+        },
+        {
+          "id": "ivan-alekseev",
+          "name": "Иван Алексеев",
+          "role": "продакт-менеджер ELITECH в категории «электроинструмент»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/718/373_999999_1/qhc3z8ronrp0bl5kv8viikaahvw76c45.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/ivan-alekseev/"
+        },
+        {
+          "id": "ivan-gnatyuk",
+          "name": "Иван Гнатюк",
+          "role": "директор по развитию компании, НПК Симба",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/831/373_999999_1/dl1ztijfveclmbx8d210hfkxbzmf3fne.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/ivan-gnatyuk/"
+        },
+        {
+          "id": "roman-temirov",
+          "name": "Роман Темиров",
+          "role": "Руководитель отдела тренеров DCK, DCA и Dong Cheng",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/ab7/373_999999_1/anszsft2zy0ko2lxmo0ib7pza1cxegtd.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/roman-temirov/"
+        },
+        {
+          "id": "sergey-nemkov-26",
+          "name": "Сергей Немков",
+          "role": "руководитель департамента, ИНТЕРСКОЛ",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/fd1/373_999999_1/kmv364je0ypl8uxrbllcqaln67g8nx4q.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/sergey-nemkov-26/"
+        },
+        {
+          "id": "vladimir-arkhipov",
+          "name": "Владимир Архипов",
+          "role": "Генеральный директор А100",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/2ad/373_999999_1/qsqxn98hj4fs8lgalsdlf4pffy5eixe5.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/vladimir-arkhipov/"
+        }
+      ],
+      "description": "Сессия об аккумуляторных платформах и совместимости инструментальных экосистем.",
+      "speaker_links": [
+        {
+          "name": "Александр Рубин помощник президента РАТПЭ, редактор",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-rubin/"
+        },
+        {
+          "name": "Иван Алексеев продакт-менеджер ELITECH в категории «электроинструмент»",
+          "source_url": "https://mitexpo.ru/about/speakers/ivan-alekseev/"
+        },
+        {
+          "name": "Роман Темиров Руководитель отдела тренеров DCK, DCA и Dong Cheng",
+          "source_url": "https://mitexpo.ru/about/speakers/roman-temirov/"
+        },
+        {
+          "name": "Владимир Архипов Генеральный директор А100",
+          "source_url": "https://mitexpo.ru/about/speakers/vladimir-arkhipov/"
+        },
+        {
+          "name": "Сергей Немков руководитель департамента, ИНТЕРСКОЛ",
+          "source_url": "https://mitexpo.ru/about/speakers/sergey-nemkov-26/"
+        },
+        {
+          "name": "Иван Гнатюк директор по развитию компании, НПК Симба",
+          "source_url": "https://mitexpo.ru/about/speakers/ivan-gnatyuk/"
+        }
+      ]
+    },
+    {
+      "id": "14174",
+      "title": "«Увидеть форму там, где её ещё нет»",
+      "date": "2026-11-11",
+      "start": "15:00",
+      "end": "18:00",
+      "venue": "MITEX ПАРК",
+      "kind": "Мастер-класс",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/uvidet-formu-tam-gde-eye-eshchye-net/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "tatyana-gnilitskaya",
+          "name": "Татьяна Гнилицкая",
+          "role": "ландшафтный дизайнер, мастер топиарной стрижки",
+          "photo": "https://mitexpo.ru/upload/iblock/03a/mp757h188gdlvnjstxr99c10zqv95q5z.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/tatyana-gnilitskaya/"
+        }
+      ],
+      "description": "Мастер-класс Татьяны Гнилицкой по поиску и формированию декоративного образа растения.",
+      "speaker_links": [
+        {
+          "name": "Татьяна Гнилицкая ландшафтный дизайнер, мастер топиарной стрижки",
+          "source_url": "https://mitexpo.ru/about/speakers/tatyana-gnilitskaya/"
+        }
+      ]
+    },
+    {
+      "id": "14211",
+      "title": "Разбор продаж: почему клиент не покупает?",
+      "date": "2026-11-11",
+      "start": "16:00",
+      "end": "17:30",
+      "venue": "MITEX Арена",
+      "kind": "Практическая сессия",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/razbor-prodazh-pochemu-klient-ne-pokupaet/",
+      "status": "Заявлено в программе 2026",
+      "people": [],
+      "description": "Практическая сессия по причинам отказа клиента от покупки. Спикеры в карточке пока не указаны.",
+      "speaker_links": []
+    },
+    {
+      "id": "14165",
+      "title": "«Красивые деревья — каждому саду: художественный подход в обрезке и формировании популярных деревьев средней полосы России»",
+      "date": "2026-11-12",
+      "start": "11:00",
+      "end": "12:00",
+      "venue": "MITEX ПАРК",
+      "kind": "Лекция",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/krasivye-derevya-kazhdomu-sadu-khudozhestvennyy-podkhod-v-obrezke-i-formirovanii-populyarnykh-dereve/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "andrey-darusenkov-26",
+          "name": "Андрей Дарусенков",
+          "role": "мастер бонсай, ниваки и художественной обрезки деревьев.",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/be6/373_999999_1/lqe2fuf0yus1lj5owqz8qairnt1gytkg.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/andrey-darusenkov-26/"
+        }
+      ],
+      "description": "Лекция Андрея Дарусенкова о художественном формировании распространённых деревьев средней полосы.",
+      "speaker_links": [
+        {
+          "name": "Андрей Дарусенков мастер бонсай, ниваки и художественной обрезки деревьев.",
+          "source_url": "https://mitexpo.ru/about/speakers/andrey-darusenkov-26/"
+        }
+      ]
+    },
+    {
+      "id": "14191",
+      "title": "Сервисный центр 2026: как меняется обслуживание инструмента",
+      "date": "2026-11-12",
+      "start": "11:00",
+      "end": "12:30",
+      "venue": "MITEX Арена",
+      "kind": "Дискуссионная сессия",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/servisnyy-tsentr-2026-kak-menyaetsya-obsluzhivanie-instrumenta/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "albert-rodin",
+          "name": "Альберт Родин",
+          "role": "заместитель  директора ДСО, КЛС Трейд (ИНТЕРСКОЛ)",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/ef3/373_999999_1/ibhc9rmj3l0caxosyk5s80si3b12i3gg.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/albert-rodin/"
+        },
+        {
+          "id": "aleksandr-soldatenko",
+          "name": "Александр Солдатенко",
+          "role": "директор сервисной службы ELITECH",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/477/373_999999_1/24iqgxokwrzg34phgmxr86vrfdimsmby.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-soldatenko/"
+        },
+        {
+          "id": "anton-vasilev",
+          "name": "Антон Васильев",
+          "role": "исполнительный директор ООО «Елизар»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/788/373_999999_1/8gcgezkfhobnmqrhj77if2dqpb1y5fs0.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/anton-vasilev/"
+        },
+        {
+          "id": "mikhail-vasilev-2026",
+          "name": "Михаил Васильев",
+          "role": "президент, Ассоциация торговых компаний и производителей электроинструмента и средств малой механизации",
+          "photo": "https://mitexpo.ru/upload/iblock/bf6/8uh1r92i858mmk79f269yjrr3j92kr31.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-vasilev-2026/"
+        },
+        {
+          "id": "petr-martsinkovskiy",
+          "name": "Петр Марцинковский",
+          "role": "учредитель ООО «Спрут Сервис»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/c4b/373_999999_1/h1ig5tjtza8poyn78zsw6ldopbophqx4.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/petr-martsinkovskiy/"
+        }
+      ],
+      "description": "Обсуждение обслуживания инструмента и работы сервисных центров. Заявлены представители сервисных служб и производителей.",
+      "speaker_links": [
+        {
+          "name": "Михаил Васильев президент, Ассоциация торговых компаний и производителей электроинструмента и средств малой механизации",
+          "source_url": "https://mitexpo.ru/about/speakers/mikhail-vasilev-2026/"
+        },
+        {
+          "name": "Петр Марцинковский учредитель ООО «Спрут Сервис»",
+          "source_url": "https://mitexpo.ru/about/speakers/petr-martsinkovskiy/"
+        },
+        {
+          "name": "Антон Васильев исполнительный директор ООО «Елизар»",
+          "source_url": "https://mitexpo.ru/about/speakers/anton-vasilev/"
+        },
+        {
+          "name": "Альберт Родин заместитель  директора ДСО, КЛС Трейд (ИНТЕРСКОЛ)",
+          "source_url": "https://mitexpo.ru/about/speakers/albert-rodin/"
+        },
+        {
+          "name": "Александр Солдатенко директор сервисной службы ELITECH",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksandr-soldatenko/"
+        }
+      ]
+    },
+    {
+      "id": "14166",
+      "title": "«Техника сукаси для красивого образа туи»",
+      "date": "2026-11-12",
+      "start": "12:30",
+      "end": "14:30",
+      "venue": "MITEX ПАРК",
+      "kind": "Мастер-класс",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/tekhnika-sukasi-dlya-krasivogo-obraza-tui/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "andrey-darusenkov-26",
+          "name": "Андрей Дарусенков",
+          "role": "мастер бонсай, ниваки и художественной обрезки деревьев.",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/be6/373_999999_1/lqe2fuf0yus1lj5owqz8qairnt1gytkg.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/andrey-darusenkov-26/"
+        }
+      ],
+      "description": "Практическое занятие Андрея Дарусенкова по технике сукаси при формировании туи.",
+      "speaker_links": [
+        {
+          "name": "Андрей Дарусенков мастер бонсай, ниваки и художественной обрезки деревьев.",
+          "source_url": "https://mitexpo.ru/about/speakers/andrey-darusenkov-26/"
+        }
+      ]
+    },
+    {
+      "id": "14145",
+      "title": "Ремонт, восстановление и модернизация инструмента: возможности аддитивных технологий",
+      "date": "2026-11-12",
+      "start": "13:00",
+      "end": "14:30",
+      "venue": "MITEX Арена",
+      "kind": "",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/remont-vosstanovlenie-i-modernizatsiya-instrumenta-vozmozhnosti-additivnykh-tekhnologiy/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "aleksey-mazalov",
+          "name": "Алексей Мазалов",
+          "role": "генеральный директор АО «ЦАТ»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/dac/373_999999_1/9eof9e9khxhjd9jm8jf9q09ilh7nvpkc.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksey-mazalov/"
+        },
+        {
+          "id": "dmitriy-antonov",
+          "name": "Дмитрий Антонов",
+          "role": "заместитель генерального директора по развитию ООО «ОНСИНТ»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/590/373_999999_1/w7g31w5rj868ggrztch48tipiflo3unc.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/dmitriy-antonov/"
+        },
+        {
+          "id": "konstantin-lezhnev",
+          "name": "Константин Лежнев",
+          "role": "ведущий специалист по прямой печати металлами ООО «АЙ 3Д ГРУППА»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/e66/373_999999_1/9oy30zgtfsvfc0bxrc3hqiog99mdwmmo.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/konstantin-lezhnev/"
+        },
+        {
+          "id": "olga-ospennikova",
+          "name": "Ольга Оспенникова",
+          "role": "исполнительный директор Ассоциации развития аддитивных технологий, советник президента АО «ТВЭЛ», д.т.н.",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/f9f/373_999999_1/iwbfbpe7rl5de3oz25xdqsnkzw6ubv7p.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/olga-ospennikova/"
+        }
+      ],
+      "description": "Сессия об использовании аддитивных технологий для ремонта, восстановления и модернизации инструмента.",
+      "speaker_links": [
+        {
+          "name": "Ольга Оспенникова исполнительный директор Ассоциации развития аддитивных технологий, советник президента АО «ТВЭЛ», д.т.н.",
+          "source_url": "https://mitexpo.ru/about/speakers/olga-ospennikova/"
+        },
+        {
+          "name": "Алексей Мазалов генеральный директор АО «ЦАТ»",
+          "source_url": "https://mitexpo.ru/about/speakers/aleksey-mazalov/"
+        },
+        {
+          "name": "Дмитрий Антонов заместитель генерального директора по развитию ООО «ОНСИНТ»",
+          "source_url": "https://mitexpo.ru/about/speakers/dmitriy-antonov/"
+        },
+        {
+          "name": "Константин Лежнев ведущий специалист по прямой печати металлами ООО «АЙ 3Д ГРУППА»",
+          "source_url": "https://mitexpo.ru/about/speakers/konstantin-lezhnev/"
+        }
+      ]
+    },
+    {
+      "id": "14226",
+      "title": "«Ниваки и юкицури: искусство формирования дерева и традиционная японская защита от снега»",
+      "date": "2026-11-12",
+      "start": "15:00",
+      "end": "18:00",
+      "venue": "MITEX ПАРК",
+      "kind": "Мастер-класс",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/nivaki-i-yukitsuri-iskusstvo-formirovaniya-dereva-i-traditsionnaya-yaponskaya-zashchita-ot-snega/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "denis-suk",
+          "name": "Денис Сук",
+          "role": "основатель и руководитель Greenhouse, эксперт в области топиарного искусства, формирования ниваки и профессионального ухода за растениями",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/28d/373_999999_1/qlt7g2t2mn0aqttzrigons6i05i2zb3x.webp",
+          "source_url": "https://mitexpo.ru/about/speakers/denis-suk/"
+        }
+      ],
+      "description": "Мастер-класс Дениса Сука о формировании ниваки и японской зимней защите растений юкицури.",
+      "speaker_links": [
+        {
+          "name": "Денис Сук основатель и руководитель Greenhouse, эксперт в области топиарного искусства, формирования ниваки и профессионального ухода за растениями",
+          "source_url": "https://mitexpo.ru/about/speakers/denis-suk/"
+        }
+      ]
+    },
+    {
+      "id": "14109",
+      "title": "ИИ и автоматизация в инструментальной отрасли: от экспериментов к результатам",
+      "date": "2026-11-12",
+      "start": "15:00",
+      "end": "16:30",
+      "venue": "MITEX Арена",
+      "kind": "Новая сессия",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/ii-i-avtomatizatsiya-v-instrumentalnoy-otrasli-ot-eksperimentov-k-rezultatam/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "alyena-melnik",
+          "name": "Алёна Мельник",
+          "role": "Бизнес-тренер по продажам и переговорам",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/3b3/373_999999_1/n27iojckl551izbljlzjvnr3racdcy9v.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/alyena-melnik/"
+        },
+        {
+          "id": "anastasiya-valova-26",
+          "name": "Анастасия Валова",
+          "role": "Управляющий партнер ООО «Sinoruss»",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/ebe/373_999999_1/4z5p2roanzea2u2rei7ooljh3q5hanm6.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/anastasiya-valova-26/"
+        },
+        {
+          "id": "elena-melnik-26",
+          "name": "Елена Мельник",
+          "role": "CEO & фаундер EM Studio",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/949/373_999999_1/kuy42x7f6c3hc3vv1wj47vbg65bldjwt.jpeg",
+          "source_url": "https://mitexpo.ru/about/speakers/elena-melnik-26/"
+        }
+      ],
+      "description": "Сессия о практическом применении ИИ и автоматизации в инструментальном бизнесе. Спикеры опубликованы в карточке.",
+      "speaker_links": [
+        {
+          "name": "Алёна Мельник Бизнес-тренер по продажам и переговорам",
+          "source_url": "https://mitexpo.ru/about/speakers/alyena-melnik/"
+        },
+        {
+          "name": "Анастасия Валова Управляющий партнер ООО «Sinoruss»",
+          "source_url": "https://mitexpo.ru/about/speakers/anastasiya-valova-26/"
+        },
+        {
+          "name": "Елена Мельник CEO & фаундер EM Studio",
+          "source_url": "https://mitexpo.ru/about/speakers/elena-melnik-26/"
+        }
+      ]
+    },
+    {
+      "id": "press-14229",
+      "title": "Современный крепёж и альтернативные решения",
+      "date": "2026-11-12",
+      "start": "",
+      "end": "",
+      "venue": "Крокус Экспо; конкретная площадка не указана",
+      "kind": "Конференция",
+      "source_url": "https://mitexpo.ru/press/novosti/14229/",
+      "status": "Анонсировано в новостях организатора",
+      "people": [],
+      "description": "Техническая конференция о стандартах, стопорении резьбовых соединений, анкерной технике, покрытиях и смазках. Организатор — редакция журнала «Крепёж, клеи, инструмент». Время и персональный состав в анонсе не указаны."
+    },
+    {
+      "id": "14199",
+      "title": "«Топиарное искусство в современном саду: тренды 2026»",
+      "date": "2026-11-13",
+      "start": "11:00",
+      "end": "11:30",
+      "venue": "MITEX ПАРК",
+      "kind": "Лекция",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/topiarnoe-iskusstvo-v-sovremennom-sadu-trendy-2026/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "ekaterina-vasileva-26",
+          "name": "Екатерина Васильева",
+          "role": "Мастер топиарной стрижки",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/a8b/373_999999_1/htuf42gb0kq7qrf5cdl179k5rtb7dzw7.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/ekaterina-vasileva-26/"
+        }
+      ],
+      "description": "Лекция Екатерины Васильевой о направлениях развития топиарного искусства в 2026 году.",
+      "speaker_links": [
+        {
+          "name": "Екатерина Васильева Мастер топиарной стрижки",
+          "source_url": "https://mitexpo.ru/about/speakers/ekaterina-vasileva-26/"
+        }
+      ]
+    },
+    {
+      "id": "14111",
+      "title": "Финальная интерактивная сессия: MITEX 2026: инструмент без галстуков",
+      "date": "2026-11-13",
+      "start": "11:00",
+      "end": "12:30",
+      "venue": "MITEX Арена",
+      "kind": "Новая сессия",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/finalnaya-interaktivnaya-sessiya-mitex-2026-instrument-bez-galstukov/",
+      "status": "Заявлено в программе 2026",
+      "people": [],
+      "description": "Интерактивное завершение программы MITEX. Персональный состав в карточке пока не объявлен.",
+      "speaker_links": []
+    },
+    {
+      "id": "14200",
+      "title": "«Сад в гармонии: диалог формы и природы»",
+      "date": "2026-11-13",
+      "start": "11:30",
+      "end": "14:00",
+      "venue": "MITEX ПАРК",
+      "kind": "Мастер-класс",
+      "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/sad-v-garmonii-dialog-formy-i-prirody/",
+      "status": "Заявлено в программе 2026",
+      "people": [
+        {
+          "id": "ekaterina-vasileva-26",
+          "name": "Екатерина Васильева",
+          "role": "Мастер топиарной стрижки",
+          "photo": "https://mitexpo.ru/upload/resize_cache/iblock/a8b/373_999999_1/htuf42gb0kq7qrf5cdl179k5rtb7dzw7.jpg",
+          "source_url": "https://mitexpo.ru/about/speakers/ekaterina-vasileva-26/"
+        }
+      ],
+      "description": "Мастер-класс Екатерины Васильевой о сочетании растительных форм и природного окружения.",
+      "speaker_links": [
+        {
+          "name": "Екатерина Васильева Мастер топиарной стрижки",
+          "source_url": "https://mitexpo.ru/about/speakers/ekaterina-vasileva-26/"
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,34 @@
+{
+  "companies_searched": 131,
+  "added_channels": [
+    {
+      "company_id": "135005",
+      "company": "ВсеИнструменты.РУ, ООО",
+      "url": "https://t.me/vseinstrumentirudiy",
+      "source_url": "https://t.me/vseinstrumentirudiy",
+      "note": "В описании канала указан корпоративный email vseinstrumenti.ru; название и профиль деятельности совпадают."
+    },
+    {
+      "company_id": "84498",
+      "company": "Электротехнический завод «КВТ»",
+      "url": "https://t.me/kvt_su",
+      "source_url": "https://expodat.by/companies/company/75909-kvt-elektrotekhnicheskij-zavod.html",
+      "note": "Канал и домен kvt.su указаны вместе в карточке завода КВТ."
+    },
+    {
+      "company_id": "171345",
+      "company": "СТРОИТЕЛЬНАЯ ГАЗЕТА",
+      "url": "https://t.me/stroygazeta",
+      "source_url": "https://stroygaz.ru/news/official/stroygazeta-voshla-v-top-100-telegram-kanalov-o-nedvizhimosti/",
+      "note": "Публикация самого издания о его Telegram-канале; название совпадает с участником."
+    },
+    {
+      "company_id": "171339",
+      "company": "ДВИЖОК",
+      "url": "https://t.me/dvizhok_journal",
+      "source_url": "https://dvizhok.su/",
+      "note": "Канал автомобильного журнала; совпадают издательское название и тематика."
+    }
+  ],
+  "scope": "Российские участники без ранее найденного Telegram; кандидаты проверены по названию, тематике и источникам."
+}

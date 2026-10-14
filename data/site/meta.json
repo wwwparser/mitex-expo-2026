@@ -5,7 +5,7 @@
   "venue": "МВЦ «Крокус Экспо», павильон №2",
   "date_source": "https://mitexpo.ru/about/venue/",
   "catalog_source": "https://catalog.mitexpo.ru/expositions/exposition/7054",
-  "checked_at": "2026-10-14T10:36:22.267857+00:00",
+  "checked_at": "2026-10-14T20:48:09.175315+00:00",
   "catalog_count": 704,
   "catalog_scope": "Все карточки, возвращённые каталогом через limit=1000 на момент сбора",
   "details_collected": 670,
@@ -26,20 +26,20 @@
     "collected": 399,
     "no_website": 137
   },
-  "telegram_unique_links": 78,
-  "telegram_companies": 68,
+  "telegram_unique_links": 82,
+  "telegram_companies": 72,
   "contact_collector": "contact-scraper skill; full catalog; main + up to 6 contact/about pages per domain",
   "site_pages_requested": 1500,
   "site_pages_successful": 1321,
   "sites_partial": 6,
   "telegram_types": {
-    "channel": 54,
+    "channel": 58,
     "group": 0,
     "bot": 4,
     "profile": 13,
     "unverified": 7
   },
-  "telegram_channels_confirmed": 54,
+  "telegram_channels_confirmed": 58,
   "direct_attempts": 236,
   "recovered_without_proxy": 50
 }
