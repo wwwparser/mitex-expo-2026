@@ -1,0 +1,12 @@
+{
+  "passed": [
+    "load_more_24_to_48",
+    "search_and_reset",
+    "hall_filter",
+    "combined_filters",
+    "mobile_nav_last_link",
+    "program_day_anchor",
+    "giveaway_online_filter",
+    "original_screenshot_link"
+  ]
+}

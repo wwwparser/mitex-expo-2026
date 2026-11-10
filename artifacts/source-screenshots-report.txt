@@ -1,0 +1,9 @@
+MITEX source screenshots — 2026-11-10T06:40:45.530710+00:00
+Current source IDs (fresh cards + portal participants): 745
+Saved JPEG screenshots: 745
+Errors: 0; pending: 0
+Format: JPEG quality 60, width 1280, full page; substantive sections expanded.
+Total: 130.54 megabytes; largest file: 0.64 megabytes.
+Cards with unavailable source images after bounded retries: 154335, 84416, 86390.
+Per-card URLs, image issues and paths: artifacts/source-screenshots.json
+No participants, build, templates or data files modified by this script.

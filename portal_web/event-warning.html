@@ -1,0 +1,1 @@
+{% for issue in e.get('issues',[]) if issue.type=='schedule_detail_time_conflict' %}<p class="warn">Время в источниках расходится: в общей программе {{ issue.schedule.start }}–{{ issue.schedule.end }}, в подробном анонсе {{ issue.detail.start }}–{{ issue.detail.end }}. Уточните у организатора.</p>{% endfor %}

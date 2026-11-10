@@ -9,3 +9,14 @@ data/telegram/
 data/research/
 .playwright-mcp/
 *.pyc
+*.part
+data/attachments/
+data/portal/cards/
+data/portal/program_sources/
+data/portal/telegram_channels/
+data/portal/telegram_posts.json
+data/portal/telegram_posts.jsonl
+data/portal/analysis_input_*.json
+data/portal/analysis_additional.json
+data/attachments/
+docs/**/*.part

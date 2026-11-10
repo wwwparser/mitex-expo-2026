@@ -1,0 +1,2867 @@
+{
+  "source_url": "https://mitexpo.ru/programme/",
+  "checked_at": "2026-11-10T06:32:27.420037+00:00",
+  "finished_at": "2026-11-10T06:32:37.108860+00:00",
+  "edition": 2026,
+  "catalog_id": "7054",
+  "counts": {
+    "events": 50,
+    "main_program_entries": 17,
+    "park_entries": 12,
+    "skills_community_day_announcements": 21,
+    "people": 73,
+    "speaker_directory_cards": 62,
+    "detailed_profiles_discovered": 62,
+    "detailed_profiles_collected": 62,
+    "event_detail_pages_discovered": 12,
+    "event_detail_pages_collected": 12,
+    "event_people_links": 90,
+    "without_published_time": 21,
+    "nested_conference_program_items": 11,
+    "individually_titled_speaker_announcements": 8,
+    "without_named_people": 22,
+    "historical_social_links": 21,
+    "photo_downloads": 69
+  },
+  "days": {
+    "2026-11-10": {
+      "total": 15,
+      "main": 5,
+      "park": 4,
+      "skills": 6
+    },
+    "2026-11-11": {
+      "total": 14,
+      "main": 5,
+      "park": 3,
+      "skills": 6
+    },
+    "2026-11-12": {
+      "total": 13,
+      "main": 5,
+      "park": 3,
+      "skills": 5
+    },
+    "2026-11-13": {
+      "total": 8,
+      "main": 2,
+      "park": 2,
+      "skills": 4
+    }
+  },
+  "catalog_evidence": {
+    "url": "https://catalog.mitexpo.ru/expositions/exposition/7054",
+    "edition": 2026,
+    "note": "Каталог 7054 связан из текущего меню. Архивные подписи 2023 в его общем подвале не использованы для программы 2026."
+  },
+  "legacy_program_url_check": {
+    "url": "https://mitexpo.ru/about/delovaya-programma/2026/",
+    "final_url": "https://mitexpo.ru/about/delovaya-programma/2026/",
+    "status_code": 404,
+    "checked_at": "2026-11-10T06:29:35.925644+00:00",
+    "error": "HTTPError: 404 Client Error: Not Found for url: https://mitexpo.ru/about/delovaya-programma/2026/",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "changes_from_legacy": {
+    "previous_checked_at": "2026-10-14T20:25:14.183120+00:00",
+    "previous_event_count": 25,
+    "previous_people_count": 47,
+    "changed_events": [
+      {
+        "legacy_id": "14222",
+        "current_id": "park-li_title__3651102308981",
+        "changes": {
+          "title": {
+            "previous": "Лекция «Фитопластика: основа и нюансы»",
+            "current": "«Фитопластика: основа и нюансы»"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/fitoplastika-osnova-i-nyuansy/",
+            "current": "https://mitex-park.ru/program#rec3546340901"
+          }
+        }
+      },
+      {
+        "legacy_id": "14098",
+        "current_id": "mitex-2026-11-10-li_title__2856100842180",
+        "changes": {
+          "end": {
+            "previous": "11:30",
+            "current": "11:20"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/torzhestvennoe-otkrytie-vystavki-miteks-2026/",
+            "current": "https://mitexpo.ru/programme/"
+          }
+        }
+      },
+      {
+        "legacy_id": "14099",
+        "current_id": "mitex-12",
+        "changes": {
+          "title": {
+            "previous": "Инструментальный рынок 2026–2027 — новые балансы и точки роста",
+            "current": "Пленарная сессия: Инструментальный рынок 2026–2027 — новые балансы и точки роста"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/instrumentalnyy-rynok-2026-2027-novye-balansy-i-tochki-rosta/",
+            "current": "https://mitexpo.ru/programme/12/"
+          },
+          "people": {
+            "added": [
+              "Александр Брюзгин"
+            ],
+            "no_longer_listed": [
+              "Павел Корягин"
+            ]
+          }
+        }
+      },
+      {
+        "legacy_id": "14223",
+        "current_id": "park-li_title__3651102308981",
+        "changes": {
+          "title": {
+            "previous": "Мастер-класс «Фитопластика: основа и нюансы»",
+            "current": "«Фитопластика: основа и нюансы»"
+          },
+          "start": {
+            "previous": "12:00",
+            "current": "11:00"
+          },
+          "end": {
+            "previous": "13:30",
+            "current": "12:00"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/fitoplastika-osnova-i-nyuansy-mk/",
+            "current": "https://mitex-park.ru/program#rec3546340901"
+          }
+        }
+      },
+      {
+        "legacy_id": "14100",
+        "current_id": "mitex-13",
+        "changes": {
+          "title": {
+            "previous": "Розница инструмента 2026: выживание, трансформация и новые форматы торговли",
+            "current": "Практическая сессия: «Розница инструмента 2026: выживание, трансформация и новые форматы торговли»"
+          },
+          "start": {
+            "previous": "13:30",
+            "current": "13:15"
+          },
+          "end": {
+            "previous": "15:00",
+            "current": "14:45"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/roznitsa-instrumenta-2026-vyzhivanie-transformatsiya-i-novye-formaty-torgovli/",
+            "current": "https://mitexpo.ru/programme/13/"
+          },
+          "people": {
+            "added": [
+              "Александр Маркин",
+              "Андрей Баранов",
+              "Валерий Спрыгин",
+              "Владимир Коротков",
+              "Евгений Лискин"
+            ],
+            "no_longer_listed": []
+          }
+        }
+      },
+      {
+        "legacy_id": "14161",
+        "current_id": "park-li_title__1762511818440",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/malenkiy-tsuboniva-v-bolshom-gorode-yaponskiy-sad-v-spichechnom-korobke/",
+            "current": "https://mitex-park.ru/program#rec3546340901"
+          }
+        }
+      },
+      {
+        "legacy_id": "14162",
+        "current_id": "park-li_title__1762511942258",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/iskusstvo-nivaki-pervichnoe-formirovanie-i-servisnoe-obsluzhivanie-drevesnykh-rasteniy/",
+            "current": "https://mitex-park.ru/program#rec3546340901"
+          }
+        }
+      },
+      {
+        "legacy_id": "14103",
+        "current_id": "mitex-14",
+        "changes": {
+          "title": {
+            "previous": "Трансформация рынка электроинструмента в условиях развития интернет-торговли",
+            "current": "Конференция «Оценка влияния развития интернет торговли на отраслевой рынок электроинструмента и средств малой механизации Российской Федерации. Вызовы, угрозы и возможности»"
+          },
+          "start": {
+            "previous": "15:00",
+            "current": "15:15"
+          },
+          "end": {
+            "previous": "17:30",
+            "current": "17:45"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/transformatsiya-rynka-elektroinstrumenta-v-usloviyakh-razvitiya-internet-torgovli/",
+            "current": "https://mitexpo.ru/programme/14/"
+          },
+          "people": {
+            "added": [
+              "Александр Брюзгин",
+              "Александр Прудников",
+              "Андрей Кориневский",
+              "Владислав Гаврюшенко",
+              "Михаил Сверчков"
+            ],
+            "no_longer_listed": []
+          }
+        }
+      },
+      {
+        "legacy_id": "14163",
+        "current_id": "park-li_title__7415305955110",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/instrumenty-dlya-sozdaniya-krasivogo-sada-kak-vybrat-instrument-dlya-raznykh-sadovykh-zadach/",
+            "current": "https://mitex-park.ru/program#rec3546341001"
+          }
+        }
+      },
+      {
+        "legacy_id": "14108",
+        "current_id": "mitex-21",
+        "changes": {
+          "title": {
+            "previous": "Сварочный рынок 2026: DIY, Pro и новые технологии",
+            "current": "Практическая сессия: «Сварочный рынок 2026: DIY, Pro и новые технологии»"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/svarochnyy-rynok-2026-diy-pro-i-novye-tekhnologii/",
+            "current": "https://mitexpo.ru/programme/21/"
+          }
+        }
+      },
+      {
+        "legacy_id": "14164",
+        "current_id": "park-li_title__7415305955111",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/instrumenty-dlya-sozdaniya-krasivogo-sada-prakticheskie-tekhniki-i-priyemy-raboty/",
+            "current": "https://mitex-park.ru/program#rec3546341001"
+          }
+        }
+      },
+      {
+        "legacy_id": "14104",
+        "current_id": "mitex-22",
+        "changes": {
+          "title": {
+            "previous": "Рынок садовой техники 2026–2027: технологии, потребительские тренды и новые точки роста",
+            "current": "Экспертная сессия: «Рынок садовой техники 2026–2027: технологии, потребительские тренды и новые точки роста»"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/rynok-sadovoy-tekhniki-2026-2027-tekhnologii-potrebitelskie-trendy-i-novye-tochki-rosta/",
+            "current": "https://mitexpo.ru/programme/22/"
+          },
+          "people": {
+            "added": [],
+            "no_longer_listed": [
+              "Глеб Филин"
+            ]
+          }
+        }
+      },
+      {
+        "legacy_id": "14105",
+        "current_id": "mitex-23",
+        "changes": {
+          "title": {
+            "previous": "Аккумуляторные экосистемы — стандарт рынка 2026",
+            "current": "Экспертная сессия: «Аккумуляторные экосистемы — стандарт рынка 2026»"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/akkumulyatornye-ekosistemy-standart-rynka-2026/",
+            "current": "https://mitexpo.ru/programme/23/"
+          }
+        }
+      },
+      {
+        "legacy_id": "14174",
+        "current_id": "park-li_title__1788787011410",
+        "changes": {
+          "title": {
+            "previous": "«Увидеть форму там, где её ещё нет»",
+            "current": "« Увидеть форму там, где её ещё нет »"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/uvidet-formu-tam-gde-eye-eshchye-net/",
+            "current": "https://mitex-park.ru/program#rec3546341001"
+          }
+        }
+      },
+      {
+        "legacy_id": "14211",
+        "current_id": "mitex-24",
+        "changes": {
+          "title": {
+            "previous": "Разбор продаж: почему клиент не покупает?",
+            "current": "Практическая сессия «Разбор продаж: почему клиент не покупает?»"
+          },
+          "start": {
+            "previous": "16:00",
+            "current": "16:30"
+          },
+          "end": {
+            "previous": "17:30",
+            "current": "18:00"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/razbor-prodazh-pochemu-klient-ne-pokupaet/",
+            "current": "https://mitexpo.ru/programme/24/"
+          },
+          "people": {
+            "added": [
+              "Алена Мельник",
+              "Ольга Леденева",
+              "Светлана Шульман",
+              "Эдуард Балдаков"
+            ],
+            "no_longer_listed": []
+          }
+        }
+      },
+      {
+        "legacy_id": "14165",
+        "current_id": "park-li_title__4815306439210",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/krasivye-derevya-kazhdomu-sadu-khudozhestvennyy-podkhod-v-obrezke-i-formirovanii-populyarnykh-dereve/",
+            "current": "https://mitex-park.ru/program#rec3546341101"
+          }
+        }
+      },
+      {
+        "legacy_id": "14191",
+        "current_id": "mitex-31",
+        "changes": {
+          "title": {
+            "previous": "Сервисный центр 2026: как меняется обслуживание инструмента",
+            "current": "Дискуссионная сессия: «Сервисный центр 2026: как меняется обслуживание инструмента»"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/servisnyy-tsentr-2026-kak-menyaetsya-obsluzhivanie-instrumenta/",
+            "current": "https://mitexpo.ru/programme/31/"
+          },
+          "people": {
+            "added": [
+              "Алексей Рахманин",
+              "Евгений Лискин",
+              "Екатерина Митякина"
+            ],
+            "no_longer_listed": [
+              "Альберт Родин",
+              "Михаил Васильев"
+            ]
+          }
+        }
+      },
+      {
+        "legacy_id": "14166",
+        "current_id": "park-li_title__4815306439211",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/tekhnika-sukasi-dlya-krasivogo-obraza-tui/",
+            "current": "https://mitex-park.ru/program#rec3546341101"
+          }
+        }
+      },
+      {
+        "legacy_id": "14145",
+        "current_id": "mitex-32",
+        "changes": {
+          "title": {
+            "previous": "Ремонт, восстановление и модернизация инструмента: возможности аддитивных технологий",
+            "current": "Стратегическая сессия: Ремонт, восстановление и модернизация инструмента: возможности аддитивных технологий"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/remont-vosstanovlenie-i-modernizatsiya-instrumenta-vozmozhnosti-additivnykh-tekhnologiy/",
+            "current": "https://mitexpo.ru/programme/32/"
+          },
+          "people": {
+            "added": [
+              "Анатолий Тулаев",
+              "Андрей Зеленов",
+              "Андрей Зябко",
+              "Антон Барданов",
+              "Кирилл Меренков"
+            ],
+            "no_longer_listed": [
+              "Алексей Мазалов",
+              "Дмитрий Антонов",
+              "Ольга Оспенникова"
+            ]
+          }
+        }
+      },
+      {
+        "legacy_id": "14226",
+        "current_id": "park-li_title__4815306439212",
+        "changes": {
+          "end": {
+            "previous": "18:00",
+            "current": "17:30"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/nivaki-i-yukitsuri-iskusstvo-formirovaniya-dereva-i-traditsionnaya-yaponskaya-zashchita-ot-snega/",
+            "current": "https://mitex-park.ru/program#rec3546341101"
+          }
+        }
+      },
+      {
+        "legacy_id": "14109",
+        "current_id": "mitex-33",
+        "changes": {
+          "title": {
+            "previous": "ИИ и автоматизация в инструментальной отрасли: от экспериментов к результатам",
+            "current": "Практическая сессия: «ИИ и автоматизация в инструментальной отрасли: от экспериментов к результатам»"
+          },
+          "venue": {
+            "previous": "MITEX Арена",
+            "current": "Зал деловой программы MITEX"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/ii-i-avtomatizatsiya-v-instrumentalnoy-otrasli-ot-eksperimentov-k-rezultatam/",
+            "current": "https://mitexpo.ru/programme/33/"
+          },
+          "people": {
+            "added": [
+              "Алена Мельник",
+              "Варвара Иванова",
+              "Виктор Крылов"
+            ],
+            "no_longer_listed": [
+              "Алёна Мельник"
+            ]
+          }
+        }
+      },
+      {
+        "legacy_id": "14199",
+        "current_id": "park-li_title__7335463409010",
+        "changes": {
+          "title": {
+            "previous": "«Топиарное искусство в современном саду: тренды 2026»",
+            "current": "«Топиарное искусство в современном саду: тренды 2027»"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/topiarnoe-iskusstvo-v-sovremennom-sadu-trendy-2026/",
+            "current": "https://mitex-park.ru/program#rec4208410601"
+          }
+        }
+      },
+      {
+        "legacy_id": "14200",
+        "current_id": "park-li_title__3135463409011",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/delovaya-programma/2026/sad-v-garmonii-dialog-formy-i-prirody/",
+            "current": "https://mitex-park.ru/program#rec4208410601"
+          }
+        }
+      }
+    ],
+    "not_found_events": [
+      {
+        "id": "press-14229",
+        "title": "Современный крепёж и альтернативные решения",
+        "source_url": "https://mitexpo.ru/press/novosti/14229/",
+        "status": "not_found_in_current_program_not_assumed_cancelled"
+      },
+      {
+        "id": "14111",
+        "title": "Финальная интерактивная сессия: MITEX 2026: инструмент без галстуков",
+        "source_url": "https://mitexpo.ru/about/delovaya-programma/2026/finalnaya-interaktivnaya-sessiya-mitex-2026-instrument-bez-galstukov/",
+        "status": "not_found_in_current_program_not_assumed_cancelled"
+      }
+    ],
+    "added_event_ids": [
+      "park-li_title__3651102308982",
+      "mitex-2026-11-10-li_title__1793977366706",
+      "skills-2026-11-10-li_title__4628161772310",
+      "skills-2026-11-10-li_title__1793707572521",
+      "skills-2026-11-10-li_title__1793707549676",
+      "skills-2026-11-10-li_title__1793707632629",
+      "skills-2026-11-10-li_title__4628161772311",
+      "skills-2026-11-10-li_title__4628161772312",
+      "mitex-2026-11-11-li_title__1793977520491",
+      "skills-2026-11-11-li_title__8154415298010",
+      "skills-2026-11-11-li_title__8154415298014",
+      "skills-2026-11-11-li_title__8154415298013",
+      "skills-2026-11-11-li_title__8154415298015",
+      "skills-2026-11-11-li_title__8154415298011",
+      "skills-2026-11-11-li_title__8154415298012",
+      "mitex-2026-11-12-li_title__1793977725058",
+      "mitex-34",
+      "skills-2026-11-12-li_title__6454418578010",
+      "skills-2026-11-12-li_title__6454418578014",
+      "skills-2026-11-12-li_title__6454418578013",
+      "skills-2026-11-12-li_title__6454418578011",
+      "skills-2026-11-12-li_title__6454418578012",
+      "mitex-41",
+      "mitex-2026-11-13-li_title__1793978331375",
+      "skills-2026-11-13-li_title__2854419231010",
+      "skills-2026-11-13-li_title__2854419231013",
+      "skills-2026-11-13-li_title__2854419231011",
+      "skills-2026-11-13-li_title__2854419231012"
+    ],
+    "added_people": [
+      {
+        "id": "alexandr_bryuzgin",
+        "name": "Александр Брюзгин"
+      },
+      {
+        "id": "alexandr_krayushkin",
+        "name": "Александр Краюшкин"
+      },
+      {
+        "id": "person-2ee08758a59c",
+        "name": "Александр Махничев"
+      },
+      {
+        "id": "alexandr_prudnikov",
+        "name": "Александр Прудников"
+      },
+      {
+        "id": "person-3e16f1bc1c72",
+        "name": "Алексей Колчанов"
+      },
+      {
+        "id": "alexey_larin",
+        "name": "Алексей Ларин"
+      },
+      {
+        "id": "alexey_mochalov",
+        "name": "Алексей Мочалов"
+      },
+      {
+        "id": "alexey_rakhmanin",
+        "name": "Алексей Рахманин"
+      },
+      {
+        "id": "anatoly_tulaev",
+        "name": "Анатолий Тулаев"
+      },
+      {
+        "id": "andrey_baranov",
+        "name": "Андрей Баранов"
+      },
+      {
+        "id": "andrey_zelenov",
+        "name": "Андрей Зеленов"
+      },
+      {
+        "id": "andrey_zyabko",
+        "name": "Андрей Зябко"
+      },
+      {
+        "id": "anrey_korinevsky",
+        "name": "Андрей Кориневский"
+      },
+      {
+        "id": "person-943c689d77ea",
+        "name": "Антон Барданов"
+      },
+      {
+        "id": "anton_shibalov",
+        "name": "Антон Шибалов"
+      },
+      {
+        "id": "valeryi_sprygin",
+        "name": "Валерий Спрыгин"
+      },
+      {
+        "id": "varvara_ivanova",
+        "name": "Варвара Иванова"
+      },
+      {
+        "id": "viktor_krylov",
+        "name": "Виктор Крылов"
+      },
+      {
+        "id": "vladimir_korotkov",
+        "name": "Владимир Коротков"
+      },
+      {
+        "id": "vladislav_gavryushenko",
+        "name": "Владислав Гаврюшенко"
+      },
+      {
+        "id": "person-e4ab903d45a3",
+        "name": "Даниил Винокуров"
+      },
+      {
+        "id": "evgeniy_yakovlev",
+        "name": "Евгений Яковлев"
+      },
+      {
+        "id": "ekaterina_mityakina",
+        "name": "Екатерина Митякина"
+      },
+      {
+        "id": "kirill_merenkov",
+        "name": "Кирилл Меренков"
+      },
+      {
+        "id": "kristina_orlova",
+        "name": "Кристина Орлова"
+      },
+      {
+        "id": "mikhaik_kuchuk",
+        "name": "Михаил Кучук"
+      },
+      {
+        "id": "mikhail_sverchkov",
+        "name": "Михаил Сверчков"
+      },
+      {
+        "id": "olga_ledeneva",
+        "name": "Ольга Леденева"
+      },
+      {
+        "id": "svetlana_shulman",
+        "name": "Светлана Шульман"
+      },
+      {
+        "id": "david_davidadze",
+        "name": "Сергей Давидадзе"
+      },
+      {
+        "id": "eduard_baldakov",
+        "name": "Эдуард Балдаков"
+      },
+      {
+        "id": "person-61e2318aae30",
+        "name": "Ярослав Варламов"
+      }
+    ],
+    "not_found_people": [
+      {
+        "id": "aleksey-mazalov",
+        "name": "Алексей Мазалов"
+      },
+      {
+        "id": "albert-rodin",
+        "name": "Альберт Родин"
+      },
+      {
+        "id": "gleb-filin-26",
+        "name": "Глеб Филин"
+      },
+      {
+        "id": "dmitriy-antonov",
+        "name": "Дмитрий Антонов"
+      },
+      {
+        "id": "olga-ospennikova",
+        "name": "Ольга Оспенникова"
+      },
+      {
+        "id": "pavel-koryagin",
+        "name": "Павел Корягин"
+      }
+    ],
+    "changed_people": [
+      {
+        "id": "aleksandr-bragin",
+        "name": "Александр Брагин",
+        "changes": {
+          "role": {
+            "previous": "коммерческий директор ELITECH",
+            "current": "коммерческий директор Elitech"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/aleksandr-bragin/",
+            "current": "https://mitexpo.ru/alexandr_bragin"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/9c6/373_999999_1/1ht7nycqpvywcdm7faodkdszq9l3dnsc.jpg",
+            "current": "https://static.tildacdn.com/tila3863-3436-4436-a131-663630366636/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "aleksandr-goncharov-2026",
+        "name": "Александр Гончаров",
+        "changes": {
+          "role": {
+            "previous": "продакт-менеджер  ELITECH в категории «садовая техника»",
+            "current": "редактор специализированных изданий «Инструменты» и GardenTools"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/aleksandr-goncharov-2026/",
+            "current": "https://mitexpo.ru/speakers/alexandr_goncharov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/93d/373_999999_1/ibioclqjy620phbkt93hxh59h95xg24l.webp",
+            "current": "https://static.tildacdn.com/tila3437-3439-4934-b266-333935333835/_.webp"
+          }
+        }
+      },
+      {
+        "id": "aleksandr-dolgorukov-2026",
+        "name": "Александр Долгоруков",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/aleksandr-dolgorukov-2026/",
+            "current": "https://mitexpo.ru/speakers/alexandr_dolgorukov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/iblock/c93/rvcr018573wjyirf4n7d9l4sx383abpl.jpg",
+            "current": "https://static.tildacdn.com/tila6162-3434-4633-b263-623735636462/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "aleksandr-markin-26",
+        "name": "Александр Маркин",
+        "changes": {
+          "role": {
+            "previous": "Генеральный директор Caiman",
+            "current": "генеральный директор CAIMAN"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/aleksandr-markin-26/",
+            "current": "https://mitexpo.ru/speakers/alexandr_markin"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/d31/373_999999_1/5trfirjr3nj0k09jkuvn1v4rhzoqto2v.webp",
+            "current": "https://static.tildacdn.com/tila3466-3964-4838-a265-363264656564/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "aleksandr-rubin",
+        "name": "Александр Рубин",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/aleksandr-rubin/",
+            "current": "https://mitexpo.ru/speakers/alexandr_rubin"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/5c5/373_999999_1/ixx01yjrypxirzhekag32vnb9cq97jbu.jpg",
+            "current": "https://static.tildacdn.com/tila6438-3138-4266-b534-303933396565/_.jpg"
+          }
+        }
+      },
+      {
+        "id": "aleksandr-soldatenko",
+        "name": "Александр Солдатенко",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/aleksandr-soldatenko/",
+            "current": "https://mitexpo.ru/speakers/alexandr_soldatenko"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/477/373_999999_1/24iqgxokwrzg34phgmxr86vrfdimsmby.jpg",
+            "current": "https://static.tildacdn.com/tila3432-6535-4539-b036-333666646632/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "aleksandr-sharonin",
+        "name": "Александр Шаронин",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/aleksandr-sharonin/",
+            "current": "https://mitex-park.ru/program#rec3546340901"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/bf9/373_999999_1/ancfqcxbsgufgv10smpxmi8zzc3y8cy7.jpg",
+            "current": "https://static.tildacdn.com/tild6535-6531-4433-b338-373532313832/_.jpg"
+          }
+        }
+      },
+      {
+        "id": "aleksey-mesnyankin-26",
+        "name": "Алексей Меснянкин",
+        "changes": {
+          "role": {
+            "previous": "Редактор специализированных изданий «Инструменты» и GardenTools",
+            "current": "редактор специализированных изданий «Инструменты» и GardenTools"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/aleksey-mesnyankin-26/",
+            "current": "https://mitexpo.ru/speakers/alexey_mesnyankin"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/066/373_999999_1/hbwpjv0rzyx4fzuaco6xnhcfdqh386qs.webp",
+            "current": "https://static.tildacdn.com/tila3764-6435-4638-a237-346332633062/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "alyena-melnik",
+        "name": "Алена Мельник",
+        "changes": {
+          "role": {
+            "previous": "Бизнес-тренер по продажам и переговорам",
+            "current": "Бизнес-тренер по продажам и переговорам, эксперт РАНХиГС"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/alyena-melnik/",
+            "current": "https://mitexpo.ru/speakers/alyona_melnik"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/3b3/373_999999_1/n27iojckl551izbljlzjvnr3racdcy9v.jpg",
+            "current": "https://static.tildacdn.com/tila3636-3365-4939-b830-343862373937/_.webp"
+          }
+        }
+      },
+      {
+        "id": "anastasiya-valova-26",
+        "name": "Анастасия Валова",
+        "changes": {
+          "role": {
+            "previous": "Управляющий партнер ООО «Sinoruss»",
+            "current": "генеральный директор консалтинговой компании «AYA GROUP», консультант по систематизации бизнеса"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/anastasiya-valova-26/",
+            "current": "https://mitexpo.ru/speakers/anastasia_valova"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/ebe/373_999999_1/4z5p2roanzea2u2rei7ooljh3q5hanm6.jpg",
+            "current": "https://static.tildacdn.com/tila3964-6337-4232-b966-653635646166/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "andrey-darusenkov-26",
+        "name": "Андрей Дарусенков",
+        "changes": {
+          "role": {
+            "previous": "мастер бонсай, ниваки и художественной обрезки деревьев.",
+            "current": "Мастер бонсай, ниваки и художественной обрезки деревьев"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/andrey-darusenkov-26/",
+            "current": "https://mitex-park.ru/program#rec3546341101"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/be6/373_999999_1/lqe2fuf0yus1lj5owqz8qairnt1gytkg.jpg",
+            "current": "https://static.tildacdn.com/tild6632-6537-4137-b330-313365653239/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "andrey-pirozhenko-26",
+        "name": "Андрей Пироженко",
+        "changes": {
+          "role": {
+            "previous": "категорийный менеджер ВсеИнструменты.ру",
+            "current": "Категорийный менеджер, ВсеИнструменты.ру"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/andrey-pirozhenko-26/",
+            "current": "https://mitexpo.ru/speakers/andrey_pirozhenko"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/iblock/79d/rh8pqqozku7adss32eydz8e4cwcxtbe5.webp",
+            "current": "https://static.tildacdn.com/tila6633-6365-4230-b466-326663333564/_.webp"
+          }
+        }
+      },
+      {
+        "id": "andrey-plokhov",
+        "name": "Андрей Плохов",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/andrey-plokhov/",
+            "current": "https://mitexpo.ru/speakers/andrey_plokhov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/b53/373_999999_1/hu94tfq6hmnxohhrl1tl1ma2a27h9ykp.webp",
+            "current": "https://static.tildacdn.com/tila3135-6537-4333-a233-633534666663/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "anton-vasilev",
+        "name": "Антон Васильев",
+        "changes": {
+          "role": {
+            "previous": "исполнительный директор ООО «Елизар»",
+            "current": "исполнительный директор, ООО Елизар"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/anton-vasilev/",
+            "current": "https://mitexpo.ru/speakers/anton_vasiliev"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/788/373_999999_1/8gcgezkfhobnmqrhj77if2dqpb1y5fs0.jpg",
+            "current": "https://static.tildacdn.com/tila3739-3934-4534-b965-376166313733/_.webp"
+          }
+        }
+      },
+      {
+        "id": "vladimir-arkhipov",
+        "name": "Владимир Архипов",
+        "changes": {
+          "role": {
+            "previous": "Генеральный директор А100",
+            "current": "генеральный директор А100"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/vladimir-arkhipov/",
+            "current": "https://mitexpo.ru/speakers/vladimir_arkhipov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/2ad/373_999999_1/qsqxn98hj4fs8lgalsdlf4pffy5eixe5.jpg",
+            "current": "https://static.tildacdn.com/tila3035-3238-4864-a134-356561626435/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "vladimir-lyapchev-26",
+        "name": "Владимир Ляпчев",
+        "changes": {
+          "role": {
+            "previous": "ландшафтный дизайнер",
+            "current": "Профессионально занимается фигурной стрижкой деревьев и кустарников (топиарное искусство) с 2005 года."
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/vladimir-lyapchev-26/",
+            "current": "https://mitex-park.ru/program#rec3546341001"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/68b/373_999999_1/in2hbjixbsn450k57iimueou51xc1z3m.jpg",
+            "current": "https://static.tildacdn.com/tild6662-6436-4033-a462-656537323238/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "gennadiy-popov-26",
+        "name": "Геннадий Попов",
+        "changes": {
+          "role": {
+            "previous": "директор по маркетингу ООО \"ГК ТСС\"",
+            "current": "директор по маркетингу ООО «ГК ТСС»"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/gennadiy-popov-26/",
+            "current": "https://mitexpo.ru/speakers/gennady_popov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/iblock/789/1q63gjzch9rf87z5tzdjib1mkfrjqysw.jpg",
+            "current": "https://static.tildacdn.com/tila3338-6661-4864-b863-336231366665/_.jpg"
+          }
+        }
+      },
+      {
+        "id": "darya-dubovskaya-26",
+        "name": "Дарья Дубовская",
+        "changes": {
+          "role": {
+            "previous": "руководитель отдела развития продаж сварочного оборудования Hugong ООО \"ГК ТСС\"",
+            "current": "руководитель отдела развития продаж сварочного оборудования Hugong ООО «ГК ТСС»"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/darya-dubovskaya-26/",
+            "current": "https://mitexpo.ru/speakers/daria_dubovskaya"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/657/373_999999_1/1ois9r7z0bo1ppjphfoo6wv9f8hx283u.jpg",
+            "current": "https://static.tildacdn.com/tila3032-3135-4836-b132-666261646335/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "denis-zamyslov-26",
+        "name": "Денис Замыслов",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/denis-zamyslov-26/",
+            "current": "https://mitexpo.ru/speakers/denis_zamyslov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/7d1/373_999999_1/d755qk1wqix43hkbbqmek6fi0xp2u8qz.jpg",
+            "current": "https://static.tildacdn.com/tila6335-3261-4165-b434-623138343462/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "denis-suk",
+        "name": "Денис Сук",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/denis-suk/",
+            "current": "https://mitex-park.ru/program#rec3546341101"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/28d/373_999999_1/qlt7g2t2mn0aqttzrigons6i05i2zb3x.webp",
+            "current": "https://static.tildacdn.com/tild6666-6261-4164-a439-383438656232/_.webp"
+          }
+        }
+      },
+      {
+        "id": "evgeniy-liskin-26",
+        "name": "Евгений Лискин",
+        "changes": {
+          "role": {
+            "previous": "управляющий партнёр «Единой платформы продавцов инструмента и оборудования»",
+            "current": "управляющий партнер, «Единая платформа продавцов инструмента и оборудования»"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/evgeniy-liskin-26/",
+            "current": "https://mitexpo.ru/speakers/evgeniy_liskin"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/148/373_999999_1/jp5d24pnqgo28qqgwn3rb6mim9r2xg43.webp",
+            "current": "https://static.tildacdn.com/tila6537-3334-4438-b166-623139383038/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "ekaterina-vasileva-26",
+        "name": "Екатерина Васильева",
+        "changes": {
+          "role": {
+            "previous": "Мастер топиарной стрижки",
+            "current": "мастер топиарных стрижек, специализирующаяся на преобразовании садового пространства через работу с формой и силуэтом растений"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/ekaterina-vasileva-26/",
+            "current": "https://mitex-park.ru/program#rec4208410601"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/a8b/373_999999_1/htuf42gb0kq7qrf5cdl179k5rtb7dzw7.jpg",
+            "current": "https://static.tildacdn.com/tild3337-3038-4132-b964-326463643733/-5319151348257332796.jpg"
+          }
+        }
+      },
+      {
+        "id": "elena-melnik-26",
+        "name": "Елена Мельник",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/elena-melnik-26/",
+            "current": "https://mitexpo.ru/speakers/elena_melnik"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/949/373_999999_1/kuy42x7f6c3hc3vv1wj47vbg65bldjwt.jpeg",
+            "current": "https://static.tildacdn.com/tila3230-3835-4333-a334-363863393432/_.jpeg"
+          }
+        }
+      },
+      {
+        "id": "ivan-alekseev",
+        "name": "Иван Алексеев",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/ivan-alekseev/",
+            "current": "https://mitexpo.ru/speakers/ivan_alexeyev"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/718/373_999999_1/qhc3z8ronrp0bl5kv8viikaahvw76c45.webp",
+            "current": "https://static.tildacdn.com/tila3265-3363-4461-a463-366139303732/_.webp"
+          }
+        }
+      },
+      {
+        "id": "ivan-gnatyuk",
+        "name": "Иван Гнатюк",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/ivan-gnatyuk/",
+            "current": "https://mitexpo.ru/speakers/ivan_gnatyuk"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/831/373_999999_1/dl1ztijfveclmbx8d210hfkxbzmf3fne.jpg",
+            "current": "https://static.tildacdn.com/tila3338-3135-4861-b963-346436376363/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "konstantin-lezhnev",
+        "name": "Константин Лежнев",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/konstantin-lezhnev/",
+            "current": "https://mitexpo.ru/speakers/konstantin_lezhnev"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/e66/373_999999_1/9oy30zgtfsvfc0bxrc3hqiog99mdwmmo.jpg",
+            "current": "https://static.tildacdn.com/tila6635-6537-4530-a439-386362643633/placeholder_large.webp"
+          }
+        }
+      },
+      {
+        "id": "mikhail-vasilev-2026",
+        "name": "Михаил Васильев",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/mikhail-vasilev-2026/",
+            "current": "https://mitexpo.ru/speakers/mikhail_vasiliev"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/iblock/bf6/8uh1r92i858mmk79f269yjrr3j92kr31.webp",
+            "current": "https://static.tildacdn.com/tila6335-3632-4136-b830-656634646237/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "mikhail-nazarenko-2026",
+        "name": "Михаил Назаренко",
+        "changes": {
+          "role": {
+            "previous": "руководитель департамента Инструменты и Сад, Ozon",
+            "current": "Руководитель департамента Инструменты и Сад, Ozon"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/mikhail-nazarenko-2026/",
+            "current": "https://mitexpo.ru/speakers/mikhail_nazarenko"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/36b/373_999999_1/dfia249x8q9xnkvau0bzeob2vzywkomx.webp",
+            "current": "https://static.tildacdn.com/tila6162-6436-4735-b337-633731626666/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "oleg-sokolov-26",
+        "name": "Олег Соколов",
+        "changes": {
+          "role": {
+            "previous": "категорийный директор КД «Инструмент», ВсеИнструменты.ру",
+            "current": "Директор по развитию СТМ и импорта ВсеИнструменты.ру"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/oleg-sokolov-26/",
+            "current": "https://mitexpo.ru/speakers/oleg_sokolov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/e21/373_999999_1/5fgzws5wugt8t7y28fto58ng3icd7usp.jpg",
+            "current": "https://static.tildacdn.com/tila3962-6434-4033-b138-356333623631/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "petr-martsinkovskiy",
+        "name": "Петр Марцинковский",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/petr-martsinkovskiy/",
+            "current": "https://mitexpo.ru/speakers/petr_martsinkovsky"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/c4b/373_999999_1/h1ig5tjtza8poyn78zsw6ldopbophqx4.webp",
+            "current": "https://static.tildacdn.com/tila3738-3631-4935-a532-323162356637/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "rada-rozhitskaya-26",
+        "name": "Рада Рожицкая",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/rada-rozhitskaya-26/",
+            "current": "https://mitexpo.ru/speakers/rada_rozhitskaya"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/5bd/373_999999_1/bx8izzvrk8zse0muhe257ij2041ygk87.jpg",
+            "current": "https://static.tildacdn.com/tila6435-6161-4162-b864-666430313937/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "roman-golomolzin-26",
+        "name": "Роман Голомолзин",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/roman-golomolzin-26/",
+            "current": "https://mitex-park.ru/program#rec3546340901"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/296/373_999999_1/cssm75lzt0c9kkhq5fpw0l9lp36gvks6.jpg",
+            "current": "https://static.tildacdn.com/tild6332-3564-4634-a464-633633343364/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "roman-kostikov",
+        "name": "Роман Костиков",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/roman-kostikov/",
+            "current": "https://mitexpo.ru/speakers/roman_kostikov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/6b4/373_999999_1/7gjt30dw39jqafns26fwmjoy7lpj5w0o.webp",
+            "current": "https://static.tildacdn.com/tila6133-3735-4062-b635-326330303337/_.webp"
+          }
+        }
+      },
+      {
+        "id": "roman-temirov",
+        "name": "Роман Темиров",
+        "changes": {
+          "role": {
+            "previous": "Руководитель отдела тренеров DCK, DCA и Dong Cheng",
+            "current": "руководитель отдела тренеров DCK, DCA и Dong Cheng"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/roman-temirov/",
+            "current": "https://mitexpo.ru/speakers/roman_temirov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/ab7/373_999999_1/anszsft2zy0ko2lxmo0ib7pza1cxegtd.jpg",
+            "current": "https://static.tildacdn.com/tila6131-6539-4830-b736-313130616331/_.jpg"
+          }
+        }
+      },
+      {
+        "id": "sergey-nazarov-26",
+        "name": "Сергей Назаров",
+        "changes": {
+          "role": {
+            "previous": "основатель бренда «Интерскол»",
+            "current": "основатель бренда Интерскол"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/sergey-nazarov-26/",
+            "current": "https://mitexpo.ru/speakers/sergey_nazarov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/iblock/d53/bfql0aq7rhwvow00q7ltudzhoro4yibj.jpg",
+            "current": "https://static.tildacdn.com/tila3862-6539-4034-b535-346564336332/_.jpg"
+          }
+        }
+      },
+      {
+        "id": "sergey-nemkov-26",
+        "name": "Сергей Немков",
+        "changes": {
+          "role": {
+            "previous": "руководитель департамента, ИНТЕРСКОЛ",
+            "current": "ИНТЕРСКОЛ"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/sergey-nemkov-26/",
+            "current": "https://mitexpo.ru/speakers/sergey_nemkov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/fd1/373_999999_1/kmv364je0ypl8uxrbllcqaln67g8nx4q.jpg",
+            "current": "https://static.tildacdn.com/tila6333-6365-4230-b032-323434656636/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "sergey-utyakov",
+        "name": "Сергей Утяков",
+        "changes": {
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/sergey-utyakov/",
+            "current": "https://mitexpo.ru/speakers/sergey_utyakov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/d97/373_999999_1/5y8m1ojlznkavy665e4ji053dfzcgwfu.JPG",
+            "current": "https://static.tildacdn.com/tila3837-6436-4862-a261-636462306434/photo.JPG"
+          }
+        }
+      },
+      {
+        "id": "stanislav-gogolev-26",
+        "name": "Станислав Гоголев",
+        "changes": {
+          "role": {
+            "previous": "руководитель оптового отдела продаж \"ГК \"АВРОРА\" (Холдинг ТПО \"Евротек\")",
+            "current": "руководитель оптового отдела продаж ГК «АВРОРА» (Холдинг ТПО «Евротек»)"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/stanislav-gogolev-26/",
+            "current": "https://mitexpo.ru/speakers/stanislav_gogolev"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/2a7/373_999999_1/1eyar4hzn3au6yn73c0mavwrq2jdqsvy.jpg",
+            "current": "https://static.tildacdn.com/tila6462-6365-4339-a439-333862656439/photo.jpg"
+          }
+        }
+      },
+      {
+        "id": "tatyana-gnilitskaya",
+        "name": "Татьяна Гнилицкая",
+        "changes": {
+          "role": {
+            "previous": "ландшафтный дизайнер, мастер топиарной стрижки",
+            "current": ""
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/tatyana-gnilitskaya/",
+            "current": "https://mitex-park.ru/program#rec3546341001"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/iblock/03a/mp757h188gdlvnjstxr99c10zqv95q5z.webp",
+            "current": "https://static.tildacdn.com/tild6465-3137-4866-b137-396139326161/2.webp"
+          }
+        }
+      },
+      {
+        "id": "yuliya-vasiltsyun-26",
+        "name": "Юлия Васильцюн",
+        "changes": {
+          "role": {
+            "previous": "руководитель юридического отдела, руководитель службы внутреннего комплаенса Ростест",
+            "current": "Руководитель юридического АО «РОСТЕСТ», Член Ассоциации Юристов России, Член Совета по развитию электронной коммерции Торгово-промышленной палаты РФ Ростеста"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/yuliya-vasiltsyun-26/",
+            "current": "https://mitexpo.ru/speakers/yulia_vasiltsun"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/resize_cache/iblock/396/373_999999_1/792dw1q0wll7o09ziu2jmocevuf4zrh3.webp",
+            "current": "https://static.tildacdn.com/tila3837-3065-4339-b538-316364313531/photo.webp"
+          }
+        }
+      },
+      {
+        "id": "yuriy-kuznetsov-26",
+        "name": "Юрий Кузнецов",
+        "changes": {
+          "role": {
+            "previous": "Заместитель директора Департамента станкостроения и тяжелого машиностроения Минпромторга России",
+            "current": "заместитель директора Департамента станкостроения и тяжелого машиностроения Министерства промышленности и торговли Российской Федерации"
+          },
+          "source_url": {
+            "previous": "https://mitexpo.ru/about/speakers/yuriy-kuznetsov-26/",
+            "current": "https://mitexpo.ru/speakers/yuri_kuznetsov"
+          },
+          "photo": {
+            "previous": "https://mitexpo.ru/upload/iblock/242/bou9kw2cny03hak26lduw0jhr1765fnf.jpg",
+            "current": "https://static.tildacdn.com/tila6663-6432-4334-b534-623463303665/_.jpg"
+          }
+        }
+      }
+    ],
+    "note": "Сопоставление событий по дате, площадке и сходству темы; отсутствие в новой программе не означает отмену. Старые редакционные описания не переносились."
+  },
+  "source_conflicts": [
+    {
+      "event_id": "mitex-12",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "evgeniy-liskin-26",
+      "card_name": "Евгений Лискин",
+      "card_role": "управляющий партнер «Единая платформа продавцов инструмента и оборудования»",
+      "directory_name": "Евгений Лискин",
+      "directory_role": "управляющий партнер, «Единая платформа продавцов инструмента и оборудования»"
+    },
+    {
+      "event_id": "mitex-12",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "mikhail-nazarenko-2026",
+      "card_name": "Михаил Назаренко",
+      "card_role": "руководитель департамента Инструменты и Сад, Ozon",
+      "directory_name": "Михаил Назаренко",
+      "directory_role": "Руководитель департамента Инструменты и Сад, Ozon"
+    },
+    {
+      "event_id": "mitex-12",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "oleg-sokolov-26",
+      "card_name": "Олег Соколов",
+      "card_role": "директор по развитию СТМ и импорта ВсеИнструменты.ру",
+      "directory_name": "Олег Соколов",
+      "directory_role": "Директор по развитию СТМ и импорта ВсеИнструменты.ру"
+    },
+    {
+      "event_id": "mitex-12",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "alexandr_bryuzgin",
+      "card_name": "Александр Брюзгин",
+      "card_role": "Founder & Art Director",
+      "directory_name": "Александр Брюзгин",
+      "directory_role": "Генеральный директор Управляющей Компании Е1"
+    },
+    {
+      "event_id": "mitex-13",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "evgeniy-liskin-26",
+      "card_name": "Евгений Лискин",
+      "card_role": "управляющий партнер «Единая платформа продавцов инструмента и оборудования»",
+      "directory_name": "Евгений Лискин",
+      "directory_role": "управляющий партнер, «Единая платформа продавцов инструмента и оборудования»"
+    },
+    {
+      "event_id": "mitex-14",
+      "type": "schedule_detail_time_conflict",
+      "schedule": {
+        "start": "15:15",
+        "end": "17:45"
+      },
+      "detail": {
+        "start": "15:00",
+        "end": "17:30"
+      },
+      "resolution": "В основных полях оставлено время общего расписания; расхождение требует уточнения у организатора."
+    },
+    {
+      "event_id": "mitex-22",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "mikhail-nazarenko-2026",
+      "card_name": "Михаил Назаренко",
+      "card_role": "руководитель департамента Инструменты и Сад, Ozon",
+      "directory_name": "Михаил Назаренко",
+      "directory_role": "Руководитель департамента Инструменты и Сад, Ozon"
+    },
+    {
+      "event_id": "mitex-22",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "aleksandr-goncharov-2026",
+      "card_name": "Александр Гончаров",
+      "card_role": "продакт-менеджер ELITECH в категории Садовая техника",
+      "directory_name": "Александр Гончаров",
+      "directory_role": "редактор специализированных изданий «Инструменты» и GardenTools"
+    },
+    {
+      "event_id": "mitex-22",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "aleksandr-markin-26",
+      "card_name": "Александр Маркин",
+      "card_role": "генеральный директор Caiman",
+      "directory_name": "Александр Маркин",
+      "directory_role": "генеральный директор CAIMAN"
+    },
+    {
+      "event_id": "mitex-24",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "alyena-melnik",
+      "card_name": "Алена Мельник",
+      "card_role": "бизнес-тренер по продажам и переговорам, эксперт РАНХиГС",
+      "directory_name": "Алена Мельник",
+      "directory_role": "Бизнес-тренер по продажам и переговорам, эксперт РАНХиГС"
+    },
+    {
+      "event_id": "mitex-31",
+      "type": "speaker_card_differs_from_directory",
+      "person_id": "evgeniy-liskin-26",
+      "card_name": "Евгений Лискин",
+      "card_role": "управляющий партнер «Единая платформа продавцов инструмента и оборудования»",
+      "directory_name": "Евгений Лискин",
+      "directory_role": "управляющий партнер, «Единая платформа продавцов инструмента и оборудования»"
+    },
+    {
+      "event_id": "mitex-33",
+      "type": "schedule_detail_time_conflict",
+      "schedule": {
+        "start": "15:00",
+        "end": "16:30"
+      },
+      "detail": {
+        "start": "13:00",
+        "end": "14:30"
+      },
+      "resolution": "В основных полях оставлено время общего расписания; расхождение требует уточнения у организатора."
+    },
+    {
+      "event_id": "mitex-33",
+      "type": "schedule_detail_heading_conflict",
+      "schedule_title": "Практическая сессия: «ИИ и автоматизация в инструментальной отрасли: от экспериментов к результатам»",
+      "detail_heading": "Стратегическая сессия: Ремонт, восстановление и модернизация инструмента: возможности аддитивных технологий",
+      "resolution": "Сохранено название из общего расписания и title страницы; ошибочный видимый заголовок не заменяет тему сессии."
+    },
+    {
+      "person_id": "aleksandr-goncharov-2026",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "редактор специализированных изданий «Инструменты» и GardenTools",
+      "profile_role": "продакт-менеджер ELITECH в категории Садовая техника",
+      "source_url": "https://mitexpo.ru/speakers/alexandr_goncharov"
+    },
+    {
+      "person_id": "aleksandr-markin-26",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "генеральный директор CAIMAN",
+      "profile_role": "генеральный директор «СМАРТТУЛЗ»",
+      "source_url": "https://mitexpo.ru/speakers/alexandr_markin"
+    },
+    {
+      "person_id": "alyena-melnik",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "Бизнес-тренер по продажам и переговорам, эксперт РАНХиГС",
+      "profile_role": "бизнес-тренер по продажам и переговорам, эксперт РАНХиГС",
+      "source_url": "https://mitexpo.ru/speakers/alyona_melnik"
+    },
+    {
+      "person_id": "anton-vasilev",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "исполнительный директор, ООО Елизар",
+      "profile_role": "исполнительный директор, ООО «Елизар»",
+      "source_url": "https://mitexpo.ru/speakers/anton_vasiliev"
+    },
+    {
+      "person_id": "valeryi_sprygin",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "генеральный директор компании «СМАРТТУЛЗ»",
+      "profile_role": "генеральный директор «СМАРТТУЛЗ»",
+      "source_url": "https://mitexpo.ru/speakers/valeryi_sprygin"
+    },
+    {
+      "person_id": "vladimir-arkhipov",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "генеральный директор А100",
+      "profile_role": "руководитель отдела тренеров DCK, DCA и Dong Cheng",
+      "source_url": "https://mitexpo.ru/speakers/vladimir_arkhipov"
+    },
+    {
+      "person_id": "darya-dubovskaya-26",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "руководитель отдела развития продаж сварочного оборудования Hugong ООО «ГК ТСС»",
+      "profile_role": "руководитель оптового отдела продаж ГК «АВРОРА» (Холдинг ТПО «Евротек»)",
+      "source_url": "https://mitexpo.ru/speakers/daria_dubovskaya"
+    },
+    {
+      "person_id": "denis-zamyslov-26",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "директор по развитию Foxweld",
+      "profile_role": "продакт-менеджер ELITECH в категории «силовая техника»",
+      "source_url": "https://mitexpo.ru/speakers/denis_zamyslov"
+    },
+    {
+      "person_id": "mikhail-vasilev-2026",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "президент, Ассоциация торговых компаний и производителей электроинструмента и средств малой механизации",
+      "profile_role": "Президент Ассоциации РАТПЭ, Член Совета по развитию потребительского рынка Торгово-промышленной палаты РФ, к.э.н.",
+      "source_url": "https://mitexpo.ru/speakers/mikhail_vasiliev"
+    },
+    {
+      "person_id": "mikhail-nazarenko-2026",
+      "type": "profile_role_differs_from_directory",
+      "directory_role": "Руководитель департамента Инструменты и Сад, Ozon",
+      "profile_role": "руководитель департамента Инструменты и Сад, Ozon",
+      "source_url": "https://mitexpo.ru/speakers/mikhail_nazarenko"
+    }
+  ],
+  "warnings": [
+    {
+      "type": "profile_session_not_in_current_schedule",
+      "person_id": "aleksandr-markin-26",
+      "title": "Рынок садовой техники 2026–2027: технологии, потребительские тренды и новые точки роста",
+      "source_url": "https://tilda.ru/programme/22/"
+    }
+  ],
+  "request_errors": [
+    {
+      "url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Policy/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf",
+      "final_url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Policy/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:29:13.431094+00:00",
+      "error": null,
+      "content_type": "application/pdf",
+      "status": "non_html_link_checked",
+      "cache_used": true
+    },
+    {
+      "url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Policy/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf",
+      "final_url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Policy/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:29:13.643497+00:00",
+      "error": null,
+      "content_type": "application/pdf",
+      "status": "non_html_link_checked",
+      "cache_used": true
+    },
+    {
+      "url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Mitex26_guide.pdf",
+      "final_url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Mitex26_guide.pdf",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:29:14.103912+00:00",
+      "error": null,
+      "content_type": "application/pdf",
+      "status": "non_html_link_checked",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/page361627309.html/",
+      "final_url": "https://mitexpo.ru/page361627309.html/",
+      "status_code": 404,
+      "checked_at": "2026-11-10T06:29:20.143978+00:00",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://mitexpo.ru/page361627309.html/",
+      "content_type": "text/html; charset=UTF-8",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/olga_ledneva",
+      "final_url": "https://mitexpo.ru/speakers/olga_ledneva",
+      "status_code": 404,
+      "checked_at": "2026-11-10T06:29:29.189546+00:00",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://mitexpo.ru/speakers/olga_ledneva",
+      "content_type": "text/html; charset=UTF-8",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/about/delovaya-programma/2026/",
+      "final_url": "https://mitexpo.ru/about/delovaya-programma/2026/",
+      "status_code": 404,
+      "checked_at": "2026-11-10T06:29:35.925644+00:00",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://mitexpo.ru/about/delovaya-programma/2026/",
+      "content_type": "text/html; charset=UTF-8",
+      "cache_used": true
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://mitexpo.ru/",
+      "final_url": "https://mitexpo.ru/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:05.076333+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "a82a532e1fe97fee13f488bcee0c829a5c373d3b4b2d672b475f48cecb43f640",
+      "snapshot": "data/portal/program_sources/4fd7493deac4962287a02e3196d74074936f6d2c5c6cc006ed551ee2eb0c4747.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/about/",
+      "final_url": "https://mitexpo.ru/about/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:05.437467+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "771c69d4f98af57cce8f8093116e83f1c4aae85413f7178d242b0b141e187f37",
+      "snapshot": "data/portal/program_sources/209ec2d64aeaed8b3c19e9925b7544b452ed517a68938f1e3769f504c7d4fb8c.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/about/venue/",
+      "final_url": "https://mitexpo.ru/about/venue/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:05.695626+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "0509a19853c37625b165db4817cdb186d12d91f7922d2edd220a66cce0d33dc6",
+      "snapshot": "data/portal/program_sources/aeb1c1282d41cce2228f1de6fefc7888ba0f10a5d70f72c604ff15d17a66110d.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://catalog.mitexpo.ru/expositions/exposition/7054",
+      "final_url": "https://catalog.mitexpo.ru/expositions/exposition/7054",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:06.364896+00:00",
+      "error": null,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "521ae36bf62daecc4807cb91a04e03df466de3ca47f72f88e6b020652e413bbc",
+      "snapshot": "data/portal/program_sources/5bb28b1bb511e1d6d943f34ace5c8673d8edb3f3cc4918b9a6efa45489350ff5.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitex-park.ru",
+      "final_url": "https://mitex-park.ru/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:07.024979+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "02910dc75acb73b7a2ba1cbdbb17fc9126042654f3b30bd1e0ee091cf85f838d",
+      "snapshot": "data/portal/program_sources/bb93501d3c98a43e7d51646b6421f52cb353a0a288194d4a885703d6ee78df8d.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/about/megapolis-expo/",
+      "final_url": "https://mitexpo.ru/about/megapolis-expo/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:07.383172+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e599fb59c1bce2a3f39a19015b1b212114da796f3527f89b180d8e8276194820",
+      "snapshot": "data/portal/program_sources/02440b8fb6f6ff27a76f32adb84d5dde4f7b393780561b3eba9d6f6144ed66e5.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/about/reviews/",
+      "final_url": "https://mitexpo.ru/about/reviews/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:07.669361+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "cab5ba4ed91154e7bd07f09a2ae795e1f5b82cb649bebf55d7baae3d74b4f035",
+      "snapshot": "data/portal/program_sources/3b9655df969798dbc6ca487495636ec698938392d97c0d3590dcb2dc47de5259.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/about/partners/",
+      "final_url": "https://mitexpo.ru/about/partners/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:07.939883+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "474b952d7e5ce385806950a621588709e4db53f9b2361c3cc347095bc7ae5928",
+      "snapshot": "data/portal/program_sources/8fe75135611ddc14074bf250fec666a103ac8b99264c3a3931768b7115464945.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/about/contacts/",
+      "final_url": "https://mitexpo.ru/about/contacts/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:08.283991+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1ae6ac505dd224650a6658da6b34dd3ac8fa061cf0fd0b4b8ba9280df7fdfbbf",
+      "snapshot": "data/portal/program_sources/bf544855007b629cf6785fb8145c2e405175bd72a7953d2e7b6b6e71e80c3d29.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/participation/",
+      "final_url": "https://mitexpo.ru/participation/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:08.578262+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1d282a7b147486ad13a01c0e5b2ebd5aca730b6221b04bb19c297c5d9fb0e37f",
+      "snapshot": "data/portal/program_sources/7aa25382cafef08d684a743b0f1f9b594ce225857a4751f7436d5be673f7aa52.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/participation/zayavka-na-uchastie/",
+      "final_url": "https://mitexpo.ru/participation/zayavka-na-uchastie/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:08.911151+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "50bb0e38468d00cd7acc25dc30b15298d5d9ce4191ca5e892661c758f8fa5f64",
+      "snapshot": "data/portal/program_sources/2c1f5e8ce97fd781e1fa2a58598560d8e72bdcb1be64dac0439e1fd52b9a8838.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/participation/documents/",
+      "final_url": "https://mitexpo.ru/participation/documents/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:09.196830+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "8509ff0e6df3075c15ebe83f04fb5586200c80d76dc3f1f458cd30578f8bd2cd",
+      "snapshot": "data/portal/program_sources/cdd06cf168e2b7780239551a70d344e4c1f6c26ee71fa71a6ffc3be38ffd63e6.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/participation/compensation/",
+      "final_url": "https://mitexpo.ru/participation/compensation/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:09.475599+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1075362cbad2e39a30e2214d4263e639b25538a2581d9923724275d1a37271a9",
+      "snapshot": "data/portal/program_sources/29d4b9b80cb678c1cb82a8fdf1be44a5dea3fd4bf04e36ea6d03513c910132cf.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/participation/guide/",
+      "final_url": "https://mitexpo.ru/participation/guide/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:10.107145+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "d1ce7b93bf408b81bd88d885dac293c4844f0850de269bf4a8ba36fc95b0c358",
+      "snapshot": "data/portal/program_sources/6aab43231e8233bff179440d958d8621bfeaf15978dd3d98b7cb7c983d13d191.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/visit/",
+      "final_url": "https://mitexpo.ru/visit/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:10.413155+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "866f919d87c4cfeba9d04577851bd57f06964094850fd55f53440ddbe3bdb688",
+      "snapshot": "data/portal/program_sources/9d2846802516019dbd98d27e15a7726bc72a0ff07f98ccb5e038e4cf28f31275.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/visit/ticket/",
+      "final_url": "https://mitexpo.ru/visit/ticket/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:10.696547+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "0cd2fa2765548d45741d68f0abdbe75978dc683741f8ce1cb01d7c66c7efecb7",
+      "snapshot": "data/portal/program_sources/ec22b032623e4807be03cb136a2a7faae9a691490a8e017c32f93d107cd3618e.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://catalog.mitexpo.ru/mitex-scheme.html",
+      "final_url": "https://catalog.mitexpo.ru/mitex-scheme.html",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:10.994598+00:00",
+      "error": null,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "159eb350cd548e732d8bef5f62ab94e7d8afb0d3ca322f3e044b1eb66f4664ce",
+      "snapshot": "data/portal/program_sources/e0cc4942b73eac5be1a819018e4c1c4519c3e1e5cd4f5f37b6fe4b590905ba13.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/",
+      "final_url": "https://mitexpo.ru/programme/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:11.228965+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e5e2e8b2f2710e0478a3086225a26a42fb03ce21cefdb41351b77ac3ab46412e",
+      "snapshot": "data/portal/program_sources/21690f29aa90ea6d6d03389237129a44c818dc9fc725c33a2362e9fe8d7df172.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/",
+      "final_url": "https://mitexpo.ru/speakers/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:11.511569+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ee91d8ce8031cf08f9915bd281473ddbb29095a7ddbdbaacca1d1fa19ddfd93a",
+      "snapshot": "data/portal/program_sources/6efc63c9867ea13ad84d9fc5ab8bdf72479c51925cae9a2a4e54c8e937478290.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/special/",
+      "final_url": "https://mitexpo.ru/programme/special/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:11.810109+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "436181da9b8e8a3bf5b0eb066f005b72df4fac9a25ff1e3c922a858ca2e56507",
+      "snapshot": "data/portal/program_sources/815bf96f97989664f1c20777d6ecff4b083fba36a90e170ae1ec69dfbb55e6e9.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitex-park.ru/program",
+      "final_url": "https://mitex-park.ru/program",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:12.094951+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "609ad18ef563dbbfd3e5c932258c201d898a3e2d75baf98a8602ead1d394ae31",
+      "snapshot": "data/portal/program_sources/a2778939645c0ae643bda82a9906ffa8c2c8438b544fa8602323dc456cbac994.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/press/news",
+      "final_url": "https://mitexpo.ru/press/news",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:12.377798+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "f204fa42da3d46f9adef90f65d38d0ff66196e070661872643b39d3cdff5444d",
+      "snapshot": "data/portal/program_sources/c597f579ee6ddd41a0313bab60464c6936fc4ae1801cabc7af3974a3284a7117.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/press/photo/",
+      "final_url": "https://mitexpo.ru/press/photo/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:12.737334+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "10c6591e5b65cc487e989de376e920f8916072f042987e9f01bf6da559dc4bfa",
+      "snapshot": "data/portal/program_sources/6c6d78b26bc34da528ee0b7e11fb19747c70d59ab1c02da1e9d47cca6497d480.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/press/press-releases/",
+      "final_url": "https://mitexpo.ru/press/press-releases/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:12.999042+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "3ac6587b6fe3429f9a9f4a7cc9a3325007df83afe0f4fc2457db8fa0591541b0",
+      "snapshot": "data/portal/program_sources/5b11708f456bcd951265639bd9996f6bf04aaffa99bc967de751d93e7df7c169.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://t.me/mitexpo",
+      "final_url": "https://t.me/mitexpo",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:14.014794+00:00",
+      "error": null,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2c7a96ebdd0b8e357565f33a3be7c5fdf3c095848486309a7482cf866ac728b6",
+      "snapshot": "data/portal/program_sources/6b3208b8dd60b09ad0a6a0d0b772c9f901ddac3b2cb1d3069f53eba667552166.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://vk.ru/mitexpo",
+      "final_url": "https://vk.ru/mitexpo",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:14.729368+00:00",
+      "error": null,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a4066322afbcc962a549e7996d4c0391552c3e2cd051a3383c91756b13e94546",
+      "snapshot": "data/portal/program_sources/f29b1ea59af3f2fe94d58e29ed377c7cc5272d21e511f0c6557840ec45170f80.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://rutube.ru/channel/36307772/",
+      "final_url": "https://rutube.ru/channel/36307772/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:15.869993+00:00",
+      "error": null,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e082cdf6b020c45df9ce8699663c599585c72001c52a50a05c1e3c73e54ee877",
+      "snapshot": "data/portal/program_sources/fb8929f183792bd44ff1f841aede4a89c07bfa870d41cbb9334cdfd152146706.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Policy/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf",
+      "final_url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Policy/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:29:13.431094+00:00",
+      "error": null,
+      "content_type": "application/pdf",
+      "status": "non_html_link_checked"
+    },
+    {
+      "url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Policy/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf",
+      "final_url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Policy/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D0%B5%20%D0%BD%D0%B0%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:29:13.643497+00:00",
+      "error": null,
+      "content_type": "application/pdf",
+      "status": "non_html_link_checked"
+    },
+    {
+      "url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Mitex26_guide.pdf",
+      "final_url": "https://72746558-c7f6-4829-877e-e1c4d6939657.selstorage.ru/MITEX%202026/Mitex26_guide.pdf",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:29:14.103912+00:00",
+      "error": null,
+      "content_type": "application/pdf",
+      "status": "non_html_link_checked"
+    },
+    {
+      "url": "https://mitexpo.ru/page361627309.html/",
+      "final_url": "https://mitexpo.ru/page361627309.html/",
+      "status_code": 404,
+      "checked_at": "2026-11-10T06:29:20.143978+00:00",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://mitexpo.ru/page361627309.html/",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://mitexpo.ru/participation/stand/",
+      "final_url": "https://mitexpo.ru/participation/stand/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:23.407275+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "73c5a62ac1fc10e1e5af602a079a369137ed2476818ee222c20d3e0d0a151eaa",
+      "snapshot": "data/portal/program_sources/ea868442b70c25692c393d8a7ee3d90c882c4e6d840f9c5043fb886f8db1c2b6.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/12/",
+      "final_url": "https://mitexpo.ru/programme/12/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:23.906373+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "0028c0f5eb26daae0d501f19ec44ad5b5023b1b737d1ac9f53df1b643c5e8da0",
+      "snapshot": "data/portal/program_sources/80967fd2b5a5866b5e38f1505685a7981541f952a63651e4faa3c52798604466.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/13/",
+      "final_url": "https://mitexpo.ru/programme/13/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:24.147694+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "d9c70b9a9038f8f0ae85ea9aad98f01039f41f1bd5c4e5145a997a01f77809e1",
+      "snapshot": "data/portal/program_sources/9fab768ad03ddc58cce6c9342a3864d87bdcf2d08e0d91ad5b833291a7365045.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/14/",
+      "final_url": "https://mitexpo.ru/programme/14/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:24.390667+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "b14855f0a9adb3d94a9ecb2ab54e2d5e7109438bd3772e4440679f211d31e312",
+      "snapshot": "data/portal/program_sources/6f7c09730295d5ce557669ca04bdb78c91b1719059fc35532335fb75aaa7dcd5.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/21/",
+      "final_url": "https://mitexpo.ru/programme/21/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:24.650630+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "14f489fde6c48aca467cb9b81a0e3fe675524b0ed19c0ead01cc0dbf3aac22df",
+      "snapshot": "data/portal/program_sources/8f2d9fa741e89dd29ba47810c1d7f4c5a9ad983686b287ea3808518fcccbdbef.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/22/",
+      "final_url": "https://mitexpo.ru/programme/22/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:24.900319+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e8e81345807274728aa96ddf8f93eb05ab86c3828637a46bfcce87719fbdf9ea",
+      "snapshot": "data/portal/program_sources/249fb504726ce5b8eb2361b5212e4d9a78164620b0d3af5b84174c9bebfda655.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/23/",
+      "final_url": "https://mitexpo.ru/programme/23/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:25.259845+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "16a17f982820464e0b1d1b805be066bd39684dcbfadd4f7fbec460719d8a7509",
+      "snapshot": "data/portal/program_sources/6d36248184bb5ddc14e90451c7a52feb13ad104e9163d399e4debce73dfd9456.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/24/",
+      "final_url": "https://mitexpo.ru/programme/24/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:25.515034+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "97aabdd072e713b6fece3a3a06ae2fa622809829c1039f22934c7d9c9c5a4ebc",
+      "snapshot": "data/portal/program_sources/8ffcd14737f1b051b95b9274a24d0d7f6668ee3f7a793c94148e95beb136306c.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/31/",
+      "final_url": "https://mitexpo.ru/programme/31/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:25.762350+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "2aefe8326eb1c22883412520659656b91b7578a42ba439b7d616fd93a804ac5c",
+      "snapshot": "data/portal/program_sources/ba9ffe5ba159ab1a65a0171f51440a41c834b341dffc28c59891c7669277bad2.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/32/",
+      "final_url": "https://mitexpo.ru/programme/32/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:26.038175+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "88a8a379bd095473871e175971c98b2da6419daf1753a7db5489b61400a7d9fc",
+      "snapshot": "data/portal/program_sources/0753ddace059f8cb096d08f310d7295db740b2e8184cd257086432d8655139f4.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/33/",
+      "final_url": "https://mitexpo.ru/programme/33/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:26.280731+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "9ee944042589636f659ba9eb5f69603fde7ad532ceca20e5eef32de6f1d41bac",
+      "snapshot": "data/portal/program_sources/036336ba125f600a4be8ee70648e864d0f556e5e7385ecbc5220d8aba0349d9b.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/34/",
+      "final_url": "https://mitexpo.ru/programme/34/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:26.525018+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "9cdcf398ab7ec5841147378173f1229e5ea7b7248e99949ef55c46ffb50ced6c",
+      "snapshot": "data/portal/program_sources/1e7d2400415024e2d44ecab4735177bf78f442903a345de02158101f77e8a378.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/programme/41/",
+      "final_url": "https://mitexpo.ru/programme/41/",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:26.774414+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "44bb947dc771b6bf13896d975732190297d9bd3edfca2dd4922a2e8546ce5327",
+      "snapshot": "data/portal/program_sources/cb0f39a058fcbd463a369edf28d98780429d78202e085b2d6b68eafcdda2ee3a.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/anton_bardanov",
+      "final_url": "https://mitexpo.ru/anton_bardanov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:27.197701+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "99c1eeeffb159f833f223772be52f1b426ad168a4b0132056981930fcf1aa4d4",
+      "snapshot": "data/portal/program_sources/704c5e0f11fc64c39df1213af78082e1cf690ab81e74bfc182cb24923efc0cbf.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexey_larin",
+      "final_url": "https://mitexpo.ru/speakers/alexey_larin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:27.490391+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "36f7394c0c973b829337c8ddf06c149ffbc0add649eaf874f1d8c2dac316d78c",
+      "snapshot": "data/portal/program_sources/6481725e996b01c41d938ee00a7bb37d33b044418147a5c74a407c7e0cecb799.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/evgeniy_liskin",
+      "final_url": "https://mitexpo.ru/speakers/evgeniy_liskin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:27.821386+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ad12f53737a93dc6d51cee04f4b31f19be6be6607a505fe9e3f21c8fddf320e1",
+      "snapshot": "data/portal/program_sources/82747099c4f01aaf1b3ad48d0c28b8adaa0e4ed00b86034a520ab088ae8214fa.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alyona_melnik",
+      "final_url": "https://mitexpo.ru/speakers/alyona_melnik",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:28.081814+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "cd39efc2088cc9992ae53217aa8d694b5d47debfec66f00656952790c898aec2",
+      "snapshot": "data/portal/program_sources/26c26671ab4b143c0dc47569bdb97e5753d847d8ffb5ead20c5805987b7bbb71.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/elena_melnik",
+      "final_url": "https://mitexpo.ru/speakers/elena_melnik",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:28.350348+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "26e7a5ff25d9122f73b3fec8c8baf32e757fcf992a7b0aeba3f12f8e4e266b93",
+      "snapshot": "data/portal/program_sources/b76eb3fa35e280aaddeffe296c0b9267388d4fba9d7f58c6dd96830018b8718a.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexey_mesnyankin",
+      "final_url": "https://mitexpo.ru/speakers/alexey_mesnyankin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:28.609694+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "338d87823c08e611e06f8c3fe678a747665d0ece0cbb49ca861c50f3dd2ac99b",
+      "snapshot": "data/portal/program_sources/bae63ced02b09c0a986f2c5d2fdc8dda3dc1def1419252d7efe291fcd2b20b8b.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/kristina_orlova",
+      "final_url": "https://mitexpo.ru/speakers/kristina_orlova",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:28.998902+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "a07f99f2d7fc0efe4cb997da2d3aeb2082affb45e79dbc6fd3580dcabcf01dde",
+      "snapshot": "data/portal/program_sources/f85740e43cc4be27b4434db8f6f7f212944f09ff3b0dc7dec7e700b466c74ab2.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/gennady_popov",
+      "final_url": "https://mitexpo.ru/speakers/gennady_popov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:29.259726+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "4fdefdfccb7d6e0ed9357961901d91c09c48e407373ec464cc36a4ff10222257",
+      "snapshot": "data/portal/program_sources/d273ab3ecf8bcbde2ecc419330e222a612dbf668bae4eafcbf843fc03a3d0e1a.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexandr_rubin",
+      "final_url": "https://mitexpo.ru/speakers/alexandr_rubin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:29.506967+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "6ddd399fa15a5fc3cb99af123a14702aace013928a5c86c27fc8d5343cf78e10",
+      "snapshot": "data/portal/program_sources/25e7a8d6590a202f3af7d353717fd8b0675715bea81cd4156659870261afe6e1.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/ivan_alexeyev",
+      "final_url": "https://mitexpo.ru/speakers/ivan_alexeyev",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:29.755684+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ffc940bb4481d915c035ceb8c745ae01649999ac0e2cf8a6f169b63a724e0871",
+      "snapshot": "data/portal/program_sources/8995655a9c62150236e26f8f58a6a7ecf3fce39b5bea6e67229655698f3ae047.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/vladimir_arkhipov",
+      "final_url": "https://mitexpo.ru/speakers/vladimir_arkhipov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:30.009683+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "36ea8ae3da86d256bec1e1debdb807146abf3db5755a84fa1ccc547419e8e883",
+      "snapshot": "data/portal/program_sources/4a96679a9cc8ed507dce6742d69269d00f4eb977bac97ffb861927f40d39a3fa.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/eduard_baldakov",
+      "final_url": "https://mitexpo.ru/speakers/eduard_baldakov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:30.246658+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "0d8e361ba0e00d70ab82bfbaee5bbcf0cfbd9b3c49fc359d135758e396dc1121",
+      "snapshot": "data/portal/program_sources/a2c706eec8e076db420f862ad6cfb5bb9c43d5d910b4eeb00dd90ad23edf2c59.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/andrey_baranov",
+      "final_url": "https://mitexpo.ru/speakers/andrey_baranov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:30.489500+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "a577f736297003bbd041b785abb203172251a0a75e71a6286d22f0d89cfef082",
+      "snapshot": "data/portal/program_sources/00cb3e2d486f1cf96de97fe8d862b7df1b8bb98f5db1b73e28f69da26398450f.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/alexandr_bragin",
+      "final_url": "https://mitexpo.ru/alexandr_bragin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:30.737480+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "a758a289f7820d380fbb100bfaa5538160d93946120d8ebf339c3158d24e0acd",
+      "snapshot": "data/portal/program_sources/5d60227188df0403b09461e94d81b4710e629564bcfb484ccaba2da5cb9f1e74.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexandr_bryuzgin",
+      "final_url": "https://mitexpo.ru/speakers/alexandr_bryuzgin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:30.985128+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "acb079feb1c2de12afab2f27578e2f7ceaa2ba9c8be18b4e90d6427f52300b3b",
+      "snapshot": "data/portal/program_sources/af0f1f65db3dc8bb727cac542328e84427c4f030236c16d47555dbcc458dbad6.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/anastasia_valova",
+      "final_url": "https://mitexpo.ru/speakers/anastasia_valova",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:31.239217+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "47f5723442255212990ed07a7940990a89364daa2b52812913c2f41fc0e0c6ca",
+      "snapshot": "data/portal/program_sources/4aed549ded46cd1db90fad2e4dd9b87a7f1faf199cbd577d413ed4d166013ab6.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/anton_vasiliev",
+      "final_url": "https://mitexpo.ru/speakers/anton_vasiliev",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:31.480553+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "399ba090dfdbab0cc518e5f9b69de05f9b986fd561e2859bb50ff7bc45327390",
+      "snapshot": "data/portal/program_sources/d63e5ccf9ae6f817e28c6a81ccca9aaee9acd863651009c282db6616e6107988.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/mikhail_vasiliev",
+      "final_url": "https://mitexpo.ru/speakers/mikhail_vasiliev",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:31.716926+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "77921c91a5ba6dd2b8bd23754534a9434be7745723725180382c2fdb669b771d",
+      "snapshot": "data/portal/program_sources/ae5e02800ced0b2d8adf32dae8b8630dcc0d831b5a3f41e23d2cb99044ec89e2.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/yulia_vasiltsun",
+      "final_url": "https://mitexpo.ru/speakers/yulia_vasiltsun",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:31.968377+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "b147ddfd553f780ff2d2604a8ca3b3bde48da1a4991a00be1e7ffdaace9106b5",
+      "snapshot": "data/portal/program_sources/10bb356c7c18c15e43f3f3378136faf62b21c9f1be6f2922d34302510a12a0d6.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/vladislav_gavryushenko",
+      "final_url": "https://mitexpo.ru/speakers/vladislav_gavryushenko",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:32.237986+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "2bb8ca53c1d0e8581c0ae627ebaf30dfc2d6b3fa53b0aa335af007f6d8644dc3",
+      "snapshot": "data/portal/program_sources/c079e3093c414562bd58f7e2a3f946f3e12d4dae05a5e54f780c382762ff8035.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/ivan_gnatyuk",
+      "final_url": "https://mitexpo.ru/speakers/ivan_gnatyuk",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:32.481525+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "5ea4c519c6754baf83768b8f902d4fd762da84747531d8c42ec938988317159e",
+      "snapshot": "data/portal/program_sources/c3de765fce8085fa41258802b99da0ed4354d3ab3e16416c5b8afc7ce521381c.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/stanislav_gogolev",
+      "final_url": "https://mitexpo.ru/speakers/stanislav_gogolev",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:32.741122+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "152fff9de56d7b01edb8219524dc8049564ff92dd0e34e436a4c1985cb8a102d",
+      "snapshot": "data/portal/program_sources/e1e86ceed01cc5f0dfe10e0d24837112f79c8baca2feff7e63e475f60d0a8aca.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexandr_goncharov",
+      "final_url": "https://mitexpo.ru/speakers/alexandr_goncharov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:33.168769+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "08fac720c93d013438645de10b1329ca72b0c1437e6586699378008b1fa7db58",
+      "snapshot": "data/portal/program_sources/2e8007ebcfc3d3cce02999b7c44555505c2b1d5c5f808d356cc6c24cb61171a0.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/david_davidadze",
+      "final_url": "https://mitexpo.ru/speakers/david_davidadze",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:33.411892+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "dc5e9ba8a88f8006fdf86d2abf95936b47fc5ff9445adb345f231c60bc970171",
+      "snapshot": "data/portal/program_sources/c6f6c04188b437040ba1c0b38b458bf3f14e6890ea989dc7ccc5ca5ec99c4295.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/daria_dubovskaya",
+      "final_url": "https://mitexpo.ru/speakers/daria_dubovskaya",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:33.651260+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "d04191456e9be9d43eae8be25678fb02884c83b2b9db1c1a6e16d5348ed7fa43",
+      "snapshot": "data/portal/program_sources/60c23803e499eb3f09e67abd8c2b5aae5b75f5d0f34add751fa7d44752e60396.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexandr_dolgorukov",
+      "final_url": "https://mitexpo.ru/speakers/alexandr_dolgorukov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:34.332171+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "fc18b668295ee18e3d304ab0b805c3313b16f643b1b40b640f38ba21f7689a06",
+      "snapshot": "data/portal/program_sources/5226634d50c16cccae3a1a11e8a334eafd57d0a2a8131edc40baacd8ea0715b5.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/denis_zamyslov",
+      "final_url": "https://mitexpo.ru/speakers/denis_zamyslov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:34.574702+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "001fe7d8bd06f5eb0edf1cc12e85a1c0fadc9104a48ff648514717077d1e5994",
+      "snapshot": "data/portal/program_sources/f9f97c95d3e36823a7855874d3fb84392d0f804d55d75442851f57e5bf14dd9e.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/andrey_zelenov",
+      "final_url": "https://mitexpo.ru/speakers/andrey_zelenov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:34.826703+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "8fb53acf83922775e6feb9c6ecf14682f929a2312c6881c86b8829b91b4cd2f8",
+      "snapshot": "data/portal/program_sources/5d5b38d2da6240aa8d6e1eda74b0417caae5754b3f344d159eab6a633a698834.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/andrey_zyabko",
+      "final_url": "https://mitexpo.ru/speakers/andrey_zyabko",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:35.157839+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "07904d7c29cb705cb4a75bbff67a48439c0600691cbd17f9f082a8e214b159e3",
+      "snapshot": "data/portal/program_sources/724e6e90115308bf42a0ecb4a86dcc945911785e1da2d45eaaf20797a6a7fd8e.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/varvara_ivanova",
+      "final_url": "https://mitexpo.ru/speakers/varvara_ivanova",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:35.441611+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "8f883b3a49335602541d51473762c2153c788fe8f4df7af2f750abac2cf6bb5d",
+      "snapshot": "data/portal/program_sources/661938ee657f9ee10747973f028b7242bf2c4173560f5267f768019c46d170a4.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/anrey_korinevsky",
+      "final_url": "https://mitexpo.ru/speakers/anrey_korinevsky",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:35.702338+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "3ecf995f36fd8816d94ffef2db1205057a8884bab3e326b97e830fb5dd12f2fe",
+      "snapshot": "data/portal/program_sources/ef140e05555d169be5656b502268dd79716e957957933ca9e5cbfb02e9681b0d.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/vladimir_korotkov",
+      "final_url": "https://mitexpo.ru/speakers/vladimir_korotkov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:35.959053+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "700f6018f77b3fc9c12567abcfb50d09202a06b386079c41f3572e0abcb892cb",
+      "snapshot": "data/portal/program_sources/59ef285b2e920ac6d7d143cc164fd7a0716105f0a23b65395fe0cec29e1b8a28.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/roman_kostikov",
+      "final_url": "https://mitexpo.ru/speakers/roman_kostikov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:36.276160+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "409d5cc529a72e509d647fd0368df6ad2421b2ed60dab009d79dffe6ebad0193",
+      "snapshot": "data/portal/program_sources/70058b7b9965595c0955de3c1b74221924340ca3ad7404d59cf0354dff1ab3f9.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexandr_krayushkin",
+      "final_url": "https://mitexpo.ru/speakers/alexandr_krayushkin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:36.530948+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "74ccf6dbc925d812572964ce0f68f4305a3f172eacd576e50961c25b42211bb8",
+      "snapshot": "data/portal/program_sources/5fc6f62be5f4871882822e7238ea5b5200049273e94bfcb17f8c6e6ac3e27a99.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/viktor_krylov",
+      "final_url": "https://mitexpo.ru/speakers/viktor_krylov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:36.803597+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e1ecc7cb776c12e64e5076b95e582ae20cad079a1380ac40258dba4d49e3196e",
+      "snapshot": "data/portal/program_sources/6845fab93335ab99c64c5d057948e1b476ddfa3fcc80c88bdc6bf8d15544486a.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/yuri_kuznetsov",
+      "final_url": "https://mitexpo.ru/speakers/yuri_kuznetsov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:37.057480+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "6e8a0156d873a1e619b00eac03745e3dd741d093bfdad7b800ebc480fd6f5a1b",
+      "snapshot": "data/portal/program_sources/c72875c7a3f1c7c27a2d33aadfc89ed4b554037709a88a1153654520b99fe19e.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/mikhaik_kuchuk",
+      "final_url": "https://mitexpo.ru/speakers/mikhaik_kuchuk",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:37.384960+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "fa6b36fad4fb0ad599e1346acedd1644662b116ad481355dc59847839e48c74a",
+      "snapshot": "data/portal/program_sources/acb441ae1e61e98fac1c7731b31420cbcb464571b148b476e13f295354d2b362.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/olga_ledeneva",
+      "final_url": "https://mitexpo.ru/speakers/olga_ledeneva",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:37.641157+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "3fc189c709a488a65870f8b7bd902dba1066a815f0ce6a7d8e1a350ee5879e8b",
+      "snapshot": "data/portal/program_sources/33d073bba73feef8357adfd89e22cdd3d919004ec9126744d91a782d54189cc4.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/olga_ledneva",
+      "final_url": "https://mitexpo.ru/speakers/olga_ledneva",
+      "status_code": 404,
+      "checked_at": "2026-11-10T06:29:29.189546+00:00",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://mitexpo.ru/speakers/olga_ledneva",
+      "content_type": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/konstantin_lezhnev",
+      "final_url": "https://mitexpo.ru/speakers/konstantin_lezhnev",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:43.124302+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "c6c4b40db5334955c1902f44e9bcc21de4f6d7e6d0c347ee0eba9f0942961aa6",
+      "snapshot": "data/portal/program_sources/3436989f728fa4a229c0fb691d85f6026023aaffcd9b0d4af6d1d0833f132a52.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexandr_markin",
+      "final_url": "https://mitexpo.ru/speakers/alexandr_markin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:43.363820+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "28bb9243697af87ff6ff112617c10bf0f8f6c29bc2ea7ae95223e1246b9377e1",
+      "snapshot": "data/portal/program_sources/b370b846c2091b6455494680e5a15a66bdb5d209b651aa7dfb9129cfbc2f7504.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/petr_martsinkovsky",
+      "final_url": "https://mitexpo.ru/speakers/petr_martsinkovsky",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:43.829878+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1a840bfee614b5eaca8612edff1ef6127b80ca7b3a3457012a346100cc848c82",
+      "snapshot": "data/portal/program_sources/f75f1eab1a836757c4b46dde4b103599013de9e4f64ba832b44371ff2f81aa44.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/kirill_merenkov",
+      "final_url": "https://mitexpo.ru/speakers/kirill_merenkov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:44.072588+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e326a720e8c84f60529f53895fbaabbc624b5e5514e4e74b7ee2e73cc8234bc5",
+      "snapshot": "data/portal/program_sources/f4651416456682bb354aae53426efa7f483e601813cc9d8c594c8bbf91fa314b.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/ekaterina_mityakina",
+      "final_url": "https://mitexpo.ru/speakers/ekaterina_mityakina",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:44.333226+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "7feb9509aa12595e7bd675e1574cb4a94dc999fdf29a5f4c9102940781165c4c",
+      "snapshot": "data/portal/program_sources/c8e3368a1e4a533294fdcde088aa5ff2cde8f67de102700257863ad5dfe96a51.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexey_mochalov",
+      "final_url": "https://mitexpo.ru/speakers/alexey_mochalov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:44.604854+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "d13dde169bddd2173f9de7ed1b864ea419c14e375839fbf2683f349ecfb02202",
+      "snapshot": "data/portal/program_sources/cc3bc0788b805ee14f604418f9d87af8946d13ff2a8b658aba5e97e8f489c041.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/mikhail_nazarenko",
+      "final_url": "https://mitexpo.ru/speakers/mikhail_nazarenko",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:44.859317+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "75fa098b74ce3ccb1cbcf490c884323634c611bce62afa0d82e7bd8c3a01a97c",
+      "snapshot": "data/portal/program_sources/b1d251e018c219fe79bfbb2ca9bde88ff8d35e8712254be5516a545ca51bb48a.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/sergey_nazarov",
+      "final_url": "https://mitexpo.ru/speakers/sergey_nazarov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:45.115452+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "beb38a52a18b920c8958177cd867e4039c3bf039d32a7fb4293848ac0323ba55",
+      "snapshot": "data/portal/program_sources/2e33260ceba91c8ac2bfd1e91d35e282c9b04409a27883648c0a48809902a4f6.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/sergey_nemkov",
+      "final_url": "https://mitexpo.ru/speakers/sergey_nemkov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:45.371430+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1865e3ad697cc7d78066e17807e04c551473a8f4de32706cce857183a002a81f",
+      "snapshot": "data/portal/program_sources/32f026291a4755fa1145d8ece2799b9ec816bf289a75fd2500740e6f439d1a4e.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/andrey_pirozhenko",
+      "final_url": "https://mitexpo.ru/speakers/andrey_pirozhenko",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:45.631872+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "15bd2ff18d36343140852a100cbebd18a66cb15adce2228b878c9d9d3f544bb3",
+      "snapshot": "data/portal/program_sources/c25165756019987f8e619dd81deb2d4c370f3e9f321f278a542ad04c9396b287.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/andrey_plokhov",
+      "final_url": "https://mitexpo.ru/speakers/andrey_plokhov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:45.878784+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "eb61196b58dc0a212971601f2bfa3877b9737b5cf430f59e342a6601b61b91b7",
+      "snapshot": "data/portal/program_sources/2a03a10f3950a8b64a3e089bbc9d2830f7ce101c91c410637bfcd8f8d4dde622.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexandr_prudnikov",
+      "final_url": "https://mitexpo.ru/speakers/alexandr_prudnikov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:46.169179+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "5d51780b99c78ba1945308c6b5abd3d879efccb2fffadd0da36475862b270374",
+      "snapshot": "data/portal/program_sources/a0ae90e3322fdded0b412de10a571fbc062a44b4b2b4379bb451cdcad4d86744.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexey_rakhmanin",
+      "final_url": "https://mitexpo.ru/speakers/alexey_rakhmanin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:46.421251+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "b21cad1a20c1c4cb0e842763ad7508a48c3cae90bd427709a40ce3292396b4f6",
+      "snapshot": "data/portal/program_sources/9a4289972b0948403cb434dfe2e9444155da704e6d6840b2ac8b6610914e4d6c.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/rada_rozhitskaya",
+      "final_url": "https://mitexpo.ru/speakers/rada_rozhitskaya",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:46.663312+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "5c60af5b51ab1616cd82b00a60d8247dce2659fcd8a01949ce99152b319cf5a4",
+      "snapshot": "data/portal/program_sources/f8f0ce23a071b275af4c42c16a357bc627e79598463f0e5e42835eac484fcae7.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/mikhail_sverchkov",
+      "final_url": "https://mitexpo.ru/speakers/mikhail_sverchkov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:46.907781+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e949741ea3f4a54a384923b7c657de6eb201b1d5260e199b3a2bc82bea596af6",
+      "snapshot": "data/portal/program_sources/4d1a3dc635d1f0856ab6f460cdee33098c267aca86c3dba483e62a4739a7aff0.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/oleg_sokolov",
+      "final_url": "https://mitexpo.ru/speakers/oleg_sokolov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:47.162346+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "9a71e76d8a727cbd48ba6251d1b0a76bcd491ab0d79a5b215a8db9d0902c9cde",
+      "snapshot": "data/portal/program_sources/7c4df93c2a381abd5405f4ee6f85d7110ed3d5d4118eba627b02393c5a4d60a4.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/alexandr_soldatenko",
+      "final_url": "https://mitexpo.ru/speakers/alexandr_soldatenko",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:47.403336+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "2acf1155c38e1f410a117f86c6f6f785aae98c581d572ed91480f872b16f1291",
+      "snapshot": "data/portal/program_sources/c37b974299247c35d1df6c512d4741aa54bfd8c12100fd7e93e090465d0beb21.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/valeryi_sprygin",
+      "final_url": "https://mitexpo.ru/speakers/valeryi_sprygin",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:47.662415+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "c00e1577f7e772941ed52f82f0de83b5497a84f1f77b76322bc52649b62710dd",
+      "snapshot": "data/portal/program_sources/4923250f799df97567f0b90ed5a5f9db54967a20735ae863c3aed8db46d872ba.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/roman_temirov",
+      "final_url": "https://mitexpo.ru/speakers/roman_temirov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:47.916682+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "87a03a585b2ea4dfb608d8b10a950bafbc0aea86e5b2254174e49377bfd9f013",
+      "snapshot": "data/portal/program_sources/75a868d7fb3b3247ea40e4c42669cf0e8d7a1dcbecd3547a409fbdcdf02827c2.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/anatoly_tulaev",
+      "final_url": "https://mitexpo.ru/speakers/anatoly_tulaev",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:48.170137+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "fb0929cf57a0a12b80321097c0db0d0b41c3f7d6446693b2aaf5c4b2b3b2dfed",
+      "snapshot": "data/portal/program_sources/b194312bc0ef65b88902312064e7c46685f37907d318226e362833a16dae57a8.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/sergey_utyakov",
+      "final_url": "https://mitexpo.ru/speakers/sergey_utyakov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:48.421043+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "068dbf757c32310b832015633f21ce8eec21a6c7211c78e89d7a4ad70a85ffc1",
+      "snapshot": "data/portal/program_sources/0f380317377d74db801050bbc6119e0671e3a0528ba23a58d51cd68b8e100f17.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/anton_shibalov",
+      "final_url": "https://mitexpo.ru/speakers/anton_shibalov",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:48.669666+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "79efe5a30c594ecf16a16cef4618353625e2b9b1edc51f4c840f844b1607f791",
+      "snapshot": "data/portal/program_sources/7f1e7bc49a20fd4c7316f3af8cb05c0cf4310b8514d09d7d8b8b25c5ada28d82.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/svetlana_shulman",
+      "final_url": "https://mitexpo.ru/speakers/svetlana_shulman",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:48.933114+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "5e25ecad610357e8b4ac631b6737ff8639c6552bb8dcb7b546bd1d9782b5c92c",
+      "snapshot": "data/portal/program_sources/d0a5245988030a29720e8005b27c1a026539b7ea5820cb29bb3590b455b02c69.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/speakers/evgeniy_yakovlev",
+      "final_url": "https://mitexpo.ru/speakers/evgeniy_yakovlev",
+      "status_code": 200,
+      "checked_at": "2026-11-10T06:26:49.459185+00:00",
+      "error": null,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "8c43f47bb1e8cb485d14f332fe7ecc66169ee40f3831e026e9c59c24519b7ce6",
+      "snapshot": "data/portal/program_sources/08b5cc0aba96ecd7663b466407adc8e77d0aeb1fd0d1d992dcc525b7a635aad6.html",
+      "cache_used": true
+    },
+    {
+      "url": "https://mitexpo.ru/about/delovaya-programma/2026/",
+      "final_url": "https://mitexpo.ru/about/delovaya-programma/2026/",
+      "status_code": 404,
+      "checked_at": "2026-11-10T06:29:35.925644+00:00",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://mitexpo.ru/about/delovaya-programma/2026/",
+      "content_type": "text/html; charset=UTF-8"
+    }
+  ],
+  "limitations": [
+    "Полнота относится к опубликованным карточкам трёх разделов и всем четырём вкладкам дней, не к неопубликованным выступлениям.",
+    "В зоне профмастерства сохранены цельные дневные анонсы со всеми строками занятий; точного расписания внутри блоков нет.",
+    "Ссылки на соцсети из старого среза сохранены как исторические с периодом 2026-10; точный день старой проверки неизвестен.",
+    "Контакты и соцсети из общего подвала не приписываются людям. Неоднозначные должности и имена в официальных источниках сохранены как расхождения.",
+    "Профили без связанного события остаются в people.json; связь по одному лишь сходству темы не создавалась.",
+    "Наличие нового анонса не подтверждает, что мероприятие состоялось. Отсутствие старой сессии не доказывает отмену."
+  ],
+  "validation": "passed: unique IDs, four dates, required fields, clock order, bidirectional event/person links",
+  "untimed_announcements": {
+    "count": 21,
+    "event_ids": [
+      "skills-2026-11-10-li_title__4628161772310",
+      "skills-2026-11-10-li_title__4628161772311",
+      "skills-2026-11-10-li_title__4628161772312",
+      "skills-2026-11-10-li_title__1793707549676",
+      "skills-2026-11-10-li_title__1793707572521",
+      "skills-2026-11-10-li_title__1793707632629",
+      "skills-2026-11-11-li_title__8154415298010",
+      "skills-2026-11-11-li_title__8154415298011",
+      "skills-2026-11-11-li_title__8154415298012",
+      "skills-2026-11-11-li_title__8154415298013",
+      "skills-2026-11-11-li_title__8154415298014",
+      "skills-2026-11-11-li_title__8154415298015",
+      "skills-2026-11-12-li_title__6454418578010",
+      "skills-2026-11-12-li_title__6454418578011",
+      "skills-2026-11-12-li_title__6454418578012",
+      "skills-2026-11-12-li_title__6454418578013",
+      "skills-2026-11-12-li_title__6454418578014",
+      "skills-2026-11-13-li_title__2854419231010",
+      "skills-2026-11-13-li_title__2854419231011",
+      "skills-2026-11-13-li_title__2854419231012",
+      "skills-2026-11-13-li_title__2854419231013"
+    ],
+    "label": "Дневной анонс без времени",
+    "note": "Все 21 записи — опубликованные программы сообществ на конкретный день. start/end=null. Время не назначалось, отдельные доклады не выдумывались."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "checked_at": "2026-11-10T06:35:25.176618+00:00",
+  "posts": 642,
+  "analysed": 642,
+  "model": "internal agent / Luna",
+  "giveaways": 0,
+  "without_draw_time": 0,
+  "without_stand": 0,
+  "classifications": {
+    "other": 583,
+    "giveaway": 11,
+    "discount": 14,
+    "gift_for_visit": 6,
+    "prize_contest": 7,
+    "unclear": 21
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "finished_at": "2026-11-10T06:43:32.898452+00:00",
+  "source_url": "https://catalog.mitexpo.ru/expositions/exposition/7054",
+  "catalog_discovered": 745,
+  "pagination_verified": true,
+  "pagination_pages": 95,
+  "cards_collected": 745,
+  "detail_errors": 0,
+  "media_errors": 33,
+  "media_by_type": {
+    "logo": 745,
+    "document": 93,
+    "video": 26,
+    "image": 1200,
+    "embed": 4,
+    "document_link": 2
+  },
+  "download_statuses": {
+    "saved": 1236,
+    "saved_locally_external_link": 764,
+    "original_link": 31,
+    "unavailable": 33,
+    "large_external_link": 6
+  },
+  "materials_tabs_collected": 53,
+  "materials_tabs_pending": 0,
+  "material_nodes_collected": 425,
+  "news_tabs_collected": 15,
+  "news_tabs_pending": 0,
+  "participants_with_logo": 745,
+  "participants_with_individual_logo": 225,
+  "screenshots_status": "managed_by_separate_worker",
+  "all_available_attachments_collected": false,
+  "aggregate_status": "stable",
+  "network_pass_stopped": false,
+  "notes": [
+    "Main 745 cards unchanged; only pending dynamic tabs and attachments were resumed.",
+    "Unavailable URLs are terminal with dated errors; large assets stay external links, not unavailable.",
+    "Completed large/local-only files have preserved_local_path outside docs. No part files in docs.",
+    "Video remains an original source link. Screenshot workflow is separate. Historical contacts remain dated."
+  ],
+  "pending_resume_started_at": "2026-11-10T06:38:24.180432+00:00",
+  "materials_tabs_unavailable": 0,
+  "news_tabs_unavailable": 1,
+  "news_items_collected": 23,
+  "pending_media": 0,
+  "pending_tabs": 0,
+  "all_pending_attempted": true,
+  "docs_bytes": 199979529,
+  "local_attachments_bytes": 1701211715,
+  "hosting_policy": {
+    "target_docs_bytes": 200000000,
+    "max_docs_bytes": 500000000,
+    "per_hosted_file_bytes": 15000000,
+    "transfer_cap_bytes": 30000000
+  },
+  "screenshots_saved": 745,
+  "screenshots_pending": 0,
+  "screenshots_source_warnings_report": "artifacts/source-screenshots-report.txt"
+}
