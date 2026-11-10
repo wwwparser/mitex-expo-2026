@@ -1,0 +1,45 @@
+{
+  "screens": [
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "scrollHeight": 5569,
+      "broken": 0
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "scrollHeight": 13591,
+      "broken": 0
+    }
+  ],
+  "checks": [
+    {
+      "width": 1440,
+      "all": 14,
+      "it": 1,
+      "platforms": 3,
+      "empty_search": true,
+      "oneplat_sources": 2
+    },
+    {
+      "width": 1440,
+      "home_entry": true,
+      "participant_backlink": true
+    },
+    {
+      "width": 390,
+      "all": 14,
+      "it": 1,
+      "platforms": 3,
+      "empty_search": true,
+      "oneplat_sources": 2
+    },
+    {
+      "width": 390,
+      "home_entry": true,
+      "participant_backlink": true
+    }
+  ],
+  "errors": []
+}

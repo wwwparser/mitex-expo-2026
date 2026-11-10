@@ -1,0 +1,352 @@
+{
+  "checked_at": "2026-11-10T07:56:45.581947+00:00",
+  "scope": "MITEX 2026, exposition 7054",
+  "method": "Screening of the complete collected catalogue with editorial review of candidates and selected official websites. No claim that every external website was audited.",
+  "screened_participants": 745,
+  "selected_catalogue_records": 15,
+  "organizations": 14,
+  "categories": {
+    "it": "IT и автоматизация",
+    "platforms": "Цифровые платформы",
+    "marketing": "Маркетинг и продвижение",
+    "media": "Медиа и издательства",
+    "analytics": "Аналитика и исследования"
+  },
+  "items": [
+    {
+      "id": "benchmark",
+      "participant_ids": [
+        "171363"
+      ],
+      "categories": [
+        "marketing",
+        "media",
+        "platforms"
+      ],
+      "summary": "B2B-маркетинг для производителей инструмента: профессиональные издания, цифровые площадки и видеомаркетинг для выхода к зарубежным покупателям.",
+      "business_task": "Продвижение производителя и поиск профессиональной аудитории на международных рынках.",
+      "evidence": "professional media and international B2B marketing company",
+      "sources": [],
+      "name": "Benchmark Media",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171363-b2benchmark.html"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://www.b2benchmark.com"
+    },
+    {
+      "id": "hainago",
+      "participant_ids": [
+        "171864"
+      ],
+      "categories": [
+        "platforms"
+      ],
+      "summary": "B2B-маркетплейс закупок из Китая для селлеров и оптовых покупателей: корзина заказа, расчёт стоимости и сопровождение официальной поставки.",
+      "business_task": "Найти поставщика и организовать закупку через цифровую площадку.",
+      "evidence": "B2B-маркетплейс для селлеров и оптовых покупателей",
+      "sources": [
+        "https://hainago.ru/"
+      ],
+      "name": "Hainago",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171864-khajna-market-rus.html",
+        "https://hainago.ru/"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://hainago.ru"
+    },
+    {
+      "id": "retail",
+      "participant_ids": [
+        "171369"
+      ],
+      "categories": [
+        "media",
+        "analytics",
+        "marketing"
+      ],
+      "summary": "Отраслевой портал для ритейлеров и поставщиков: новости, аналитика, интервью и кейсы. На сайте есть раздел рекламы и специальные проекты.",
+      "business_task": "Следить за рынком розничной торговли и найти площадку для продвижения в профессиональной среде.",
+      "evidence": "публикует новости, аналитику и интервью",
+      "sources": [
+        "https://www.retail.ru/"
+      ],
+      "name": "Retail.ru",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171369-retail-ru.html",
+        "https://www.retail.ru/"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://www.retail.ru"
+    },
+    {
+      "id": "dvizhok",
+      "participant_ids": [
+        "171339"
+      ],
+      "categories": [
+        "media",
+        "analytics"
+      ],
+      "summary": "Автомобильный журнал и интернет-портал. Публикует материалы об автомобильном рынке, запчастях и инструменте, проводит сравнительные испытания продукции.",
+      "business_task": "Получить отраслевую информацию и познакомиться с редакцией, тестирующей автомобильные товары и инструмент.",
+      "evidence": "ежемесячный автомобильный журнал и интернет-портал",
+      "sources": [],
+      "name": "ДВИЖОК",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171339-dvizhok.html"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "http://www.dvizhok.su"
+    },
+    {
+      "id": "oneplat",
+      "participant_ids": [
+        "172227",
+        "100887"
+      ],
+      "categories": [
+        "analytics"
+      ],
+      "summary": "Аналитика инструментального рынка на основе продаж магазинов-партнёров. Второе направление — отраслевые конференции и деловые контакты поставщиков с торговыми компаниями.",
+      "business_task": "Оценивать динамику категорий и брендов по данным розницы, находить партнёров и клиентов.",
+      "evidence": "Продажи реальных магазинов — в основе отраслевой аналитики",
+      "sources": [
+        "https://reg.oneplat.net/about"
+      ],
+      "name": "ЕДИНАЯ ПЛАТФОРМА",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/172227-edinaya-platforma.html",
+        "https://catalog.mitexpo.ru/companies/company/100887-edinaya-platforma-prodavtsov-instrumenta-i-oborudovaniya.html",
+        "https://reg.oneplat.net/about"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://reg.oneplat.net/about"
+    },
+    {
+      "id": "ivd",
+      "participant_ids": [
+        "171366"
+      ],
+      "categories": [
+        "media",
+        "marketing"
+      ],
+      "summary": "Журнал и сайт о дизайне интерьеров и ремонте. На сайте есть материалы для читателей, контакты и раздел рекламного сотрудничества.",
+      "business_task": "Найти тематическую редакцию и рекламную площадку для аудитории ремонта и обустройства дома.",
+      "evidence": "Журнал \"Идеи вашего дома\"",
+      "sources": [
+        "https://www.ivd.ru/"
+      ],
+      "website_override": "https://www.ivd.ru/",
+      "source_note": "В карточке MITEX нет описания и сайта; назначение издания уточнено по сайту с совпадающим названием.",
+      "name": "Журнал \"Идеи вашего дома\"",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171366-zhurnal-idei-vashego-doma.html",
+        "https://www.ivd.ru/"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://www.ivd.ru/"
+    },
+    {
+      "id": "metal-expo",
+      "participant_ids": [
+        "171342"
+      ],
+      "categories": [
+        "media"
+      ],
+      "summary": "Специализированный журнал о металлургии и машиностроении. Информационная площадка для промышленных предприятий и профессиональной аудитории отрасли.",
+      "business_task": "Найти отраслевое издание для знакомства с рынком и связи с редакцией.",
+      "evidence": "специализированный журнал посвященный металлургии и машиностроению",
+      "sources": [],
+      "name": "Журнал МЕТАЛЛ ЭКСПО",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171342-zhurnal-metall-ekspo.html"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://prompages.ru"
+    },
+    {
+      "id": "fastinfo",
+      "participant_ids": [
+        "171330"
+      ],
+      "categories": [
+        "media"
+      ],
+      "summary": "Журнал-справочник о крепеже, клеях и инструменте: материалы о выборе продукции, монтажных технологиях и отраслевых мероприятиях.",
+      "business_task": "Получить профессиональную информацию о крепеже и найти профильную редакцию.",
+      "evidence": "Журнал-справочник «Крепёж, клеи, инструмент и...»",
+      "sources": [],
+      "name": "Крепёж, клеи, инструмент и…",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171330-krepjozh-klei-instrument-i.html"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "http://www.fastinfo.ru"
+    },
+    {
+      "id": "master-forum",
+      "participant_ids": [
+        "171327"
+      ],
+      "categories": [
+        "media",
+        "analytics"
+      ],
+      "summary": "Журнал «Потребитель» и портал Master-Forum.ru. Редакция проводит независимые полевые и лабораторные испытания инструмента и оборудования, публикует обзоры и архив изданий.",
+      "business_task": "Обсудить испытания продукции, изучить сравнительные обзоры и связаться с профильной редакцией.",
+      "evidence": "редакция «Потребитель» проводит не только «полевые» испытания, но и профессиональные лабораторные тесты",
+      "sources": [],
+      "name": "ПОТРЕБИТЕЛЬ МАСТЕР-ФОРУМ",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171327-potrebitel-master-forum.html"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "http://www.master-forum.ru"
+    },
+    {
+      "id": "cok",
+      "participant_ids": [
+        "171336"
+      ],
+      "categories": [
+        "media"
+      ],
+      "summary": "Научно-технический журнал и портал об инженерных системах зданий: сантехника, отопление, вентиляция, кондиционирование и BIM-проектирование.",
+      "business_task": "Найти профессиональную информацию и тематическую редакцию для аудитории проектировщиков и монтажников.",
+      "evidence": "независимое издание, ежемесячный научно-технический журнал",
+      "sources": [],
+      "name": "С.О.К.",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171336-s-o-k.html"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://www.c-o-k.ru"
+    },
+    {
+      "id": "stroygaz",
+      "participant_ids": [
+        "171345"
+      ],
+      "categories": [
+        "media",
+        "marketing"
+      ],
+      "summary": "Отраслевое издание о строительстве и недвижимости. На официальном сайте публикуются новости и указаны контакты по рекламе и подписке.",
+      "business_task": "Связаться с редакцией и рекламной службой строительного издания.",
+      "evidence": "СТРОИТЕЛЬНАЯ ГАЗЕТА",
+      "sources": [
+        "https://stroygaz.ru/"
+      ],
+      "website_override": "https://stroygaz.ru/",
+      "source_note": "В каталоге отсутствует описание; направление издания уточнено по его официальному сайту.",
+      "name": "СТРОИТЕЛЬНАЯ ГАЗЕТА",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171345-stroitelnaya-gazeta.html",
+        "https://stroygaz.ru/"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://stroygaz.ru/"
+    },
+    {
+      "id": "smart-logistics",
+      "participant_ids": [
+        "172929"
+      ],
+      "categories": [
+        "it",
+        "platforms"
+      ],
+      "summary": "Цифровая платформа импортной логистики: расчёт полной стоимости и таможенных платежей, варианты доставки, трекинг и личный кабинет. Участник также заявляет AI-ассистента.",
+      "business_task": "Автоматизировать расчёт импорта и получать данные о поставке в одном интерфейсе.",
+      "evidence": "российская логистическая компания и собственная цифровая платформа",
+      "sources": [
+        "https://in-smart-logistics.ru/"
+      ],
+      "source_note": "Включена за конкретную цифровую платформу, а не за логистические услуги сами по себе. Возможности приведены по заявлениям участника; продукт не тестировался.",
+      "name": "ИН СМАРТ ЛОДЖИСТИКС, ООО",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/172929-in-smart-lodzhistiks-ooo.html",
+        "https://in-smart-logistics.ru/"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://in-smart-logistics.ru"
+    },
+    {
+      "id": "kolesa",
+      "participant_ids": [
+        "171357"
+      ],
+      "categories": [
+        "media"
+      ],
+      "summary": "Автомобильное интернет-издание Kolesa.ru: новости, тест-драйвы, статьи и материалы о выборе и обслуживании автомобилей.",
+      "business_task": "Найти автомобильную редакцию и информационную площадку для профессиональной и потребительской аудитории.",
+      "evidence": "Колеса.ру",
+      "sources": [
+        "https://www.kolesa.ru/"
+      ],
+      "website_override": "https://www.kolesa.ru/",
+      "source_note": "В карточке MITEX указано только название. Описание относится к одноимённому автомобильному изданию Kolesa.ru, а не магазину шин «Колесо.ру».",
+      "name": "Колеса.ру",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171357-kolesa-ru.html",
+        "https://www.kolesa.ru/"
+      ],
+      "checked_at": "2026-11-10T07:56:45.580379+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://www.kolesa.ru/"
+    },
+    {
+      "id": "dvizhenie",
+      "participant_ids": [
+        "171348"
+      ],
+      "categories": [
+        "media",
+        "analytics"
+      ],
+      "summary": "Медиа о недвижимости «Движение.ру»: новости рынка, аналитические материалы, рейтинги и профессиональные проекты для участников отрасли.",
+      "business_task": "Следить за рынком недвижимости и найти отраслевую информационную площадку.",
+      "evidence": "Движение.ру",
+      "sources": [
+        "https://dvizhenie.ru/"
+      ],
+      "website_override": "https://dvizhenie.ru/",
+      "source_note": "Карточка выставки содержит только название; содержание медиа проверено по одноимённому сайту.",
+      "name": "Движение.ру",
+      "source_urls": [
+        "https://catalog.mitexpo.ru/companies/company/171348-dvizhenie-ru.html",
+        "https://dvizhenie.ru/"
+      ],
+      "checked_at": "2026-11-10T07:56:45.581947+00:00",
+      "verification": "catalogue_and_cited_sources",
+      "website": "https://dvizhenie.ru/"
+    }
+  ],
+  "needs_review": [
+    {
+      "participant_id": "171351",
+      "reason": "Указано только общее название «Медиа Групп», нет описания, сайта и контактов. Нельзя достоверно определить организацию и предлагаемые услуги."
+    },
+    {
+      "participant_id": "171333",
+      "reason": "В карточке «ТОЧКА ОПОРЫ» отсутствуют описание и контакты; одноимённых проектов несколько. Направление и принадлежность сайта не подтверждены."
+    }
+  ]
+}

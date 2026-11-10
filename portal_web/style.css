@@ -144,6 +144,8 @@ details[open].post-text summary{display:none}
 .embed-btn{display:block;margin:12px 0 0;font-size:13px}
 button.btn{border:0;font:700 16px 'PT Sans',sans-serif;cursor:pointer}
 .more{display:block;margin:24px auto}.empty{padding:24px;background:var(--surface);border-radius:12px}
+.service-title{font-size:21px;margin:8px 0 4px}.service-title a{color:var(--ink);text-decoration:none}.service-summary{font-size:16px;margin:6px 0}.service-task{font-size:15px;color:var(--muted);padding:12px 0;border-top:1px solid var(--line)}.service-evidence{margin:8px 0}.service-card-links{margin-top:10px}.services-grid .pc-body{gap:6px}
+@media(min-width:721px){.top-in{flex-wrap:wrap;padding-top:8px;padding-bottom:8px}.top-in nav{flex:1;justify-content:flex-end}.brand small{display:none}nav a{padding:6px 8px}}
 .preserve{white-space:pre-line;overflow-wrap:anywhere}.contact-links{gap:8px;margin:14px 0}
 details.card{margin:8px 0}summary{cursor:pointer;color:var(--accent);padding:8px 0}
 .timeline h3{font-size:18px}.timeline time small{display:block;font-size:11px;font-weight:400}

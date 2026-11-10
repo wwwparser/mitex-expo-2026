@@ -267,6 +267,21 @@ def build(production=False):
     raw_participants = records(load('participants.json', 'exhibitors.json', [], production), 'participants', 'exhibitors', 'items')
     participants = [participant(p) for p in raw_participants if p.get('id') is not None]
     participants.sort(key=lambda x: x['name'].casefold())
+    service_catalog=load('service_catalog.json',default={})
+    service_items=[]
+    participant_lookup={p['id']:p for p in participants}
+    for group in service_catalog.get('items',[]):
+        members=[participant_lookup[i] for i in group['participant_ids'] if i in participant_lookup]
+        if not members:
+            continue
+        group=dict(group)
+        group['members']=members
+        group['primary']=members[0]
+        service_items.append(group)
+        for p in members:
+            p['service_group']=group['id']
+    service_priority={'it':0,'platforms':1,'analytics':2,'marketing':3,'media':4}
+    service_items.sort(key=lambda group:min(service_priority.get(k,9) for k in group['categories']))
     program = load('program.json', 'program.json', {}, production)
     events = records(program, 'events', 'items')
     people = records(load('people.json', 'people.json', [], production), 'people', 'items')
@@ -321,13 +336,14 @@ def build(production=False):
     env = Environment(loader=FileSystemLoader(ROOT / 'portal_web'), autoescape=select_autoescape(['html', 'xml']))
     env.filters.update(date_text=date_text, excerpt=excerpt, text=string, url=safe_url, asset=asset, seq=seq)
     env.globals.update(strings=strings, isinstance=isinstance, dict=dict, list=list)
-    nav = [('catalog.html', 'Участники'), ('program.html', 'Программа'), ('people.html', 'Спикеры'), ('feed.html', 'Лента'), ('giveaways.html', 'Розыгрыши'), ('videos.html', 'Видео')]
+    nav = [('catalog.html', 'Участники'), ('services.html','IT и услуги'), ('program.html', 'Программа'), ('people.html', 'Спикеры'), ('feed.html', 'Лента'), ('giveaways.html', 'Розыгрыши'), ('videos.html', 'Видео')]
     pmap = {string(p.get('id')): p for p in participants}
     person_map = {string(p.get('id')): p for p in people}
     common = dict(meta=meta, participants=participants, people=people, events=events, posts=posts, giveaways=giveaways,
                   nav=nav, built_at=date_text(NOW.isoformat()), base=BASE, fallbacks=FALLBACKS,
                   coverage=coverage, analyzed_count=len(analysis), channel_count=len({string(p.get('channel_url') or p.get('channel')) for p in posts}),
-                  participant_map=pmap, person_map=person_map, videos=videos)
+                  participant_map=pmap, person_map=person_map, videos=videos,
+                  service_catalog=service_catalog,service_items=service_items)
     generated = []
 
     def render(path, template, title, description, active='', **context):
@@ -350,6 +366,8 @@ def build(production=False):
     render('index.html', 'index.html', 'MITEX 2026 — участники, программа и навигатор выставки', 'Независимый портал MITEX 2026: каталог участников со стендами и контактами, программа по дням, спикеры, Telegram и розыгрыши.')
     render('catalog.html', 'catalog.html', 'Участники MITEX 2026 — каталог, стенды и контакты', 'Найдите участника MITEX 2026 по названию, стенду или описанию. Фильтры по стране, рубрике и залу; все контакты и материалы компаний.',
            countries=sorted({p['country'] for p in participants if p['country']}), categories=sorted({c for p in participants for c in p['categories']}), halls=sorted({h for p in participants for h in p['halls']}))
+    render('services.html','services.html','IT, маркетинг и медиа на MITEX 2026 — каталог услуг',
+           'Цифровые платформы, автоматизация, маркетинг, отраслевые медиа и аналитика среди участников MITEX: услуги, контакты, стенды и подтверждающие источники.')
     for p in participants:
         render(p['page'], 'participant.html', p['name'] + ' — MITEX 2026', excerpt(p['about'], 30) or f"Стенды, контакты и материалы участника {p['name']} на MITEX 2026.", 'catalog.html',
                item=p, item_posts=[post for post in posts if p['id'] in post['participant_ids']], item_giveaways=[g for g in giveaways if p['id'] in g['participant_ids']])
@@ -373,6 +391,13 @@ def build(production=False):
         shutil.copyfile(ROOT / 'portal_web' / name, assets / name)
     exports = OUT / 'exports'
     exports.mkdir(exist_ok=True)
+    (exports/'services.json').write_text(json.dumps({k:v for k,v in service_catalog.items()},ensure_ascii=False,indent=2),encoding='utf-8')
+    with (exports/'services.csv').open('w',encoding='utf-8-sig',newline='') as handle:
+        writer=csv.writer(handle)
+        writer.writerow(['Название','Направления','Услуги','Задача клиента','Стенды','Сайт','Карточки MITEX','Источники'])
+        for service in service_items:
+            writer.writerow([service['name'],', '.join(service_catalog['categories'][k] for k in service['categories']),service['summary'],service['business_task'],
+                ', '.join(s for p in service['members'] for s in p['stands']),service.get('website',''),', '.join(service['participant_ids']),', '.join(service['source_urls'])])
     # Participant exports do not include Telegram post bodies or analysis evidence.
     (exports / 'participants.json').write_text(json.dumps(raw_participants, ensure_ascii=False, indent=2), encoding='utf-8')
     with (exports / 'participants.csv').open('w', encoding='utf-8-sig', newline='') as handle:
