@@ -18,5 +18,7 @@ data/portal/telegram_posts.json
 data/portal/telegram_posts.jsonl
 data/portal/analysis_input_*.json
 data/portal/analysis_additional.json
+data/portal/refresh_input_*.json
+data/portal/refresh_pending.json
 data/attachments/
 docs/**/*.part

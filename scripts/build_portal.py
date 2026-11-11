@@ -257,6 +257,16 @@ def giveaway(item):
     if not state and re.match(r'^\d{4}-\d{2}-\d{2}', g['when']) and g['when'][:10] < NOW.date().isoformat():
         g['status_view'] = 'Прошёл по дате; итоги не подтверждены'
     g['inactive'] = state in ('cancelled', 'canceled', 'completed', 'past', 'ended')
+    if not g['inactive'] and g['when']:
+        try:
+            when=datetime.fromisoformat(g['when'])
+            if when.tzinfo is None:when=when.replace(tzinfo=ZoneInfo('Europe/Moscow'))
+            past=when<NOW if 'T' in g['when'] else when.date()<NOW.date()
+            if past:
+                g['inactive']=True
+                g['status_view']='Прошёл по расписанию; итоги не проверены'
+        except ValueError:
+            pass
     return g
 
 
@@ -311,7 +321,7 @@ def build(production=False):
     related = {string(pid) for g in giveaways for pid in g['source_post_ids']}
     for row in analysis:
         label = string(row.get('classification')).lower()
-        if row.get('events') or any(w in label for w in ('giveaway', 'contest', 'розыгрыш', 'конкурс')):
+        if row.get('events') or label in ('gift_for_visit','discount') or any(w in label for w in ('giveaway', 'contest', 'розыгрыш', 'конкурс')):
             related.add(string(row.get('post_id')))
     announcements = [p for p in posts if string(p.get('id')) in related or p['url'] in {url for g in giveaways for url in g['source_urls']}]
     analysis_by_id={string(a.get('post_id')):a for a in analysis}
@@ -346,7 +356,7 @@ def build(production=False):
                   nav=nav, built_at=date_text(NOW.isoformat()), base=BASE, fallbacks=FALLBACKS,
                   coverage=coverage, analyzed_count=len(analysis), channel_count=len({string(p.get('channel_url') or p.get('channel')) for p in posts}),
                   participant_map=pmap, person_map=person_map, videos=videos,
-                  service_catalog=service_catalog,service_items=service_items)
+                  service_catalog=service_catalog,service_items=service_items,analysis_coverage=load('analysis_coverage.json',default={}))
     generated = []
 
     def render(path, template, title, description, active='', **context):

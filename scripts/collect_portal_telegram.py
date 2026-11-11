@@ -1,9 +1,11 @@
 """Fresh public Telegram slices: 10 exhibitor / 5 speaker publications. No LLM API."""
 import concurrent.futures as cf
+import argparse
 import hashlib
 import json
 import re
 import sys
+import time
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
@@ -15,6 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'data/portal'
 RAW = ROOT / 'data/raw/portal-telegram'
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130.0 Safari/537.36'
+REFRESH = False
 
 
 def read(path, default):
@@ -42,6 +45,7 @@ def get(url):
         except requests.RequestException:
             if attempt == 2:
                 raise
+            time.sleep(1.5*(attempt+1))
     raise RuntimeError(url)
 
 
@@ -82,7 +86,7 @@ def main():
     def work(ch):
         checkpoint = OUT/'telegram_channels'/f"{ch['username'].lower()}.json"
         prior = read(checkpoint, {})
-        if prior.get('fetched_at', '').startswith(datetime.now(timezone.utc).date().isoformat()) and prior.get('status') == 'collected':
+        if not REFRESH and prior.get('fetched_at', '').startswith(datetime.now(timezone.utc).date().isoformat()) and prior.get('status') == 'collected':
             for k in ('participant_ids','people_ids','names','limit'):
                 prior[k] = ch[k]
             for p in prior['posts']:
@@ -123,11 +127,17 @@ def main():
                 if len(found) >= ch['limit'] or not ids or min(ids) == before:
                     break
                 before = min(ids)
+                time.sleep(0.4)
             posts = sorted(found.values(), key=lambda p:int(p['id'].split('/')[-1]), reverse=True)[:ch['limit']]
             result['posts'] = posts
             result['status'] = 'collected' if posts else 'no_public_posts'
         except Exception as exc:
             result['error'] = str(exc)
+            if prior.get('posts'):
+                result['posts'] = prior['posts']
+                result['status'] = 'stale_cached'
+                result['attempted_at'] = result['fetched_at']
+                result['fetched_at'] = prior['fetched_at']
         save(checkpoint, result)
         return result
 
@@ -153,4 +163,15 @@ def main():
 
 
 if __name__ == '__main__':
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--refresh',action='store_true',help='Fetch current previews instead of historical HTTP cache')
+    args=parser.parse_args()
+    REFRESH=args.refresh
+    if REFRESH:
+        RAW=RAW/datetime.now(timezone.utc).strftime('%Y%m%dT%H%M%SZ')
+        RAW.mkdir(parents=True,exist_ok=True)
+        for name in ('telegram_posts.json','post_analysis.jsonl','giveaways.json','telegram_coverage.json'):
+            path=OUT/name
+            if path.exists():
+                (RAW/name).write_bytes(path.read_bytes())
     main()

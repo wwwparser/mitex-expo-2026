@@ -1,0 +1,9 @@
+<article class="card giveaway-card"><p class="kicker">{{ g.status_view }}</p><h3>{{ g.title }}</h3>
+<p><b>{{ g.when|date_text if g.when else 'Дата уточняется' }}</b>{% if g.schedule_group=='date_only' %} · Время не указано{% endif %} · Стенд {{ g.stand or 'не указан' }}{% if g.hall %} · Зал {{ g.hall }}{% endif %}</p>
+{% if g.venue=='mixed' %}<p class="small muted">Участие онлайн; получение приза — на стенде.</p>{% endif %}
+{% if g.prizes %}<p><b>Призы:</b> {{ g.prizes|join(', ') }}</p>{% endif %}
+{% for c in g.conditions %}<p>{{ c }}</p>{% endfor %}
+{% if g.entry_deadline %}<p>Приём заявок до {{ g.entry_deadline|date_text }} (это не время розыгрыша).</p>{% endif %}
+{% if g.results_at %}<p>Объявление результатов: {{ g.results_at|date_text }}.</p>{% endif %}
+{% if g.review_status=='needs_review' %}<p class="warn">Часть условий требует уточнения у организатора.</p>{% endif %}
+<div class="links">{% for id in g.participant_ids if id in participant_map %}<a class="chip" href="{{ participant_map[id].page }}">{{ participant_map[id].name }}</a>{% if participant_map[id].has_scheme %}<a class="chip scheme-link" href="map.html?company={{ id }}">Найти на схеме →</a>{% endif %}{% endfor %}{% for url in g.source_urls %}<a class="chip" href="{{ url }}" target="_blank" rel="noopener">Исходное объявление ↗</a>{% endfor %}</div></article>
