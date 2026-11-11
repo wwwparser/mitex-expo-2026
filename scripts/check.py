@@ -5,6 +5,16 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 ROOT=Path(__file__).resolve().parents[1]
+scheme=json.loads((ROOT/'data/site/scheme.json').read_text(encoding='utf-8'))
+assert scheme['expo_id']==7054 and len(scheme['halls'])==4
+for company_id, shapes in scheme['companies'].items():
+    assert company_id.isdigit() and shapes
+    for shape in shapes:
+        assert shape['hall'] in scheme['halls'] and shape['d'].strip()
+for hall in scheme['halls'].values():
+    assert len(hall['viewBox'])==4 and all(n>0 for n in hall['viewBox'][2:])
+    assert (ROOT/'site'/hall['image']).is_file()
+assert (ROOT/'site/map.html').is_file() and (ROOT/'site/map.js').is_file()
 records=json.loads((ROOT/'data/site/exhibitors.json').read_text(encoding='utf-8'))
 meta=json.loads((ROOT/'data/site/meta.json').read_text(encoding='utf-8'))
 assert records and len(records)==meta['catalog_count']
