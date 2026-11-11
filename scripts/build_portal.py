@@ -267,6 +267,9 @@ def build(production=False):
     raw_participants = records(load('participants.json', 'exhibitors.json', [], production), 'participants', 'exhibitors', 'items')
     participants = [participant(p) for p in raw_participants if p.get('id') is not None]
     participants.sort(key=lambda x: x['name'].casefold())
+    scheme=read_json(ROOT/'data/site/scheme.json')
+    for p in participants:
+        p['has_scheme']=p['id'] in scheme['companies']
     service_catalog=load('service_catalog.json',default={})
     service_items=[]
     participant_lookup={p['id']:p for p in participants}
@@ -366,6 +369,7 @@ def build(production=False):
     render('index.html', 'index.html', 'MITEX 2026 — участники, программа и навигатор выставки', 'Независимый портал MITEX 2026: каталог участников со стендами и контактами, программа по дням, спикеры, Telegram и розыгрыши.')
     render('catalog.html', 'catalog.html', 'Участники MITEX 2026 — каталог, стенды и контакты', 'Найдите участника MITEX 2026 по названию, стенду или описанию. Фильтры по стране, рубрике и залу; все контакты и материалы компаний.',
            countries=sorted({p['country'] for p in participants if p['country']}), categories=sorted({c for p in participants for c in p['categories']}), halls=sorted({h for p in participants for h in p['halls']}))
+    render('map.html','map.html','Стенд участника — MITEX 2026','Размещение компании на официальном плане MITEX 2026.')
     render('services.html','services.html','IT, маркетинг и медиа на MITEX 2026 — каталог услуг',
            'Цифровые платформы, автоматизация, маркетинг, отраслевые медиа и аналитика среди участников MITEX: услуги, контакты, стенды и подтверждающие источники.')
     for p in participants:
@@ -389,6 +393,11 @@ def build(production=False):
     assets.mkdir(exist_ok=True)
     for name in ('style.css', 'portal.js'):
         shutil.copyfile(ROOT / 'portal_web' / name, assets / name)
+    shutil.copytree(ROOT/'web/assets/scheme',OUT/'assets/scheme',dirs_exist_ok=True)
+    shutil.copyfile(ROOT/'web/map.js',assets/'map.js')
+    (assets/'scheme-data.js').write_text('window.MITEX_SCHEME = '+json.dumps(scheme,ensure_ascii=False).replace('<','\\u003c')+';\n',encoding='utf-8')
+    map_companies=[{k:p[k] for k in ('id','name','stands','source_url')} for p in participants]
+    (assets/'map-companies.js').write_text('window.MITEX_DATA = '+json.dumps({'exhibitors':map_companies},ensure_ascii=False).replace('<','\\u003c')+';\n',encoding='utf-8')
     exports = OUT / 'exports'
     exports.mkdir(exist_ok=True)
     (exports/'services.json').write_text(json.dumps({k:v for k,v in service_catalog.items()},ensure_ascii=False,indent=2),encoding='utf-8')
