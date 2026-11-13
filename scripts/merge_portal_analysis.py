@@ -38,7 +38,9 @@ def main(refresh=False):
             analyses[pid]=record
     missing=set(posts)-set(analyses)
     if missing:raise ValueError(f'Missing analyses: {len(missing)} {sorted(missing)[:5]}')
-    events={}
+    # Keep documented events when their announcement leaves the latest-post slice.
+    previous=read('giveaways.json') if refresh and (DATA/'giveaways.json').exists() else []
+    events={e['id']:copy.deepcopy(e) for e in previous}
     for pid,a in analyses.items():
         for source_event in a.get('events',[]):
             ev=copy.deepcopy(source_event)
@@ -64,14 +66,19 @@ def main(refresh=False):
             ev['id']=ident
             if ident in events:
                 for field in ('source_urls','source_post_ids','conditions','prizes','evidence'):
-                    events[ident][field]=list(dict.fromkeys(events[ident][field]+ev[field]))
+                    events[ident][field]=list(dict.fromkeys(events[ident].get(field,[])+ev.get(field,[])))
                 for field,value in ev.items():
                     if not events[ident].get(field) and value is not None:
                         events[ident][field]=value
-                if ev.get('status') in ('completed','cancelled','canceled','past','ended'):
+                status_rank={'announced':0,'scheduled':0,'past':1,'ended':2,'completed':2,'cancelled':3,'canceled':3}
+                if ev.get('status') in status_rank and status_rank[ev['status']]>status_rank.get(events[ident].get('status'),-1):
                     events[ident]['status']=ev['status']
                 events[ident]['missing_fields']=[f for f in set(events[ident].get('missing_fields',[])+ev.get('missing_fields',[])) if not events[ident].get(f)]
             else:events[ident]=ev
+    overrides=read('giveaway_overrides.json') if (DATA/'giveaway_overrides.json').exists() else {}
+    for ident,fields in overrides.items():
+        if ident not in events:raise ValueError('Unknown giveaway override: '+ident)
+        events[ident].update(fields)
     save('giveaways.json',sorted(events.values(),key=lambda e:(e.get('date') or '9999',e.get('draw_at') or '',e['title'])))
     for pid,a in analyses.items():
         a['text_sha256']=hashlib.sha256(posts[pid].get('text','').encode()).hexdigest()

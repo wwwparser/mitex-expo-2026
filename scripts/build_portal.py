@@ -257,6 +257,8 @@ def giveaway(item):
     if not state and re.match(r'^\d{4}-\d{2}-\d{2}', g['when']) and g['when'][:10] < NOW.date().isoformat():
         g['status_view'] = 'Прошёл по дате; итоги не подтверждены'
     g['inactive'] = state in ('cancelled', 'canceled', 'completed', 'past', 'ended')
+    g['uncertain'] = state == 'needs_confirmation'
+    if g['uncertain']:g['status_view']='Требует подтверждения'
     if not g['inactive'] and g['when']:
         try:
             when=datetime.fromisoformat(g['when'])

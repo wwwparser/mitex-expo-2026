@@ -1,0 +1,18 @@
+{
+  "9198c9b26e541be8": {
+    "status": "completed",
+    "review_status": "verified",
+    "prizes": ["Отвёртка для точных работ Ermenrich Tunn PD20", "Лазерный уровень Ermenrich BASE LT10", "Лазерная рулетка Ermenrich Reel PLUS GK40"],
+    "conditions": ["Прийти на стенд ERMENRICH 8C803 и заполнить билет для участия."],
+    "note": "Условия уточнены в сообщении 697 от 12 ноября; сообщение 699 подтверждает публикацию итогов. 15:00 — время объявления победителей, точное время жеребьёвки не названо.",
+    "editor_checked_at": "2026-11-13"
+  },
+  "8859d86fceed5a28": {
+    "status": "needs_confirmation",
+    "review_status": "needs_review",
+    "note": "В анонсе 10 ноября розыгрыши были заявлены ежедневно до 13 ноября. Но в сообщении 12 ноября конкурс назван заключительным. Проведение 13 ноября в 14:00 требует подтверждения у PROFIPOWER; явного сообщения об отмене нет.",
+    "source_urls": ["https://t.me/Profipowers/1883", "https://t.me/Profipowers/1885"],
+    "source_post_ids": ["Profipowers/1883", "Profipowers/1885"],
+    "editor_checked_at": "2026-11-13"
+  }
+}

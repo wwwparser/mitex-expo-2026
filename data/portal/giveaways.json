@@ -29,8 +29,8 @@
       "Итоги розыгрыша подведем сегодня"
     ],
     "missing_fields": [
-      "draw_at",
-      "entry_deadline"
+      "entry_deadline",
+      "draw_at"
     ],
     "relevance": "current_expo",
     "review_status": "verified",
@@ -124,8 +124,8 @@
       "забрал свой приз на стенде"
     ],
     "missing_fields": [
-      "draw_at",
-      "entry_deadline"
+      "entry_deadline",
+      "draw_at"
     ],
     "source_post_ids": [
       "ermenrich_instrument/693",
@@ -241,28 +241,37 @@
     "kind": "giveaway",
     "venue": "booth",
     "prizes": [
-      "Прибор ERMENRICH — модель не указана"
+      "Отвёртка для точных работ Ermenrich Tunn PD20",
+      "Лазерный уровень Ermenrich BASE LT10",
+      "Лазерная рулетка Ermenrich Reel PLUS GK40"
     ],
     "date": "2026-11-12",
     "draw_at": null,
     "entry_deadline": null,
-    "results_at": null,
+    "results_at": "2026-11-12T15:00:00+03:00",
     "timezone": "Europe/Moscow",
     "date_text": "Всех желающих попытать удачу завтра",
     "stand": "8C803",
     "hall": "8",
     "conditions": [
-      "Приходите на стенд ERMENRICH; полные условия нового розыгрыша не опубликованы в этом сообщении."
+      "Прийти на стенд ERMENRICH 8C803 и заполнить билет для участия."
     ],
-    "status": "announced",
+    "status": "completed",
     "evidence": [
       "завтра",
-      "будет новый розыгрыш и шанс заполучить прибор от ERMENRICH"
+      "будет новый розыгрыш и шанс заполучить прибор от ERMENRICH",
+      "Результаты розыгрыша призов от ERMENRICH",
+      "Поздравляйтен победителей",
+      "1 место — отвертка для точных работ Ermenrich Tunn PD20",
+      "2 место — лазерный уровень Ermenrich BASE LT10",
+      "3 место — лазерная рулетка Ermenrich Reel PLUS GK40",
+      "Приходите на стенд Ermenrich, заполняйте билет и присоединяйтесь к розыгрышу!",
+      "Победителей лотереи обьявим сегодня в 15:00"
     ],
     "missing_fields": [
+      "specific_prizes",
       "draw_at",
       "entry_deadline",
-      "specific_prizes",
       "full_conditions"
     ],
     "relevance": "current_expo",
@@ -271,19 +280,29 @@
       "84446"
     ],
     "source_urls": [
-      "https://t.me/ermenrich_instrument/694"
+      "https://t.me/ermenrich_instrument/694",
+      "https://t.me/ermenrich_instrument/699",
+      "https://t.me/ermenrich_instrument/697"
     ],
     "source_post_ids": [
-      "ermenrich_instrument/694"
+      "ermenrich_instrument/694",
+      "ermenrich_instrument/699",
+      "ermenrich_instrument/697"
     ],
-    "id": "9198c9b26e541be8"
+    "id": "9198c9b26e541be8",
+    "note": "Условия уточнены в сообщении 697 от 12 ноября; сообщение 699 подтверждает публикацию итогов. 15:00 — время объявления победителей, точное время жеребьёвки не названо.",
+    "time_precision": "date",
+    "pavilion": "2",
+    "related_event_id": "9198c9b26e541be8",
+    "editor_checked_at": "2026-11-13"
   },
   {
     "title": "Ежедневный розыгрыш инструментов PROFIPOWER",
     "kind": "giveaway",
     "venue": "booth",
     "prizes": [
-      "Инструменты"
+      "Инструменты",
+      "Ценный приз — модель не указана"
     ],
     "date": "2026-11-12",
     "draw_at": "2026-11-12T14:00:00+03:00",
@@ -293,23 +312,28 @@
     "time_precision": "datetime",
     "date_text": "Каждый день с 10 по 13 ноября 2026 в 14:00",
     "stand": "8D1301",
-    "hall": null,
+    "hall": "8",
     "pavilion": "2",
     "conditions": [
       "Пообщаться с менеджером на стенде PROFIPOWER",
       "Заполнить анкету и оставить контакты или визитку",
       "Физически присутствовать на стенде в момент розыгрыша",
-      "Победитель определяется рандомайзером"
+      "Победитель определяется рандомайзером",
+      "Прийти на стенд PROFIPOWER"
     ],
     "attendance_required": true,
     "paid": null,
-    "status": "announced",
+    "status": "past",
     "evidence": [
       "Каждый день с 10 по 13 ноября 2026 в 14:00 будет проходить розыгрыш инструментов",
       "Победитель должен физически присутствовать на стенде PROFIPOWER на MITEX",
-      "Павильон 2, стенд 8D1301"
+      "Павильон 2, стенд 8D1301",
+      "MITEX - день 3",
+      "Заключительный конкурс - успей принять участие и получить ценный приз!",
+      "Стартуем в 14:00"
     ],
     "missing_fields": [
+      "full_conditions",
       "prize_models"
     ],
     "relevance": "current_expo",
@@ -318,12 +342,16 @@
       "84632"
     ],
     "source_urls": [
-      "https://t.me/Profipowers/1883"
+      "https://t.me/Profipowers/1883",
+      "https://t.me/Profipowers/1885"
     ],
     "source_post_ids": [
-      "Profipowers/1883"
+      "Profipowers/1883",
+      "Profipowers/1885"
     ],
-    "id": "378e4d825519f81b"
+    "id": "378e4d825519f81b",
+    "related_event_id": "378e4d825519f81b",
+    "note": "Повтор и уточнение события 12 ноября, не новая жеребьёвка. Название «заключительный» противоречит более раннему ежедневному плану 10–13 ноября. Проведение 13 ноября требует подтверждения; прямой отмены в посте нет. Полные условия есть в прежнем /1883, данный пост их не отменяет."
   },
   {
     "title": "Ежедневный розыгрыш инструментов PROFIPOWER",
@@ -350,7 +378,7 @@
     ],
     "attendance_required": true,
     "paid": null,
-    "status": "announced",
+    "status": "needs_confirmation",
     "evidence": [
       "Каждый день с 10 по 13 ноября 2026 в 14:00 будет проходить розыгрыш инструментов",
       "Победитель должен физически присутствовать на стенде PROFIPOWER на MITEX",
@@ -360,17 +388,21 @@
       "prize_models"
     ],
     "relevance": "current_expo",
-    "review_status": "verified",
+    "review_status": "needs_review",
     "participant_ids": [
       "84632"
     ],
     "source_urls": [
-      "https://t.me/Profipowers/1883"
+      "https://t.me/Profipowers/1883",
+      "https://t.me/Profipowers/1885"
     ],
     "source_post_ids": [
-      "Profipowers/1883"
+      "Profipowers/1883",
+      "Profipowers/1885"
     ],
-    "id": "8859d86fceed5a28"
+    "id": "8859d86fceed5a28",
+    "note": "В анонсе 10 ноября розыгрыши были заявлены ежедневно до 13 ноября. Но в сообщении 12 ноября конкурс назван заключительным. Проведение 13 ноября в 14:00 требует подтверждения у PROFIPOWER; явного сообщения об отмене нет.",
+    "editor_checked_at": "2026-11-13"
   },
   {
     "title": "Розыгрыш Hanskonner на MITEX 2026",
@@ -403,11 +435,13 @@
     "note": "Связано с соседним сообщением 1686 о победителе. Точная дата самого розыгрыша и полные условия в тексте не названы.",
     "source_urls": [
       "https://t.me/hanskonnerofficial/1685",
-      "https://t.me/hanskonnerofficial/1686"
+      "https://t.me/hanskonnerofficial/1686",
+      "https://t.me/hanskonnerofficial/1697"
     ],
     "source_post_ids": [
       "hanskonnerofficial/1685",
-      "hanskonnerofficial/1686"
+      "hanskonnerofficial/1686",
+      "hanskonnerofficial/1697"
     ],
     "relevance": "current_expo",
     "review_status": "needs_review",
@@ -416,6 +450,7 @@
     ],
     "stand_source_url": "https://catalog.mitexpo.ru/companies/company/118398-smarttulz-ooo.html",
     "stand_source_kind": "official_catalog",
-    "id": "7628ecb6e739220b"
+    "id": "7628ecb6e739220b",
+    "related_event_id": "7628ecb6e739220b"
   }
 ]

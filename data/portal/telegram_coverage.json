@@ -1,9 +1,23 @@
 {
-  "fetched_at": "2026-11-11T18:46:33.831280+00:00",
+  "fetched_at": "2026-11-13T05:45:07.287248+00:00",
   "channels": 67,
   "channels_with_posts": 66,
   "posts": 642,
   "results": [
+    {
+      "username": "carvilleru",
+      "participant_ids": [
+        "84380"
+      ],
+      "people_ids": [],
+      "names": [
+        "AIRLINE"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:53.804402+00:00",
+      "status": "collected",
+      "title": "CARVILLE News"
+    },
     {
       "username": "caimanrussia",
       "participant_ids": [
@@ -17,37 +31,9 @@
         "Александр Маркин"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:16.275271+00:00",
+      "fetched_at": "2026-11-13T05:44:53.804923+00:00",
       "status": "collected",
       "title": "CAIMAN"
-    },
-    {
-      "username": "carvilleru",
-      "participant_ids": [
-        "84380"
-      ],
-      "people_ids": [],
-      "names": [
-        "AIRLINE"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:16.274712+00:00",
-      "status": "collected",
-      "title": "CARVILLE News"
-    },
-    {
-      "username": "redbo_official",
-      "participant_ids": [
-        "84660"
-      ],
-      "people_ids": [],
-      "names": [
-        "Edon"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:16.275271+00:00",
-      "status": "collected",
-      "title": "Redbo Official"
     },
     {
       "username": "ermenrich_instrument",
@@ -59,7 +45,7 @@
         "ERMENRICH"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:16.275271+00:00",
+      "fetched_at": "2026-11-13T05:44:53.805453+00:00",
       "status": "collected",
       "title": "Ermenrich | Эрменрих. Измерительные инструменты"
     },
@@ -73,9 +59,23 @@
         "BIFACES / АКВАСАН"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:16.275271+00:00",
+      "fetched_at": "2026-11-13T05:44:53.804923+00:00",
       "status": "collected",
       "title": "BIFACES OFFICIAL"
+    },
+    {
+      "username": "redbo_official",
+      "participant_ids": [
+        "84660"
+      ],
+      "people_ids": [],
+      "names": [
+        "Edon"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:53.805979+00:00",
+      "status": "collected",
+      "title": "Redbo Official"
     },
     {
       "username": "sds_group_ru",
@@ -87,23 +87,9 @@
         "KRANZ"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:21.450335+00:00",
+      "fetched_at": "2026-11-13T05:44:54.873129+00:00",
       "status": "collected",
       "title": "SDS"
-    },
-    {
-      "username": "felisatti",
-      "participant_ids": [
-        "118428"
-      ],
-      "people_ids": [],
-      "names": [
-        "FELISATTI (ООО \"Фелисатти\")"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:16.275271+00:00",
-      "status": "collected",
-      "title": "FELISATTI"
     },
     {
       "username": "kranzru",
@@ -115,23 +101,9 @@
         "KRANZ"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:21.453854+00:00",
+      "fetched_at": "2026-11-13T05:44:54.875596+00:00",
       "status": "collected",
       "title": "KRANZ"
-    },
-    {
-      "username": "fengbao_rf",
-      "participant_ids": [
-        "158397"
-      ],
-      "people_ids": [],
-      "names": [
-        "FENGBAO | NOKK"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:21.265217+00:00",
-      "status": "collected",
-      "title": "Fengbaо Россия"
     },
     {
       "username": "hanskonnerofficial",
@@ -143,9 +115,23 @@
         "HANSKONNER"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:21.424132+00:00",
+      "fetched_at": "2026-11-13T05:44:54.868519+00:00",
       "status": "collected",
       "title": "Hanskonner Official"
+    },
+    {
+      "username": "fengbao_rf",
+      "participant_ids": [
+        "158397"
+      ],
+      "people_ids": [],
+      "names": [
+        "FENGBAO | NOKK"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:54.865609+00:00",
+      "status": "collected",
+      "title": "Fengbaо Россия"
     },
     {
       "username": "kolner_tools",
@@ -157,23 +143,37 @@
         "KOLNER"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:21.450335+00:00",
+      "fetched_at": "2026-11-13T05:44:54.869048+00:00",
       "status": "collected",
       "title": "KOLNER - Инструмент и оборудование"
     },
     {
-      "username": "powerac_ru",
+      "username": "felisatti",
       "participant_ids": [
-        "171615"
+        "118428"
       ],
       "people_ids": [],
       "names": [
-        "POWERAC"
+        "FELISATTI (ООО \"Фелисатти\")"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:22.541523+00:00",
+      "fetched_at": "2026-11-13T05:44:53.806571+00:00",
       "status": "collected",
-      "title": "Powerac"
+      "title": "FELISATTI"
+    },
+    {
+      "username": "rexant_company",
+      "participant_ids": [
+        "84354"
+      ],
+      "people_ids": [],
+      "names": [
+        "KRANZ"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:55.701131+00:00",
+      "status": "collected",
+      "title": "REXANT"
     },
     {
       "username": "krugo_gemda",
@@ -185,9 +185,51 @@
         "KRUGO Gemda Technology"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:22.514269+00:00",
+      "fetched_at": "2026-11-13T05:44:55.711106+00:00",
       "status": "collected",
       "title": "KRUGO | диски пильные, алмазные, абразивные"
+    },
+    {
+      "username": "powertexhepha",
+      "participant_ids": [
+        "163773"
+      ],
+      "people_ids": [],
+      "names": [
+        "POWERTEX"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:55.835583+00:00",
+      "status": "collected",
+      "title": "Powertex HEPHA- инструменты и станочная оснастка"
+    },
+    {
+      "username": "profipowers",
+      "participant_ids": [
+        "84632"
+      ],
+      "people_ids": [],
+      "names": [
+        "PROFIPOWER"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:55.838687+00:00",
+      "status": "collected",
+      "title": "PROFIPOWER"
+    },
+    {
+      "username": "powerac_ru",
+      "participant_ids": [
+        "171615"
+      ],
+      "people_ids": [],
+      "names": [
+        "POWERAC"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:55.771972+00:00",
+      "status": "collected",
+      "title": "Powerac"
     },
     {
       "username": "retail_ru",
@@ -199,7 +241,7 @@
         "Retail.ru"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:23.459978+00:00",
+      "fetched_at": "2026-11-13T05:44:56.591592+00:00",
       "status": "collected",
       "title": "Retail.ru - пишем о ритейле каждый день"
     },
@@ -213,51 +255,9 @@
         "RAGE"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:23.456524+00:00",
+      "fetched_at": "2026-11-13T05:44:56.474267+00:00",
       "status": "collected",
       "title": "Инструменты RAGE"
-    },
-    {
-      "username": "rexant_company",
-      "participant_ids": [
-        "84354"
-      ],
-      "people_ids": [],
-      "names": [
-        "KRANZ"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:22.292874+00:00",
-      "status": "collected",
-      "title": "REXANT"
-    },
-    {
-      "username": "profipowers",
-      "participant_ids": [
-        "84632"
-      ],
-      "people_ids": [],
-      "names": [
-        "PROFIPOWER"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:22.544814+00:00",
-      "status": "collected",
-      "title": "PROFIPOWER"
-    },
-    {
-      "username": "powertexhepha",
-      "participant_ids": [
-        "163773"
-      ],
-      "people_ids": [],
-      "names": [
-        "POWERTEX"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:22.541523+00:00",
-      "status": "collected",
-      "title": "Powertex HEPHA- инструменты и станочная оснастка"
     },
     {
       "username": "scslogistic",
@@ -269,37 +269,9 @@
         "SCS Logistic"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:24.127626+00:00",
+      "fetched_at": "2026-11-13T05:44:56.595698+00:00",
       "status": "collected",
       "title": "SCS | Кейсы. Логистика. Китай"
-    },
-    {
-      "username": "tehtoolsrussia",
-      "participant_ids": [
-        "118419"
-      ],
-      "people_ids": [],
-      "names": [
-        "TEH RUSSIA"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:24.353488+00:00",
-      "status": "collected",
-      "title": "TEH OFFICIAL"
-    },
-    {
-      "username": "lavr_avtohim",
-      "participant_ids": [
-        "154308"
-      ],
-      "people_ids": [],
-      "names": [
-        "LAVR"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:22.536843+00:00",
-      "status": "collected",
-      "title": "LAVR Автохимия и автокосметика"
     },
     {
       "username": "villartec",
@@ -311,23 +283,23 @@
         "VILLARTEC|DEVON"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:24.525670+00:00",
+      "fetched_at": "2026-11-13T05:44:56.861362+00:00",
       "status": "collected",
       "title": "VILLARTEC"
     },
     {
-      "username": "avroraind",
+      "username": "tehtoolsrussia",
       "participant_ids": [
-        "88236"
+        "118419"
       ],
       "people_ids": [],
       "names": [
-        "АВРОРА, ГК"
+        "TEH RUSSIA"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:24.616699+00:00",
+      "fetched_at": "2026-11-13T05:44:56.857756+00:00",
       "status": "collected",
-      "title": "АВРОРА Welding Lab"
+      "title": "TEH OFFICIAL"
     },
     {
       "username": "kulibin_mariupol",
@@ -339,9 +311,23 @@
         "АВРОРА, ГК"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:25.156436+00:00",
+      "fetched_at": "2026-11-13T05:44:57.464921+00:00",
       "status": "collected",
       "title": "Кулибин | Инструменты, электроинструмент, ручной инструмент, сварочное оборудование, генераторы, расходники в Мариуполе"
+    },
+    {
+      "username": "avroraind",
+      "participant_ids": [
+        "88236"
+      ],
+      "people_ids": [],
+      "names": [
+        "АВРОРА, ГК"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:57.354518+00:00",
+      "status": "collected",
+      "title": "АВРОРА Welding Lab"
     },
     {
       "username": "kulibin_weld",
@@ -353,23 +339,23 @@
         "АВРОРА, ГК"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:25.162043+00:00",
+      "fetched_at": "2026-11-13T05:44:57.763125+00:00",
       "status": "collected",
       "title": "Кулибин Сварка | Инструменты, электроинструмент, ручной инструмент, сварочное оборудование, расходники Симферополь"
     },
     {
-      "username": "oao_baz",
+      "username": "lavr_avtohim",
       "participant_ids": [
-        "86390"
+        "154308"
       ],
       "people_ids": [],
       "names": [
-        "Белгородский абразивный завод имени А.И. Сафонова, АО"
+        "LAVR"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:25.369205+00:00",
+      "fetched_at": "2026-11-13T05:44:55.737139+00:00",
       "status": "collected",
-      "title": "Белгородский абразивный завод имени А.И. Сафонова | БАЗ"
+      "title": "LAVR Автохимия и автокосметика"
     },
     {
       "username": "bohrer2025",
@@ -381,23 +367,9 @@
         "БОРЕР"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:25.490443+00:00",
+      "fetched_at": "2026-11-13T05:44:58.307181+00:00",
       "status": "collected",
       "title": "BOHRER"
-    },
-    {
-      "username": "instrument_tihoretsk",
-      "participant_ids": [
-        "88236"
-      ],
-      "people_ids": [],
-      "names": [
-        "АВРОРА, ГК"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:24.619822+00:00",
-      "status": "collected",
-      "title": "Магазин ИНСТРУМЕНТ"
     },
     {
       "username": "vertextools_moscow",
@@ -409,23 +381,9 @@
         "ВЕРТЕКС ИНСТРУМЕНТ, ООО"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:25.623330+00:00",
+      "fetched_at": "2026-11-13T05:44:58.423214+00:00",
       "status": "collected",
       "title": "VertexTools"
-    },
-    {
-      "username": "dvizhok_journal",
-      "participant_ids": [
-        "171339"
-      ],
-      "people_ids": [],
-      "names": [
-        "ДВИЖОК"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:26.025646+00:00",
-      "status": "collected",
-      "title": "Журнал Движок"
     },
     {
       "username": "vseinstrumentirudiy",
@@ -442,23 +400,37 @@
         "Олег Соколов"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:26.023109+00:00",
+      "fetched_at": "2026-11-13T05:44:58.687535+00:00",
       "status": "collected",
       "title": "ВсеИнструменты.ру"
     },
     {
-      "username": "jzy_russia",
+      "username": "dvizhok_journal",
       "participant_ids": [
-        "154287"
+        "171339"
       ],
       "people_ids": [],
       "names": [
-        "ДЗВ МЕХАНИКА"
+        "ДВИЖОК"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:26.175676+00:00",
+      "fetched_at": "2026-11-13T05:44:58.731183+00:00",
       "status": "collected",
-      "title": "ДЗВ Механика - электроинструмент JZY"
+      "title": "Журнал Движок"
+    },
+    {
+      "username": "instrument_tihoretsk",
+      "participant_ids": [
+        "88236"
+      ],
+      "people_ids": [],
+      "names": [
+        "АВРОРА, ГК"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:57.398125+00:00",
+      "status": "collected",
+      "title": "Магазин ИНСТРУМЕНТ"
     },
     {
       "username": "prompages",
@@ -470,9 +442,107 @@
         "Журнал МЕТАЛЛ ЭКСПО"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:26.482004+00:00",
+      "fetched_at": "2026-11-13T05:44:59.272084+00:00",
       "status": "collected",
       "title": "ПРОМЭКСПО"
+    },
+    {
+      "username": "jzy_russia",
+      "participant_ids": [
+        "154287"
+      ],
+      "people_ids": [],
+      "names": [
+        "ДЗВ МЕХАНИКА"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:59.142120+00:00",
+      "status": "collected",
+      "title": "ДЗВ Механика - электроинструмент JZY"
+    },
+    {
+      "username": "iek_group_rus",
+      "participant_ids": [
+        "154302"
+      ],
+      "people_ids": [],
+      "names": [
+        "ИЭК ХОЛДИНГ, ПАО"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:59.861089+00:00",
+      "status": "collected",
+      "title": "IEK"
+    },
+    {
+      "username": "praspanru",
+      "participant_ids": [
+        "160776"
+      ],
+      "people_ids": [],
+      "names": [
+        "Завод Модис"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:59.809726+00:00",
+      "status": "collected",
+      "title": "Промышленные полы REFLOOR/PRASPAN/LINOLIT"
+    },
+    {
+      "username": "oao_baz",
+      "participant_ids": [
+        "86390"
+      ],
+      "people_ids": [],
+      "names": [
+        "Белгородский абразивный завод имени А.И. Сафонова, АО"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:44:57.766176+00:00",
+      "status": "collected",
+      "title": "Белгородский абразивный завод имени А.И. Сафонова | БАЗ"
+    },
+    {
+      "username": "stroyshtuki",
+      "participant_ids": [
+        "154311"
+      ],
+      "people_ids": [],
+      "names": [
+        "ЛАДЬЯ ААМ"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:45:00.395127+00:00",
+      "status": "collected",
+      "title": "Стройштуки на связи!"
+    },
+    {
+      "username": "decor_namerenie",
+      "participant_ids": [
+        "84484"
+      ],
+      "people_ids": [],
+      "names": [
+        "НАМЕРЕНИЕ, ООО"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:45:01.099707+00:00",
+      "status": "collected",
+      "title": "DECORнутый клуб"
+    },
+    {
+      "username": "pittoolsrus",
+      "participant_ids": [
+        "84368"
+      ],
+      "people_ids": [],
+      "names": [
+        "ООО \"ТУРБО-ТУЛС\" (P.I.T. / MaxPiler)"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:45:01.155117+00:00",
+      "status": "collected",
+      "title": "Сообщество P.I.T."
     },
     {
       "username": "interskoltools",
@@ -489,79 +559,9 @@
         "Сергей Немков"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:26.486924+00:00",
+      "fetched_at": "2026-11-13T05:44:59.856858+00:00",
       "status": "collected",
       "title": "ИНТЕРСКОЛ - официальный канал"
-    },
-    {
-      "username": "praspanru",
-      "participant_ids": [
-        "160776"
-      ],
-      "people_ids": [],
-      "names": [
-        "Завод Модис"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:26.485379+00:00",
-      "status": "collected",
-      "title": "Промышленные полы REFLOOR/PRASPAN/LINOLIT"
-    },
-    {
-      "username": "iek_group_rus",
-      "participant_ids": [
-        "154302"
-      ],
-      "people_ids": [],
-      "names": [
-        "ИЭК ХОЛДИНГ, ПАО"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:26.728794+00:00",
-      "status": "collected",
-      "title": "IEK"
-    },
-    {
-      "username": "stroyshtuki",
-      "participant_ids": [
-        "154311"
-      ],
-      "people_ids": [],
-      "names": [
-        "ЛАДЬЯ ААМ"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:26.847150+00:00",
-      "status": "collected",
-      "title": "Стройштуки на связи!"
-    },
-    {
-      "username": "pittoolsrus",
-      "participant_ids": [
-        "84368"
-      ],
-      "people_ids": [],
-      "names": [
-        "ООО \"ТУРБО-ТУЛС\" (P.I.T. / MaxPiler)"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:27.497892+00:00",
-      "status": "collected",
-      "title": "Сообщество P.I.T."
-    },
-    {
-      "username": "decor_namerenie",
-      "participant_ids": [
-        "84484"
-      ],
-      "people_ids": [],
-      "names": [
-        "НАМЕРЕНИЕ, ООО"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:27.478335+00:00",
-      "status": "collected",
-      "title": "DECORнутый клуб"
     },
     {
       "username": "planticru",
@@ -576,7 +576,7 @@
         "Сергей Утяков"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:27.588916+00:00",
+      "fetched_at": "2026-11-13T05:45:01.472233+00:00",
       "status": "collected",
       "title": "PLANTIC садовые инструменты"
     },
@@ -590,37 +590,9 @@
         "ЛМ Компани"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:26.925849+00:00",
+      "fetched_at": "2026-11-13T05:45:00.398740+00:00",
       "status": "collected",
       "title": "maximum-tools.ru 🔨 Инструменты и хозтовары оптом 🚚 Прямые поставки из Китая 📦 Крупный и мелкий опт 💰"
-    },
-    {
-      "username": "homutru",
-      "participant_ids": [
-        "84434"
-      ],
-      "people_ids": [],
-      "names": [
-        "МИР ХОМУТОВ, ООО"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:27.493308+00:00",
-      "status": "collected",
-      "title": "Компания Мир Хомутов"
-    },
-    {
-      "username": "pzm_pushkino",
-      "participant_ids": [
-        "120261"
-      ],
-      "people_ids": [],
-      "names": [
-        "ПУШКИНСКИЙ ЗАВОД МЕТАЛЛОИЗДЕЛИЙ"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:28.511597+00:00",
-      "status": "collected",
-      "title": "Пушкинский завод металлоизделий"
     },
     {
       "username": "rvdgroupcompany",
@@ -632,23 +604,37 @@
         "РВД ГРУПП"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:28.513129+00:00",
+      "fetched_at": "2026-11-13T05:45:02.377926+00:00",
       "status": "collected",
       "title": "РВД станки и комплектующие от производителя RVD-GROUP"
     },
     {
-      "username": "protexplast",
+      "username": "pzm_pushkino",
       "participant_ids": [
-        "154323"
+        "120261"
       ],
       "people_ids": [],
       "names": [
-        "ПРОТЭКС"
+        "ПУШКИНСКИЙ ЗАВОД МЕТАЛЛОИЗДЕЛИЙ"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:28.260709+00:00",
+      "fetched_at": "2026-11-13T05:45:02.367373+00:00",
       "status": "collected",
-      "title": "Protex"
+      "title": "Пушкинский завод металлоизделий"
+    },
+    {
+      "username": "homutru",
+      "participant_ids": [
+        "84434"
+      ],
+      "people_ids": [],
+      "names": [
+        "МИР ХОМУТОВ, ООО"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:45:01.099198+00:00",
+      "status": "collected",
+      "title": "Компания Мир Хомутов"
     },
     {
       "username": "ridelit_russian",
@@ -660,23 +646,23 @@
         "РИДЕЛИТ/ ВОРДЛЮКС"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:28.790864+00:00",
+      "fetched_at": "2026-11-13T05:45:02.696062+00:00",
       "status": "collected",
       "title": "RIDELIT 41 км/Южные ворота"
     },
     {
-      "username": "fubag_official",
+      "username": "protexplast",
       "participant_ids": [
-        "84554"
+        "154323"
       ],
       "people_ids": [],
       "names": [
-        "ПРОММАШ, ООО"
+        "ПРОТЭКС"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:27.840029+00:00",
+      "fetched_at": "2026-11-13T05:45:02.100803+00:00",
       "status": "collected",
-      "title": "Fubag.ru"
+      "title": "Protex"
     },
     {
       "username": "professionalwelding61",
@@ -688,7 +674,7 @@
         "СВАРКОМПЛЕКТ, ООО"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:29.425457+00:00",
+      "fetched_at": "2026-11-13T05:45:03.199885+00:00",
       "status": "collected",
       "title": "\"Профессионал\" Сварочное оборудование и комплектующие 💥"
     },
@@ -702,9 +688,23 @@
         "СЕВЕРНОЕ СИЯНИЕ, ООО"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:29.425457+00:00",
+      "fetched_at": "2026-11-13T05:45:03.291425+00:00",
       "status": "collected",
       "title": "Товары для сада BESTILL |оптом|"
+    },
+    {
+      "username": "fubag_official",
+      "participant_ids": [
+        "84554"
+      ],
+      "people_ids": [],
+      "names": [
+        "ПРОММАШ, ООО"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:45:02.100803+00:00",
+      "status": "collected",
+      "title": "Fubag.ru"
     },
     {
       "username": "SinaLex_Chinalawyers",
@@ -716,7 +716,7 @@
         "СинаЛекс, ООО"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:29.471787+00:00",
+      "fetched_at": "2026-11-13T05:45:03.497517+00:00",
       "status": "collected",
       "title": "СинаЛекс"
     },
@@ -730,7 +730,7 @@
         "СТАВР"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:29.680127+00:00",
+      "fetched_at": "2026-11-13T05:45:03.725956+00:00",
       "status": "collected",
       "title": "STAVR инструмент 🛠️"
     },
@@ -744,7 +744,7 @@
         "СТОУН-СЕРВИС-НЕВА"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:29.760277+00:00",
+      "fetched_at": "2026-11-13T05:45:03.928463+00:00",
       "status": "collected",
       "title": "Стоун-Сервис-Нева"
     },
@@ -758,37 +758,9 @@
         "ТГ-ИНСТРУМЕНТ, ООО"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:30.332692+00:00",
+      "fetched_at": "2026-11-13T05:45:04.163313+00:00",
       "status": "no_public_posts",
       "title": "ТГ-ИНСТРУМЕНТ, ООО"
-    },
-    {
-      "username": "altecokz",
-      "participant_ids": [
-        "84568"
-      ],
-      "people_ids": [],
-      "names": [
-        "СЕВЕРНЫЙ АЛЬЯНС, ООО"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:29.428515+00:00",
-      "status": "collected",
-      "title": "ALTECO News"
-    },
-    {
-      "username": "stroygazeta",
-      "participant_ids": [
-        "171345"
-      ],
-      "people_ids": [],
-      "names": [
-        "СТРОИТЕЛЬНАЯ ГАЗЕТА"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:30.233999+00:00",
-      "status": "collected",
-      "title": "Строительная газета"
     },
     {
       "username": "td_avtograph",
@@ -800,7 +772,7 @@
         "Торговый Дом \"АВТОграф\", ООО"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:30.668032+00:00",
+      "fetched_at": "2026-11-13T05:45:04.616734+00:00",
       "status": "collected",
       "title": "ТД \"АВТОграф\": полезные видео и новости кузовного ремонта и полировки"
     },
@@ -814,9 +786,23 @@
         "ТРАКТОРНЫЙ ЗАВОД РУСИЧ"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:30.801801+00:00",
+      "fetched_at": "2026-11-13T05:45:04.620925+00:00",
       "status": "collected",
       "title": "Тракторный завод Русич"
+    },
+    {
+      "username": "altecokz",
+      "participant_ids": [
+        "84568"
+      ],
+      "people_ids": [],
+      "names": [
+        "СЕВЕРНЫЙ АЛЬЯНС, ООО"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:45:03.495933+00:00",
+      "status": "collected",
+      "title": "ALTECO News"
     },
     {
       "username": "trio_diamond_channel",
@@ -828,23 +814,9 @@
         "ТРИО ДИАМАНТ ЛТД, ООО"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:30.804863+00:00",
+      "fetched_at": "2026-11-13T05:45:04.910890+00:00",
       "status": "collected",
       "title": "TRIO DIAMOND | HILBERG | Алмазный инструмент"
-    },
-    {
-      "username": "armytekru",
-      "participant_ids": [
-        "154278"
-      ],
-      "people_ids": [],
-      "names": [
-        "Ширшов К.Е.  ИП"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:31.117987+00:00",
-      "status": "collected",
-      "title": "Armytek Россия 🔦"
     },
     {
       "username": "tssru",
@@ -861,9 +833,23 @@
         "Дарья Дубовская"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:30.960207+00:00",
+      "fetched_at": "2026-11-13T05:45:04.914791+00:00",
       "status": "collected",
       "title": "ТСС: дизель‑генераторы № 1 в России | TSS.RU"
+    },
+    {
+      "username": "armytekru",
+      "participant_ids": [
+        "154278"
+      ],
+      "people_ids": [],
+      "names": [
+        "Ширшов К.Е.  ИП"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:45:05.455420+00:00",
+      "status": "collected",
+      "title": "Armytek Россия 🔦"
     },
     {
       "username": "kvt_su",
@@ -875,9 +861,37 @@
         "Электротехнический завод «КВТ»"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:31.766198+00:00",
+      "fetched_at": "2026-11-13T05:45:05.459092+00:00",
       "status": "collected",
       "title": "Электротехнический завод КВТ"
+    },
+    {
+      "username": "stroygazeta",
+      "participant_ids": [
+        "171345"
+      ],
+      "people_ids": [],
+      "names": [
+        "СТРОИТЕЛЬНАЯ ГАЗЕТА"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:45:04.083931+00:00",
+      "status": "collected",
+      "title": "Строительная газета"
+    },
+    {
+      "username": "uralbenzoteh",
+      "participant_ids": [
+        "84608"
+      ],
+      "people_ids": [],
+      "names": [
+        "УРАЛБЕНЗОТЕХ, ООО"
+      ],
+      "limit": 10,
+      "fetched_at": "2026-11-13T05:45:05.420650+00:00",
+      "status": "collected",
+      "title": "FORZA Садовая техника"
     },
     {
       "username": "elitech_official",
@@ -900,37 +914,9 @@
         "Роман Костиков"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:31.770003+00:00",
+      "fetched_at": "2026-11-13T05:45:05.898978+00:00",
       "status": "collected",
       "title": "ELITECH"
-    },
-    {
-      "username": "sinoruss",
-      "participant_ids": [],
-      "people_ids": [
-        "anastasiya-valova-26"
-      ],
-      "names": [
-        "Анастасия Валова"
-      ],
-      "limit": 5,
-      "fetched_at": "2026-11-11T18:46:32.005894+00:00",
-      "status": "collected",
-      "title": "Sinoruss. Китай. Бизнес"
-    },
-    {
-      "username": "uralbenzoteh",
-      "participant_ids": [
-        "84608"
-      ],
-      "people_ids": [],
-      "names": [
-        "УРАЛБЕНЗОТЕХ, ООО"
-      ],
-      "limit": 10,
-      "fetched_at": "2026-11-11T18:46:31.105785+00:00",
-      "status": "collected",
-      "title": "FORZA Садовая техника"
     },
     {
       "username": "engelstool",
@@ -942,7 +928,7 @@
         "ЭНГЕЛЬС Электроинструменты"
       ],
       "limit": 10,
-      "fetched_at": "2026-11-11T18:46:31.835785+00:00",
+      "fetched_at": "2026-11-13T05:45:05.903097+00:00",
       "status": "collected",
       "title": "ЭНГЕЛЬС Электроинструмент"
     },
@@ -956,9 +942,23 @@
         "Алена Мельник"
       ],
       "limit": 5,
-      "fetched_at": "2026-11-11T18:46:31.915818+00:00",
+      "fetched_at": "2026-11-13T05:45:06.404766+00:00",
       "status": "collected",
       "title": "Алёна Мельник ®️ |Продавать, ПРОДАВАЯ"
+    },
+    {
+      "username": "sinoruss",
+      "participant_ids": [],
+      "people_ids": [
+        "anastasiya-valova-26"
+      ],
+      "names": [
+        "Анастасия Валова"
+      ],
+      "limit": 5,
+      "fetched_at": "2026-11-13T05:45:06.442393+00:00",
+      "status": "collected",
+      "title": "Sinoruss. Китай. Бизнес"
     },
     {
       "username": "liapchev",
@@ -970,7 +970,7 @@
         "Владимир Ляпчев"
       ],
       "limit": 5,
-      "fetched_at": "2026-11-11T18:46:32.892515+00:00",
+      "fetched_at": "2026-11-13T05:45:06.475586+00:00",
       "status": "collected",
       "title": "Liapchev_topiary"
     }
